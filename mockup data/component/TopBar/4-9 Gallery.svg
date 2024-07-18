@@ -1,0 +1,111 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="4-9 Gallery">
+<rect width="750" height="1334" fill="white"/>
+<g id="Group">
+<g id="Img">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M0 965V1334H750V965H0Z" fill="black"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="965" width="750" height="369">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 965V1334H750V965H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect id="Img_2" width="783" height="383" transform="matrix(-1 0 0 1 766.5 950.75)"/>
+</g>
+</g>
+<path id="Overlay" fill-rule="evenodd" clip-rule="evenodd" d="M0 1174V1334H750V1174H0Z" fill="url(#paint0_linear)"/>
+<g id="More">
+<g id="Shape">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M685.556 1292C687.761 1292 690 1289.76 690 1287.56C690 1284.24 687.761 1282 685.556 1282C682.239 1282 680 1284.24 680 1287.56C680 1289.76 682.239 1292 685.556 1292Z" fill="white"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M685.556 1274C687.761 1274 690 1271.76 690 1269.56C690 1266.24 687.761 1264 685.556 1264C682.239 1264 680 1266.24 680 1269.56C680 1271.76 682.239 1274 685.556 1274Z" fill="white"/>
+</g>
+</g>
+<text id="Date" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-weight="bold" letter-spacing="0px"><tspan x="60" y="1283.98">Tuesday, June 2</tspan></text>
+<text id="Title" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="60" y="1231.95">Summer Hike</tspan></text>
+</g>
+<g id="Group_2">
+<g id="Img_3">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M0 597V966H750V597H0Z" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="597" width="750" height="369">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M0 597V966H750V597H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect id="Img_4" width="783" height="783" transform="matrix(-1 0 0 1 766.5 390)"/>
+</g>
+</g>
+<path id="Overlay_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 806V966H750V806H0Z" fill="url(#paint1_linear)"/>
+<g id="More_2">
+<g id="Shape_2">
+<path id="Oval_3" fill-rule="evenodd" clip-rule="evenodd" d="M685.556 924C687.761 924 690 921.761 690 919.556C690 916.239 687.761 914 685.556 914C682.239 914 680 916.239 680 919.556C680 921.761 682.239 924 685.556 924Z" fill="white"/>
+<path id="Oval_4" fill-rule="evenodd" clip-rule="evenodd" d="M685.556 906C687.761 906 690 903.761 690 901.556C690 898.239 687.761 896 685.556 896C682.239 896 680 898.239 680 901.556C680 903.761 682.239 906 685.556 906Z" fill="white"/>
+</g>
+</g>
+<text id="Date_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-weight="bold" letter-spacing="0px"><tspan x="60" y="915.98">Wednesday, July 22</tspan></text>
+<text id="Title_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="60" y="863.95">Cooking</tspan></text>
+</g>
+<g id="Group_3">
+<g id="Img_5">
+<path id="Mask_5" fill-rule="evenodd" clip-rule="evenodd" d="M0 228V597H750V228H0Z" fill="black"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="228" width="750" height="369">
+<path id="Mask_6" fill-rule="evenodd" clip-rule="evenodd" d="M0 228V597H750V228H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<rect id="Img_6" width="783" height="399" transform="matrix(-1 0 0 1 765.806 210)"/>
+</g>
+</g>
+<path id="Overlay_3" fill-rule="evenodd" clip-rule="evenodd" d="M0 437V597H750V437H0Z" fill="url(#paint2_linear)"/>
+<g id="More_3">
+<g id="Shape_3">
+<path id="Oval_5" fill-rule="evenodd" clip-rule="evenodd" d="M685.556 555C687.761 555 690 552.761 690 550.556C690 547.239 687.761 545 685.556 545C682.239 545 680 547.239 680 550.556C680 552.761 682.239 555 685.556 555Z" fill="white"/>
+<path id="Oval_6" fill-rule="evenodd" clip-rule="evenodd" d="M685.556 537C687.761 537 690 534.761 690 532.556C690 529.239 687.761 527 685.556 527C682.239 527 680 529.239 680 532.556C680 534.761 682.239 537 685.556 537Z" fill="white"/>
+</g>
+</g>
+<text id="Date_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-weight="bold" letter-spacing="0px"><tspan x="60" y="546.98">Friday, August 28</tspan></text>
+<text id="Title_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="60" y="494.95">Road trip</tspan></text>
+</g>
+<g id="Nav">
+<path id="Bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V228H750V0H0Z" fill="black"/>
+<g id="Group_4">
+<rect id="Active" x="574" y="194" width="92" height="2" fill="#FDBBB6"/>
+<g id="ALBUMS">
+<text fill="#FDBBB6" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="572" y="182.315">ALBUM</tspan></text>
+<text fill="#FDBBB6" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="0px"><tspan x="655.326" y="182.315">S</tspan></text>
+</g>
+<g id="VIDEOS">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="331" y="182.315">VIDEO</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="0px"><tspan x="404.035" y="182.315">S</tspan></text>
+</g>
+<g id="PHOTOS">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="80" y="182.315">PHOTO</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="0px"><tspan x="160.061" y="182.315">S</tspan></text>
+</g>
+</g>
+<g id="New">
+<g id="Group_5">
+<rect id="Shape_4" x="716" y="86" width="30" height="6" transform="rotate(-180 716 86)" fill="white"/>
+<rect id="Shape_5" x="698" y="98" width="30" height="6" transform="rotate(-90 698 98)" fill="white"/>
+</g>
+</g>
+<text id="Gallery" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="322.043" y="92.305">Gallery</tspan></text>
+<g id="Menu">
+<g id="Group_6">
+<rect id="Shape_6" x="30" y="89" width="38" height="6" fill="white"/>
+<rect id="Shape_7" x="30" y="71" width="28" height="6" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="787.062" y1="1334" x2="787.062" y2="1174" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="787.062" y1="966" x2="787.062" y2="806" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="787.062" y1="597" x2="787.062" y2="437" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0.01"/>
+</linearGradient>
+</defs>
+</svg>

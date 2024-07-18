@@ -1,0 +1,51 @@
+<svg width="720" height="1280" viewBox="0 0 720 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="720" height="1280" fill="#F2F2F2"/>
+<g id="10">
+<g clip-path="url(#clip0)">
+<rect width="720" height="1280" fill="white"/>
+<rect id="bg" width="720" height="1306.53" fill="#232C3D"/>
+<g id="Group 4">
+<rect id="Rectangle" y="28" width="720" height="540" fill="#2F3A4F"/>
+<g id="Group 3">
+<path id="line" opacity="0.5" d="M40 268H680" stroke="#ACB4C4"/>
+<text id="Hint text" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" letter-spacing="0px"><tspan x="38" y="250.57">Hint text 2</tspan></text>
+</g>
+<g id="Group 3_2">
+<path id="line_2" opacity="0.5" d="M40 508H680" stroke="#ACB4C4"/>
+<text id="Hint text_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" letter-spacing="0px"><tspan x="38" y="360.57">Description</tspan></text>
+</g>
+<g id="Group">
+<path id="line_3" opacity="0.5" d="M40 148H680" stroke="#ACB4C4"/>
+<text id="51 / 50" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0px"><tspan x="623.223" y="172.652">51 / 50</tspan></text>
+<text id="Hint text_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" letter-spacing="0px"><tspan x="38" y="130.57">Hint text</tspan></text>
+</g>
+</g>
+<g id="Group 4_2">
+<rect id="Rectangle_2" y="598" width="720" height="658" fill="#2F3A4F"/>
+<g id="Group 3_3">
+<path id="line_4" d="M40 838H680" stroke="#F71976"/>
+</g>
+<g id="Group 3_4">
+<path id="line_5" opacity="0.5" d="M40 1208H680" stroke="#ACB4C4"/>
+<text id="Hint text_4" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0px"><tspan x="38" y="926.52">Description</tspan></text>
+</g>
+<g id="Group_2">
+<path id="line_6" d="M40 718H680" stroke="#64FF6C"/>
+<text id="51 / 50_2" fill="#60EF6A" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0px"><tspan x="623.223" y="742.652">51 / 50</tspan></text>
+<text id="Hint text_5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="38" y="689.254">Cameron Hernan</tspan></text>
+<text id="Hint text Copy" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="38" y="972.254">The French Revolution constituted for the </tspan><tspan x="38" y="1012.25">conscience of the dominant aristocratic class a </tspan><tspan x="38" y="1052.25">fall from innocence, and upturning of the natural </tspan><tspan x="38" y="1092.25">chain of events that resounded all over </tspan><tspan x="38" y="1132.25">Europeld) got during these nights the idea of </tspan><tspan x="38" y="1172.25">what later.</tspan></text>
+<text id="Hint text_6" fill="#F71976" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="38" y="809.254">Bradley Duncan</tspan></text>
+<text id="Username or Password is incorrect. 2" fill="#F71976" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20" letter-spacing="0px"><tspan x="40" y="873.836">Username or Password is incorrect.</tspan></text>
+<text id="Hint text_7" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0px"><tspan x="39" y="771.52">Hint text 2</tspan></text>
+<text id="Hint text_8" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0px"><tspan x="38" y="651.52">Hint text</tspan></text>
+<path id="insertion mark" fill-rule="evenodd" clip-rule="evenodd" d="M267 661V702H270V661H267Z" fill="#64FF6C"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="720" height="1280" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,88 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="1-1 Login">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#00A0FF"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M0 43L750 793H0V43Z" fill="black"/>
+<rect id="Shape_2" y="754" width="750" height="580" fill="black"/>
+</g>
+</g>
+<g id="Mark">
+<g id="Shadow" filter="url(#filter0_f)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M375 580C430.228 580 475 573.284 475 565C475 556.716 430.228 550 375 550C319.772 550 275 556.716 275 565C275 573.284 319.772 580 375 580Z" fill="black"/>
+</g>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M325 539L275 489H325V539Z" fill="#AD807D"/>
+<path id="Shape_4" d="M275 310C275 298.954 283.954 290 295 290H455C466.046 290 475 298.954 475 310V469C475 480.046 466.046 489 455 489H275V310Z" fill="#FFBDB8"/>
+<rect id="Rectangle" x="315" y="401" width="60" height="16" fill="black"/>
+<rect id="Rectangle_2" x="315" y="362" width="120" height="16" fill="black"/>
+</g>
+<g id="Create Account">
+<path id="Line" d="M377.02 1281H531.02" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<g id="Not registered? Create Account">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" letter-spacing="0px"><tspan x="215" y="1264.32">Not registered?</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="0px"><tspan x="369.215" y="1264.32"> Create Account</tspan></text>
+</g>
+</g>
+<g id="Form">
+<rect id="Bg_2" x="50" y="654" width="650" height="540" fill="white"/>
+<g id="Get Started">
+<rect id="Button" x="50" y="1074" width="650" height="120" fill="#00A0FF"/>
+<text id="Get Started_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="479.43" y="1140.15">Get Started</tspan></text>
+<g id="Go">
+<g id="Group">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M130 1124L144 1134L130 1144V1124Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Password">
+<path id="Line_2" opacity="0.2" d="M130 1003H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;">
+<path id=" 8" fill-rule="evenodd" clip-rule="evenodd" d="M275 970C277.761 970 280 967.761 280 965C280 962.239 277.761 960 275 960C272.239 960 270 962.239 270 965C270 967.761 272.239 970 275 970Z" fill="black"/>
+<path id=" 7" fill-rule="evenodd" clip-rule="evenodd" d="M255 970C257.761 970 260 967.761 260 965C260 962.239 257.761 960 255 960C252.239 960 250 962.239 250 965C250 967.761 252.239 970 255 970Z" fill="black"/>
+<path id="6" fill-rule="evenodd" clip-rule="evenodd" d="M235 970C237.761 970 240 967.761 240 965C240 962.239 237.761 960 235 960C232.239 960 230 962.239 230 965C230 967.761 232.239 970 235 970Z" fill="black"/>
+<path id="5" fill-rule="evenodd" clip-rule="evenodd" d="M215 970C217.761 970 220 967.761 220 965C220 962.239 217.761 960 215 960C212.239 960 210 962.239 210 965C210 967.761 212.239 970 215 970Z" fill="black"/>
+<path id="4" fill-rule="evenodd" clip-rule="evenodd" d="M195 970C197.761 970 200 967.761 200 965C200 962.239 197.761 960 195 960C192.239 960 190 962.239 190 965C190 967.761 192.239 970 195 970Z" fill="black"/>
+<path id="3" fill-rule="evenodd" clip-rule="evenodd" d="M175 970C177.761 970 180 967.761 180 965C180 962.239 177.761 960 175 960C172.239 960 170 962.239 170 965C170 967.761 172.239 970 175 970Z" fill="black"/>
+<path id="2" fill-rule="evenodd" clip-rule="evenodd" d="M155 970C157.761 970 160 967.761 160 965C160 962.239 157.761 960 155 960C152.239 960 150 962.239 150 965C150 967.761 152.239 970 155 970Z" fill="black"/>
+<path id="1" fill-rule="evenodd" clip-rule="evenodd" d="M135 970C137.761 970 140 967.761 140 965C140 962.239 137.761 960 135 960C132.239 960 130 962.239 130 965C130 967.761 132.239 970 135 970Z" fill="black"/>
+</g>
+<text id="PASSWORD" fill="#AD807D" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="917.15">PASSWORD</tspan></text>
+</g>
+<g id="Username">
+<path id="Line_3" opacity="0.2" d="M130 838H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<text id="andrea@app.com" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="804.81">andrea@app.com</tspan></text>
+<text id="USERNAME" fill="#AD807D" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="752.15">USERNAME</tspan></text>
+</g>
+</g>
+<g id="Chat" filter="url(#filter1_d)">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="200" font-weight="bold" letter-spacing="-10px"><tspan x="-15" y="303.5">Cha</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="200" font-weight="bold" letter-spacing="0px"><tspan x="323.164" y="303.5">t</tspan></text>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f" x="139.086" y="414.086" width="471.828" height="301.828" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="67.957" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="filter1_d" x="-65.6" y="166.8" width="522.164" height="260" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="60"/>
+<feGaussianBlur stdDeviation="30"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

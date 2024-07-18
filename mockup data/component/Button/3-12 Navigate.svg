@@ -1,0 +1,68 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="3-12 Navigate">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Bg_2" width="750" height="1334" fill="#7EEFCC"/>
+</g>
+<g id="Logout">
+<rect id="Bg_3" x="70" y="1154" width="610" height="110" fill="black"/>
+<text id="Logout_2" fill="#7EEFCC" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="333.004" y="1217.65">Logout</tspan></text>
+</g>
+<text id="Stats" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="524.429" y="956.475">Stats</tspan></text>
+<g id="Stats_2">
+<g id="Group">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M545 865C545 874.941 553.059 883 563 883C572.941 883 581 874.941 581 865C581 855.059 572.941 847 563 847V865.029L545 865Z" fill="black"/>
+</g>
+</g>
+<text id="Capture" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="131.062" y="956.475">Capture</tspan></text>
+<g id="Capture_2">
+<g id="Group_2">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M181 847H195V851H208V881H168V851H181V847ZM194 866C194 869.314 191.314 872 188 872C184.686 872 182 869.314 182 866C182 862.686 184.686 860 188 860C191.314 860 194 862.686 194 866Z" fill="black"/>
+</g>
+</g>
+<text id="Gallery" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="513.225" y="670.475">Gallery</tspan></text>
+<g id="Gallery_2">
+<g id="Shape_3">
+<rect id="Shape_4" x="566" y="581" width="12" height="12" fill="black"/>
+<rect id="Shape_5" x="548" y="581" width="12" height="12" fill="black"/>
+<rect id="Shape_6" x="566" y="563" width="12" height="12" fill="black"/>
+<rect id="Shape_7" x="548" y="563" width="12" height="12" fill="black"/>
+</g>
+</g>
+<text id="Compose" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="122" y="670.475">Compose</tspan></text>
+<g id="Compose_2">
+<g id="Group_3">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M172.151 593.849L172.858 583.243L196.9 559.201L206.799 569.1L182.758 593.142L172.151 593.849Z" fill="black"/>
+</g>
+</g>
+<text id="Profile" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="516" y="384.475">Profile</tspan></text>
+<g id="Profile_2">
+<g id="Group_4">
+<path id="Shape_9" fill-rule="evenodd" clip-rule="evenodd" d="M579 307C579 298.9 568.4 295 563 295C557.6 295 547 298.9 547 307H579Z" fill="black"/>
+<path id="Shape_10" fill-rule="evenodd" clip-rule="evenodd" d="M563 291C566.85 291 570 287.85 570 284C570 280.15 566.85 277 563 277C559.15 277 556 280.15 556 284C556 287.85 559.15 291 563 291Z" fill="black"/>
+</g>
+</g>
+<g id="Home">
+<rect id="Active" y="210" width="375" height="240" fill="#B8A6E4"/>
+<text id="Home_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="146" y="384.475">Home</tspan></text>
+<g id="Home_3">
+<g id="Group_5">
+<rect id="Shape_11" x="172" y="275" width="6" height="34" fill="black"/>
+<path id="Shape_12" fill-rule="evenodd" clip-rule="evenodd" d="M177 275H204L195 286L204 297H177V275Z" fill="black"/>
+</g>
+</g>
+</g>
+<g id="Settings">
+<g id="Group_6">
+<path id="Shape_13" fill-rule="evenodd" clip-rule="evenodd" d="M691 66L681 83L691 100H711L721 83L711 66H691ZM706 83C706 85.7614 703.761 88 701 88C698.239 88 696 85.7614 696 83C696 80.2386 698.239 78 701 78C703.761 78 706 80.2386 706 83Z" fill="black"/>
+</g>
+</g>
+<g id="Close">
+<g id="Group_7">
+<rect id="Shape_14" x="61.4561" y="74.2427" width="30" height="6" transform="rotate(135 61.4561 74.2427)" fill="black"/>
+<rect id="Shape_15" x="40.2422" y="70" width="30" height="6" transform="rotate(45 40.2422 70)" fill="black"/>
+</g>
+</g>
+</g>
+</svg>

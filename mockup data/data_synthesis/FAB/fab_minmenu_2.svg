@@ -1,0 +1,279 @@
+<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="05.03 Menu Button" clip-path="url(#clip0_0_958)">
+<rect width="375" height="812" fill="white"/>
+<g id="Oval + Oval Mask">
+<rect id="Mask" width="375" height="84" fill="url(#paint0_linear_0_958)"/>
+<mask id="mask0_0_958" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="375" height="84">
+<rect id="Mask_2" width="375" height="84" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_958)">
+<path id="Oval" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M-14.8757 110.069C-1.03065 98.4222 23.5688 96.903 40.0687 106.676C56.5686 116.449 58.7208 133.813 44.8757 145.46C31.0307 157.107 6.4312 158.626 -10.0687 148.853C-26.5686 139.08 -28.7208 121.716 -14.8757 110.069Z" fill="url(#paint1_linear_0_958)"/>
+</g>
+</g>
+<path id="Rectangle" d="M0 72C0 67.5817 3.58172 64 8 64H367C371.418 64 375 67.5817 375 72V84H0V72Z" fill="white"/>
+<g id="Home Indicator">
+<rect id="Rectangle 24" x="121" y="738" width="134" height="5" rx="2.5" fill="black"/>
+</g>
+<g id="Status Bar">
+<g id="iPhone X/Status Bars/Status Bar (Black)">
+<g id="Battery">
+<rect id="Border" opacity="0.35" x="336.5" y="17.8333" width="21" height="10.3333" rx="2.16667" stroke="white"/>
+<path id="Cap" opacity="0.4" d="M359 21V25C359.805 24.6612 360.328 23.8731 360.328 23C360.328 22.1269 359.805 21.3388 359 21" fill="white"/>
+<rect id="Capacity" x="338" y="19.3333" width="18" height="7.33333" rx="1.33333" fill="white"/>
+</g>
+<path id="Wifi" fill-rule="evenodd" clip-rule="evenodd" d="M323.33 19.6079C325.546 19.608 327.678 20.4594 329.283 21.9862C329.404 22.1041 329.598 22.1026 329.717 21.9829L330.873 20.8162C330.933 20.7555 330.967 20.6733 330.966 20.5877C330.966 20.5021 330.931 20.4202 330.87 20.3602C326.655 16.3207 320.005 16.3207 315.79 20.3602C315.729 20.4202 315.694 20.502 315.694 20.5876C315.693 20.6732 315.727 20.7555 315.787 20.8162L316.943 21.9829C317.062 22.1028 317.256 22.1043 317.377 21.9862C318.983 20.4593 321.114 19.6079 323.33 19.6079ZM323.33 23.4036C324.548 23.4035 325.722 23.856 326.624 24.6732C326.747 24.7892 326.939 24.7867 327.058 24.6676L328.212 23.5009C328.273 23.4397 328.307 23.3567 328.306 23.2704C328.305 23.1842 328.27 23.1018 328.208 23.0419C325.46 20.4855 321.204 20.4855 318.455 23.0419C318.393 23.1018 318.358 23.1842 318.357 23.2705C318.356 23.3568 318.39 23.4398 318.451 23.5009L319.605 24.6676C319.724 24.7867 319.917 24.7892 320.039 24.6732C320.941 23.8566 322.114 23.4041 323.33 23.4036ZM325.643 25.9574C325.645 26.0439 325.611 26.1273 325.549 26.1879L323.552 28.2036C323.494 28.2628 323.414 28.2961 323.33 28.2961C323.247 28.2961 323.167 28.2628 323.109 28.2036L321.111 26.1879C321.049 26.1272 321.015 26.0438 321.017 25.9573C321.019 25.8708 321.057 25.7889 321.121 25.7309C322.396 24.652 324.265 24.652 325.54 25.7309C325.604 25.7889 325.642 25.8709 325.643 25.9574Z" fill="white"/>
+<path id="Cellular Connection" fill-rule="evenodd" clip-rule="evenodd" d="M309.667 17.6667H308.667C308.114 17.6667 307.667 18.1145 307.667 18.6667V27.3334C307.667 27.8857 308.114 28.3334 308.667 28.3334H309.667C310.219 28.3334 310.667 27.8857 310.667 27.3334V18.6667C310.667 18.1145 310.219 17.6667 309.667 17.6667ZM304 20.0001H305C305.552 20.0001 306 20.4478 306 21.0001V27.3334C306 27.8857 305.552 28.3334 305 28.3334H304C303.448 28.3334 303 27.8857 303 27.3334V21.0001C303 20.4478 303.448 20.0001 304 20.0001ZM300.333 22.3334H299.333C298.781 22.3334 298.333 22.7811 298.333 23.3334V27.3334C298.333 27.8857 298.781 28.3334 299.333 28.3334H300.333C300.886 28.3334 301.333 27.8857 301.333 27.3334V23.3334C301.333 22.7811 300.886 22.3334 300.333 22.3334ZM295.667 24.3334H294.667C294.114 24.3334 293.667 24.7811 293.667 25.3334V27.3334C293.667 27.8857 294.114 28.3334 294.667 28.3334H295.667C296.219 28.3334 296.667 27.8857 296.667 27.3334V25.3334C296.667 24.7811 296.219 24.3334 295.667 24.3334Z" fill="white"/>
+</g>
+</g>
+<g id="Group">
+<g id="Group 8 Copy 3">
+<g id="Group 7">
+<g id="Group 6" clip-path="url(#clip1_0_958)">
+<rect id="Rectangle Copy 9" x="-0.5" y="801.5" width="376" height="71" rx="3.5" fill="white" stroke="#E2E2E2"/>
+</g>
+</g>
+</g>
+<g id="Group 8 Copy">
+<g id="Group 7_2">
+<g id="Group 6_2" clip-path="url(#clip2_0_958)">
+<rect id="Rectangle Copy 9_2" x="-21.5" y="654.5" width="417" height="71" rx="3.5" fill="white" stroke="#E2E2E2"/>
+<rect id="ubs-logo-vector" x="23" y="676" width="25" height="28" fill="url(#pattern0)"/>
+<text id="CHF Account" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="-0.228571px"><tspan x="70" y="704.318">CHF Account</tspan></text>
+<text id="UBS" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="-0.2px"><tspan x="70" y="684.591">UBS</tspan></text>
+<text id="$1,500" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="300.734" y="695.318">$1,500</tspan></text>
+</g>
+</g>
+</g>
+<rect id="Rectangle_2" y="726" width="375" height="6" fill="#EBEBEB"/>
+<g id="Group 8 Copy 2">
+<g id="Group 7_3">
+<g id="Group 6_3" clip-path="url(#clip3_0_958)">
+<rect id="Rectangle Copy 9_3" x="-0.5" y="731.5" width="376" height="71" rx="3.5" fill="white" stroke="#E2E2E2"/>
+<rect id="38" x="20" y="752" width="30" height="30" fill="url(#pattern1)"/>
+<text id="Bitcoin Account" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="-0.228571px"><tspan x="70" y="781.318">Bitcoin Account</tspan></text>
+<text id="BTC" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="-0.2px"><tspan x="70" y="761.591">BTC</tspan></text>
+<text id="$945.10" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="292.266" y="772.318">$945.10</tspan></text>
+</g>
+</g>
+</g>
+<g id="Group 8">
+<g id="Group 7_4">
+<g id="Group 6_4">
+<g id="HSBC_logo_(2018)">
+<rect id="Rectangle_3" x="27.3809" y="543" width="14.7271" height="14.8256" fill="white"/>
+<path id="Path" d="M49.4714 550.43L42.1079 543V557.843L49.4714 550.43Z" fill="#DB0011"/>
+<path id="Path_2" d="M34.7444 550.43L42.1079 543H27.3809L34.7444 550.43Z" fill="#DB0011"/>
+<path id="Path_3" d="M20 550.43L27.3809 557.843V543L20 550.43Z" fill="#DB0011"/>
+<path id="Path_4" d="M34.7444 550.43L27.3809 557.843H42.1079L34.7444 550.43Z" fill="#DB0011"/>
+</g>
+<text id="Euro Account" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="-0.228571px"><tspan x="70" y="564.318">Euro Account</tspan></text>
+<text id="HSBC" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="-0.2px"><tspan x="70" y="544.591">HSBC</tspan></text>
+<text id="$2,240.50" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="273.5" y="555.318">$2,240.50</tspan></text>
+</g>
+</g>
+</g>
+<g id="Group 8 Copy_2">
+<g id="Group 7_5">
+<g id="Group 6_5" clip-path="url(#clip4_0_958)">
+<rect id="Rectangle Copy 9_4" x="-21.5" y="584.5" width="417" height="71" rx="3.5" fill="white" stroke="#E2E2E2"/>
+<g id="Credit_Suisse_Logo">
+<g id="g3801">
+<path id="path3795" d="M44.7146 625.756C46.1665 626.214 47.6185 626.823 49.2233 627.738C45.3259 621.336 38.4481 614.4 31.6467 609.903C33.4044 611.656 36.2319 615.467 36.9961 619.507C39.7473 621.488 42.3455 623.622 44.7146 625.756Z" fill="#003662"/>
+<path id="path3797" d="M44.7146 625.756C41.3522 624.689 38.5246 624.613 36.4613 624.841C37.2255 623.089 37.3019 621.259 36.9962 619.506C31.8761 615.848 26.1446 612.647 20.7188 610.284C24.6926 612.952 29.125 620.802 30.959 629.186C34.9329 628.043 40.9701 627.204 48.8413 629.872C47.5422 628.5 46.1666 627.128 44.7146 625.756V625.756Z" fill="#003662"/>
+</g>
+</g>
+<text id="USD Custody" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="-0.228571px"><tspan x="70" y="634.318">USD Custody</tspan></text>
+<text id="Credit Suisse" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="-0.2px"><tspan x="70" y="614.591">Credit Suisse</tspan></text>
+<text id="$1,340.90" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="275.312" y="625.318">$1,340.90</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="Menu / Exchange">
+<g id="Group 4">
+<rect id="Rectangle Copy 3" opacity="0.3" x="30" y="750" width="315" height="1" fill="black"/>
+<g id="Group 3">
+<g id="Combined Shape" filter="url(#filter0_d_0_958)">
+<mask id="path-38-outside-1_0_958" maskUnits="userSpaceOnUse" x="-1" y="707" width="377" height="106" fill="black">
+<rect fill="white" x="-1" y="707" width="377" height="106"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M211.686 719C206 712.272 197.499 708 188 708C178.501 708 170 712.272 164.314 719H0V812H375V719H211.686Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M211.686 719C206 712.272 197.499 708 188 708C178.501 708 170 712.272 164.314 719H0V812H375V719H211.686Z" fill="white"/>
+<path d="M211.686 719L210.923 719.646L211.222 720H211.686V719ZM164.314 719V720H164.778L165.077 719.646L164.314 719ZM0 719V718H-1V719H0ZM0 812H-1V813H0V812ZM375 812V813H376V812H375ZM375 719H376V718H375V719ZM212.45 718.354C206.582 711.412 197.806 707 188 707V709C197.192 709 205.418 713.133 210.923 719.646L212.45 718.354ZM188 707C178.194 707 169.418 711.412 163.55 718.354L165.077 719.646C170.582 713.133 178.808 709 188 709V707ZM0 720H164.314V718H0V720ZM1 812V719H-1V812H1ZM375 811H0V813H375V811ZM374 719V812H376V719H374ZM211.686 720H375V718H211.686V720Z" fill="#A9A9A9" fill-opacity="0.3" mask="url(#path-38-outside-1_0_958)"/>
+</g>
+<g id="Home Indicator_2">
+<rect id="Rectangle 24_2" x="121" y="798" width="134" height="5" rx="2.5" fill="black"/>
+</g>
+<g id="Group_2">
+<text id="Portfolios" fill="#999999" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="26.3594" y="774.864">Portfolios</tspan></text>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M44 742C44 747.523 48.477 752 54 752C59.523 752 64 747.523 64 742C64 736.477 59.523 732 54 732C48.477 732 44 736.477 44 742ZM53 748V746H50V738H53V736H55V738H56C56.9469 738 57.8126 738.535 58.2361 739.382C58.6595 740.229 58.5682 741.242 58 742C58.5682 742.758 58.6595 743.771 58.2361 744.618C57.8126 745.465 56.9469 746 56 746H55V748H53ZM56 743C56.2761 743 56.5 743.224 56.5 743.5C56.5 743.776 56.2761 744 56 744H52V743H56ZM56 740H52V741H56C56.2761 741 56.5 740.776 56.5 740.5C56.5 740.224 56.2761 740 56 740Z" fill="#999999"/>
+</g>
+<g id="Group Copy 2">
+<text id="Home" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="170.771" y="774.864">Home</tspan></text>
+</g>
+<g id="Group Copy" opacity="0.4">
+<text id="Wallet" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="103.209" y="774.864">Wallet</tspan></text>
+</g>
+<g id="Group Copy 3" opacity="0.4">
+<text id="Notificat" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="230.301" y="774.864">Notificat</tspan></text>
+</g>
+<g id="Group Copy 4" opacity="0.4">
+<text id="More" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="306.957" y="774.864">More</tspan></text>
+</g>
+<g id="menu-2-line (2)">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M313 734H331V736H313V734ZM313 741H325V743H313V741ZM331 748H313V750H331V748Z" fill="#999999"/>
+</g>
+</g>
+<g id="wallet-3-fill" opacity="0.4">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M131 736H124C120.686 736 118 738.686 118 742C118 745.314 120.686 748 124 748H131V750C131 750.552 130.552 751 130 751H112C111.448 751 111 750.552 111 750V734C111 733.448 111.448 733 112 733H130C130.552 733 131 733.448 131 734V736ZM124 738H132V746H124C121.791 746 120 744.209 120 742C120 739.791 121.791 738 124 738ZM127 743H124V741H127V743Z" fill="black"/>
+</g>
+<g id="bit-coin-fill">
+<path id="Oval Copy" fill-rule="evenodd" clip-rule="evenodd" d="M188 759C199.046 759 208 750.046 208 739C208 727.954 199.046 719 188 719C176.954 719 168 727.954 168 739C168 750.046 176.954 759 188 759Z" fill="#0073F7"/>
+<g id="home-6-fill">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M196 748C196.552 748 197 747.552 197 747V736.49C197 736.181 196.858 735.89 196.614 735.7L188.614 729.478C188.253 729.197 187.747 729.197 187.386 729.478L179.386 735.7C179.142 735.89 179 736.181 179 736.49V747C179 747.552 179.448 748 180 748H196ZM183 744V742H193V744H183Z" fill="white"/>
+</g>
+</g>
+<g id="notification-3-fill (1)">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M265 747H263V740C263 735.582 259.418 732 255 732C250.582 732 247 735.582 247 740V747H245V749H265V747ZM258 753V751H252V753H258Z" fill="#999999"/>
+</g>
+</g>
+<rect id="Rectangle_4" x="267" y="762" width="12" height="15" fill="url(#paint2_linear_0_958)"/>
+</g>
+<rect id="Rectangle Copy" x="173" y="72" width="30" height="4" rx="2" fill="#CFCFCF"/>
+<g id="Group 4_2">
+<g id="Path 3">
+<mask id="mask1_0_958" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="86" y="104" width="203" height="205">
+<path id="Mask Copy" fill-rule="evenodd" clip-rule="evenodd" d="M289 206.785C289 263.118 243.557 308.785 187.5 308.785C131.443 308.785 86 263.118 86 206.785C86 150.452 131.443 104.785 187.5 104.785C243.557 104.785 289 150.452 289 206.785ZM263 206.733C263 248.43 229.421 282.233 188 282.233C146.579 282.233 113 248.43 113 206.733C113 165.035 146.579 131.233 188 131.233C229.421 131.233 263 165.035 263 206.733Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_0_958)">
+<g id="Oval Copy 4">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M127.991 150.532C129.293 149.239 130.625 147.967 131.987 146.716C134.16 144.721 136.41 142.781 138.734 140.9C161.063 122.827 187.244 112.701 213.851 110.162" fill="#D8D8D8" fill-opacity="0.01"/>
+<path d="M127.991 150.532C129.293 149.239 130.625 147.967 131.987 146.716C134.16 144.721 136.41 142.781 138.734 140.9C161.063 122.827 187.244 112.701 213.851 110.162" stroke="#51A553" stroke-width="44.7761"/>
+</g>
+<path id="Oval Copy 5" d="M138 142.324C138 142.324 120.671 155.575 113.284 167.816C105.097 181.382 105.922 200.969 105.897 201.525C105.822 203.211 108.323 219.991 108.354 221.702C108.645 238.14 113.839 253.344 122.516 265.943" stroke="#ED6E33" stroke-width="44.7761"/>
+<g id="Oval Copy 3">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187.5 125.955C231.987 125.955 268.05 162.04 268.05 206.552C268.05 251.065 231.987 287.149 187.5 287.149C161.625 287.149 138.6 274.942 123.863 255.97" fill="#D8D8D8" fill-opacity="0.01"/>
+<path d="M187.5 125.955C231.987 125.955 268.05 162.04 268.05 206.552C268.05 251.065 231.987 287.149 187.5 287.149C161.625 287.149 138.6 274.942 123.863 255.97" stroke="#0073F7" stroke-width="44.7761"/>
+</g>
+<path id="Rectangle_5" fill-rule="evenodd" clip-rule="evenodd" d="M135.265 246.144L136.342 247.575L104.645 271.468L103.568 270.037L135.265 246.144Z" fill="white"/>
+<path id="Rectangle Copy 4" fill-rule="evenodd" clip-rule="evenodd" d="M143.608 148.385L142.177 149.463L118.292 117.764L119.722 116.686L143.608 148.385Z" fill="white"/>
+<rect id="Rectangle Copy 5" x="188.395" y="135.806" width="1.79" height="39.7015" transform="rotate(180 188.395 135.806)" fill="white"/>
+</g>
+</g>
+<text id="ALL ASSETS" opacity="0.7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="153.039" y="198.364">ALL ASSETS</tspan></text>
+<text id="%65" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0px"><tspan x="246.538" y="261.5">%65</tspan></text>
+<text id="%25" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0px"><tspan x="88.1616" y="201.5">%25</tspan></text>
+<text id="%10" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="500" letter-spacing="0px"><tspan x="147.795" y="126.5">%10</tspan></text>
+<text id="$7,459.50" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="22" letter-spacing="0px"><tspan x="133.623" y="226.5">$7,459.50</tspan></text>
+</g>
+<g id="Group 9">
+<text id="Crypto" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="56.5762" y="369.864">Crypto</tspan></text>
+<text id="$1,585" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="52.6484" y="352.591">$1,585</tspan></text>
+<text id="$972" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="170.596" y="352.591">$972</tspan></text>
+<text id="$5,081" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="276.929" y="352.591">$5,081</tspan></text>
+<text id="Cash" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="173.074" y="369.864">Cash</tspan></text>
+<text id="Custody" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="275.717" y="369.864">Custody</tspan></text>
+<rect id="Rectangle_6" x="73" y="378" width="6" height="6" rx="1" fill="#ED6E33"/>
+<rect id="Rectangle Copy 6" x="185" y="378" width="6" height="6" rx="1.5" fill="#51A553"/>
+<rect id="Rectangle Copy 8" x="297" y="378" width="6" height="6" rx="1.5" fill="#0073F7"/>
+</g>
+<text id="Custody_2" opacity="0.5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0px"><tspan x="159.802" y="430.091">Custody</tspan></text>
+<text id="Crypto_2" opacity="0.5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0px"><tspan x="289.477" y="430.091">Crypto</tspan></text>
+<text id="All Assets" fill="#0073F7" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0px"><tspan x="29.4756" y="430.091">All Assets</tspan></text>
+<rect id="Rectangle_7" y="450" width="125" height="2" fill="#0073F7"/>
+<rect id="Rectangle Copy 7" y="452" width="375" height="1" fill="#E2E2E2"/>
+<rect id="xRectangle Copy 937540" width="335" height="46" rx="6" transform="matrix(1 0 0 -1 20 515)" fill="#EFEFEF"/>
+<text id="xSIGN IN6612" fill="#7F7F7F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0px"><tspan x="60" y="497.091">Search...</tspan></text>
+<path id="xShape169" fill-rule="evenodd" clip-rule="evenodd" d="M52 498.885L48.6266 495.513C49.6325 494.258 50.1797 492.697 50.1774 491.089C50.1774 487.176 47.0017 484 43.0887 484C39.1757 484 36 487.176 36 491.089C36 495.002 39.1757 498.177 43.0887 498.177C44.6971 498.18 46.2579 497.633 47.5128 496.627L50.8855 500L52 498.885ZM48.6021 491.089C48.6044 492.523 48.0462 493.9 47.0466 494.928L46.9284 495.047C45.9005 496.046 44.5225 496.604 43.0887 496.602C40.0421 496.602 37.5753 494.134 37.5753 491.089C37.5753 488.042 40.0421 485.575 43.0887 485.575C46.1345 485.575 48.6021 488.042 48.6021 491.089Z" fill="#7E7E7E"/>
+<text id="1,471" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="221.08" y="695.591">1,471</tspan></text>
+<text id="CHF" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="-0.6px"><tspan x="196.144" y="694.864">CHF </tspan></text>
+<text id="&#226;&#130;&#172;2,020" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="207.873" y="555.591">&#x20ac;2,020</tspan></text>
+<text id="$1,340" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="209.473" y="625.591">$1,340</tspan></text>
+<rect id="Rectangle_8" opacity="0.4" y="-2" width="375" height="814" fill="black"/>
+<g id="Menu Item 1" clip-path="url(#clip5_0_958)">
+<g id="Rectangle_9" filter="url(#filter1_d_0_958)">
+<rect x="162" y="587" width="198" height="46" rx="23" fill="white"/>
+</g>
+<rect id="Rectangle Copy 10" x="315" y="592" width="36" height="36" rx="18" fill="#51A553"/>
+<g id="add-line">
+<path id="Path_5" d="M332.25 609.25V604.75H333.75V609.25H338.25V610.75H333.75V615.25H332.25V610.75H327.75V609.25H332.25Z" fill="white"/>
+</g>
+<text id="Add New Account" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="500" letter-spacing="0px"><tspan x="180.132" y="613.591">Add New Account</tspan></text>
+</g>
+<g id="Menu Icon">
+<g id="Oval_2" filter="url(#filter2_d_0_958)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M335 693C348.807 693 360 681.807 360 668C360 654.193 348.807 643 335 643C321.193 643 310 654.193 310 668C310 681.807 321.193 693 335 693Z" fill="#FD7028"/>
+<path d="M335 693.455C349.058 693.455 360.455 682.058 360.455 668C360.455 653.942 349.058 642.545 335 642.545C320.942 642.545 309.545 653.942 309.545 668C309.545 682.058 320.942 693.455 335 693.455Z" stroke="#A9A9A9" stroke-opacity="0.3" stroke-width="0.909091"/>
+</g>
+<g id="x (7)">
+<path id="Path_6" d="M340 663L330 673" stroke="white" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_7" d="M330 663L340 673" stroke="white" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_958" transform="scale(0.00505051 0.00458716)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_0_958" transform="scale(0.03125)"/>
+</pattern>
+<filter id="filter0_d_0_958" x="-9" y="697" width="393" height="122" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_958"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_958" result="shape"/>
+</filter>
+<filter id="filter1_d_0_958" x="154" y="585" width="214" height="62" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="6"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_958"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_958" result="shape"/>
+</filter>
+<filter id="filter2_d_0_958" x="302.091" y="640.091" width="65.8184" height="65.8184" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="5"/>
+<feGaussianBlur stdDeviation="3.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_958"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_958" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_958" x1="523.073" y1="39.634" x2="489.998" y2="-108.026" gradientUnits="userSpaceOnUse">
+<stop stop-color="#02072F"/>
+<stop offset="1" stop-color="#091361"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_958" x1="20.5427" y1="175.187" x2="-32.6643" y2="130.541" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint2_linear_0_958" x1="279" y1="762" x2="267" y2="762" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0_0_958">
+<rect width="375" height="812" fill="white"/>
+</clipPath>
+<clipPath id="clip1_0_958">
+<rect width="375" height="70" fill="white" transform="translate(0 802)"/>
+</clipPath>
+<clipPath id="clip2_0_958">
+<rect width="416" height="70" fill="white" transform="translate(-21 655)"/>
+</clipPath>
+<clipPath id="clip3_0_958">
+<rect width="375" height="70" fill="white" transform="translate(0 732)"/>
+</clipPath>
+<clipPath id="clip4_0_958">
+<rect width="416" height="70" fill="white" transform="translate(-21 585)"/>
+</clipPath>
+<clipPath id="clip5_0_958">
+<rect width="198" height="46" fill="white" transform="translate(162 587)"/>
+</clipPath>
+</defs>
+</svg>

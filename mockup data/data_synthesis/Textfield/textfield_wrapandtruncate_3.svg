@@ -1,0 +1,113 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="3-2 Signup" clip-path="url(#clip0_0_937)">
+<rect width="750" height="1334" fill="white"/>
+<rect id="Main Bg" width="750" height="1334" fill="url(#paint0_linear_0_937)"/>
+<g id="Form">
+<g id="Bg" filter="url(#filter0_d_0_937)">
+<rect x="110" y="580" width="580" height="684" fill="url(#paint1_linear_0_937)"/>
+</g>
+<text id="NEXT STEP" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="3px"><tspan x="330.939" y="1201.17">NEXT STEP</tspan></text>
+<text id="NEXT STEP_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="3px"><tspan x="330.939" y="1201.17">NEXT STEP</tspan></text>
+<g id="Avatar">
+<mask id="mask0_0_937" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="110" y="160" width="580" height="420">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M110 160V580H690V160H110Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_937)">
+<rect id="Img" x="98" y="143" width="592" height="505" fill="url(#pattern0)"/>
+</g>
+</g>
+<g id="Bg_2" filter="url(#filter1_d_0_937)">
+<rect x="60" y="520" width="580" height="604" fill="white"/>
+</g>
+<g id="Password">
+<g id="Password_2">
+<g id="Group">
+<path id="Line" d="M566 1017H582V1021" stroke="black" stroke-width="6" stroke-linecap="square"/>
+<path id="Oval" d="M562 1017.5C562 1021.64 558.642 1025 554.5 1025C550.358 1025 547 1021.64 547 1017.5C547 1013.36 550.358 1010 554.5 1010C558.642 1010 562 1013.36 562 1017.5Z" stroke="black" stroke-width="6" stroke-linecap="square"/>
+</g>
+</g>
+<g id="&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;">
+<path id=" 8" fill-rule="evenodd" clip-rule="evenodd" d="M255 1044C257.761 1044 260 1041.76 260 1039C260 1036.24 257.761 1034 255 1034C252.239 1034 250 1036.24 250 1039C250 1041.76 252.239 1044 255 1044Z" fill="black"/>
+<path id=" 7" fill-rule="evenodd" clip-rule="evenodd" d="M235 1044C237.761 1044 240 1041.76 240 1039C240 1036.24 237.761 1034 235 1034C232.239 1034 230 1036.24 230 1039C230 1041.76 232.239 1044 235 1044Z" fill="black"/>
+<path id="6" fill-rule="evenodd" clip-rule="evenodd" d="M215 1044C217.761 1044 220 1041.76 220 1039C220 1036.24 217.761 1034 215 1034C212.239 1034 210 1036.24 210 1039C210 1041.76 212.239 1044 215 1044Z" fill="black"/>
+<path id="5" fill-rule="evenodd" clip-rule="evenodd" d="M195 1044C197.761 1044 200 1041.76 200 1039C200 1036.24 197.761 1034 195 1034C192.239 1034 190 1036.24 190 1039C190 1041.76 192.239 1044 195 1044Z" fill="black"/>
+<path id="4" fill-rule="evenodd" clip-rule="evenodd" d="M175 1044C177.761 1044 180 1041.76 180 1039C180 1036.24 177.761 1034 175 1034C172.239 1034 170 1036.24 170 1039C170 1041.76 172.239 1044 175 1044Z" fill="black"/>
+<path id="3" fill-rule="evenodd" clip-rule="evenodd" d="M155 1044C157.761 1044 160 1041.76 160 1039C160 1036.24 157.761 1034 155 1034C152.239 1034 150 1036.24 150 1039C150 1041.76 152.239 1044 155 1044Z" fill="black"/>
+<path id="2" fill-rule="evenodd" clip-rule="evenodd" d="M135 1044C137.761 1044 140 1041.76 140 1039C140 1036.24 137.761 1034 135 1034C132.239 1034 130 1036.24 130 1039C130 1041.76 132.239 1044 135 1044Z" fill="black"/>
+<path id="1" fill-rule="evenodd" clip-rule="evenodd" d="M115 1044C117.761 1044 120 1041.76 120 1039C120 1036.24 117.761 1034 115 1034C112.239 1034 110 1036.24 110 1039C110 1041.76 112.239 1044 115 1044Z" fill="black"/>
+</g>
+<text id="PASSWORD" opacity="0.3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="110" y="999.17">PASSWORD</tspan></text>
+</g>
+<path id="Line_2" opacity="0.1" d="M110.487 919H589.038" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="Email">
+<g id="Email_2">
+<g id="Group_2">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M581.342 808H548.4L564.032 821.026L581.342 808ZM548 814.684L562.284 826.711L564.158 828.21L566.032 826.711L582 813.637V838H548V814.684Z" fill="black"/>
+</g>
+</g>
+<text id="EMAIL" opacity="0.3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="110" y="798.17">EMAIL&#x2028;</tspan><tspan x="110" y="822.17">ADDRESS</tspan></text>
+<text id="Email_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="24" letter-spacing="1px"><tspan x="110" y="852.104">carmen@app.com</tspan></text>
+</g>
+<path id="Line_3" opacity="0.1" d="M110.487 724H589.038" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="Name">
+<g id="Name_2">
+<g id="Group_3">
+<path id="Line_4" d="M548 620H582" stroke="black" stroke-width="6"/>
+<path id="Line_5" d="M548 634H566" stroke="black" stroke-width="6"/>
+</g>
+</g>
+<text id="NAME" opacity="0.3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="110" y="609.17">WHAT IS YOUR NAME?....</tspan></text>
+<text id="Email_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="24" letter-spacing="1px"><tspan x="110" y="657.104">Carmen Rivera</tspan></text>
+</g>
+</g>
+<g id="Nav">
+<rect id="Bg_3" width="750" height="128" fill="black"/>
+<g id="Photo" opacity="0.5">
+<g id="Group_4">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M688 65H700V70H713V100H675V70H688V65ZM699 85C699 87.7614 696.761 90 694 90C691.239 90 689 87.7614 689 85C689 82.2386 691.239 80 694 80C696.761 80 699 82.2386 699 85Z" fill="white"/>
+</g>
+</g>
+<text id="SIGN UP" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="3px"><tspan x="130" y="90.17">SIGN UP</tspan></text>
+<g id="Close" opacity="0.5">
+<g id="Group_5">
+<path id="Line_6" d="M63.4852 74.5146L46.5147 91.4852" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path id="Line_7" d="M63.4853 91.4853L46.5147 74.5147" stroke="white" stroke-width="6" stroke-linecap="square"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_937" x="60" y="580" width="680" height="784" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="50"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_937"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_937" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_937" transform="scale(0.000844595 0.00100503)"/>
+</pattern>
+<filter id="filter1_d_0_937" x="10" y="520" width="680" height="704" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="50"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_937"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_937" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_937" x1="700.041" y1="1334" x2="700.041" y2="127.671" gradientUnits="userSpaceOnUse">
+<stop stop-color="#686868"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_937" x1="980" y1="922" x2="305.199" y2="349.8" gradientUnits="userSpaceOnUse">
+<stop stop-color="#84C1FF"/>
+<stop offset="1" stop-color="#FF7B45"/>
+</linearGradient>
+<clipPath id="clip0_0_937">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

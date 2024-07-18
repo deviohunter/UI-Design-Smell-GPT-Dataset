@@ -1,0 +1,245 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="640" fill="#F2F2F2"/>
+<g id="Store #1">
+<g clip-path="url(#clip0)">
+<rect width="360" height="640" fill="#F5F5F5"/>
+<path id="scrim" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V368H360V0H0Z" fill="#323232" fill-opacity="0.502463"/>
+<g id="List">
+<path id="Base" fill-rule="evenodd" clip-rule="evenodd" d="M4 30C4 28.8954 4.89543 28 6 28H354C355.105 28 356 28.8954 356 30V332C356 333.105 355.105 334 354 334H6C4.89543 334 4 333.105 4 332V30Z" fill="white"/>
+<g id="Row">
+<text id="Thailand" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="322.102">Thailand</tspan></text>
+<text id="Sai Ta Ku" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="306.102">Sai Ta Ku</tspan></text>
+</g>
+<g id="Row_2">
+<g id="Dividers/Light">
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M12 285H348V286H12V285Z" fill="black" fill-opacity="0.12"/>
+</g>
+<text id="Thailand_2" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="270.102">Thailand</tspan></text>
+<text id="Sai Thong" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="254.102">Sai Thong</tspan></text>
+</g>
+<g id="Row_3">
+<g id="Dividers/Light_2">
+<path id="Rectangle_2" fill-rule="evenodd" clip-rule="evenodd" d="M12 233H348V234H12V233Z" fill="black" fill-opacity="0.12"/>
+</g>
+<text id="Thailand_3" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="218.102">Thailand</tspan></text>
+<text id="Sai Thai" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="202.102">Sai Thai</tspan></text>
+</g>
+<g id="Row_4">
+<g id="Dividers/Light_3">
+<path id="Rectangle_3" fill-rule="evenodd" clip-rule="evenodd" d="M12 181H348V182H12V181Z" fill="black" fill-opacity="0.12"/>
+</g>
+<text id="Japan" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="166.102">Japan</tspan></text>
+<text id="Saito" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="150.102">Saito</tspan></text>
+</g>
+<g id="Row_5">
+<g id="Dividers/Light_4">
+<path id="Rectangle_4" fill-rule="evenodd" clip-rule="evenodd" d="M12 128H348V129H12V128Z" fill="black" fill-opacity="0.12"/>
+</g>
+<text id="Japan_2" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="113.102">Japan</tspan></text>
+<text id="Saitama" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="56" y="97.1016">Saitama</tspan></text>
+</g>
+<g id="Input">
+<g id="Dividers/Light_5">
+<path id="Rectangle_5" fill-rule="evenodd" clip-rule="evenodd" d="M4 76H356V77H4V76Z" fill="black" fill-opacity="0.12"/>
+</g>
+<g id="Icons / Navigation 24px / Grey / Close">
+<g id="Close">
+<path id="Shape" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M335 46.4L333.6 45L328 50.6L322.4 45L321 46.4L326.6 52L321 57.6L322.4 59L328 53.4L333.6 59L335 57.6L329.4 52L335 46.4Z" fill="black"/>
+</g>
+</g>
+<path id="insertion mark" fill-rule="evenodd" clip-rule="evenodd" d="M79 42V62H80V42H79Z" fill="black" fill-opacity="0.54"/>
+<text id="sait" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="56" y="56.7852">sait</tspan></text>
+<g id="Icons / Navigation 24px / Grey / Back">
+<g id="Back">
+<path id="Shape_2" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M40 51H27.8L33.4 45.4L32 44L24 52L32 60L33.4 58.6L27.8 53H40V51Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Bars/Navbar 360dp black">
+<path id="navbar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 592V640H360V592H0Z" fill="black"/>
+<g id="Group 3">
+<g id="recent">
+<mask id="path-24-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z" stroke="white" stroke-width="4" mask="url(#path-24-inside-1)"/>
+</g>
+</g>
+<g id="Group 4">
+<g id="home">
+<mask id="path-25-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z" stroke="white" stroke-width="4" mask="url(#path-25-inside-2)"/>
+</g>
+</g>
+<g id="Group 2">
+<path id="back" fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="Keyboard light">
+<g id="main keyboard">
+<g id="Base_2" filter="url(#filter0_ddi)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 368V592H360V368H0Z" fill="#ECEFF0"/>
+</g>
+<path id="space" opacity="0.15" fill-rule="evenodd" clip-rule="evenodd" d="M257 573C257 574.1 256.226 575 255.28 575H129.72C128.774 575 128 574.1 128 573V553C128 551.9 128.774 551 129.72 551H255.28C256.226 551 257 551.9 257 553V573Z" fill="#37474F"/>
+<path id="Icon" fill-rule="evenodd" clip-rule="evenodd" d="M103.5 571.25C108.332 571.25 112.25 567.332 112.25 562.5C112.25 557.668 108.332 553.75 103.5 553.75C98.6677 553.75 94.75 557.668 94.75 562.5C94.75 567.332 98.6677 571.25 103.5 571.25ZM103.5 569.75C99.4961 569.75 96.25 566.504 96.25 562.5C96.25 558.496 99.4961 555.25 103.5 555.25C107.504 555.25 110.75 558.496 110.75 562.5C110.75 566.504 107.504 569.75 103.5 569.75Z" fill="#7F8B8E"/>
+<text id="," opacity="0.8" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" font-weight="500" letter-spacing="0em"><tspan x="73.583" y="568.629">,</tspan></text>
+<g id="?123" opacity="0.8">
+<text fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0285714em"><tspan x="17.5602" y="568.582">?12</tspan></text>
+<text fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="41.4828" y="568.582">3</tspan></text>
+</g>
+<text id="." opacity="0.8" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" font-weight="500" letter-spacing="0em"><tspan x="284.928" y="568.629">.</tspan></text>
+<path id="caps" opacity="0.6" fill-rule="evenodd" clip-rule="evenodd" d="M44 511H39V516H31V511H26L35 502L44 511ZM28 522V520H42V522H28Z" fill="#37474F"/>
+<path id="delete" opacity="0.6" fill-rule="evenodd" clip-rule="evenodd" d="M340 503H325.1C324.4 503 323.8 503.3 323.4 503.9L318 512L323.4 520.1C323.8 520.6 324.4 521 325.1 521H340C341.1 521 342 520.1 342 519V505C342 503.9 341.1 503 340 503ZM337 515.6L335.6 517L332 513.4L328.4 517L327 515.6L330.6 512L327 508.4L328.4 507L332 510.6L335.6 507L337 508.4L333.4 512L337 515.6Z" fill="#37474F"/>
+<g id="return">
+<g id="button bg" filter="url(#filter1_dd)">
+<mask id="path-35-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M331 580C340.941 580 349 571.941 349 562C349 552.059 340.941 544 331 544C321.059 544 313 552.059 313 562C313 571.941 321.059 580 331 580Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M331 580C340.941 580 349 571.941 349 562C349 552.059 340.941 544 331 544C321.059 544 313 552.059 313 562C313 571.941 321.059 580 331 580Z" fill="#FF5722"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M331 580C340.941 580 349 571.941 349 562C349 552.059 340.941 544 331 544C321.059 544 313 552.059 313 562C313 571.941 321.059 580 331 580Z" stroke="url(#paint0_linear)" mask="url(#path-35-inside-3)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M331 580C340.941 580 349 571.941 349 562C349 552.059 340.941 544 331 544C321.059 544 313 552.059 313 562C313 571.941 321.059 580 331 580Z" stroke="url(#paint1_linear)" mask="url(#path-35-inside-3)"/>
+</g>
+<g id="Icons / Navigation 24px / White / Check">
+<g id="Check">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M328 566.2L323.8 562L322.4 563.4L328 569L340 557L338.6 555.6L328 566.2Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="letters">
+<text id="A" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="34.8242" y="467.629">A</tspan></text>
+<text id="S" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="70.4688" y="467.629">S</tspan></text>
+<text id="D" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="104.781" y="467.629">D</tspan></text>
+<text id="F" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="140.92" y="467.629">F</tspan></text>
+<text id="G" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="174.502" y="467.629">G</tspan></text>
+<text id="H" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="209.158" y="467.629">H</tspan></text>
+<text id="J" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="245.931" y="467.629">J</tspan></text>
+<text id="K" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="280.104" y="467.629">K</tspan></text>
+<text id="L" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="316.081" y="467.629">L</tspan></text>
+<text id="Z" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="70.415" y="517.629">Z</tspan></text>
+<text id="X" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="105.104" y="517.629">X</tspan></text>
+<text id="C" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="139.835" y="517.629">C</tspan></text>
+<text id="V" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="174.996" y="517.629">V</tspan></text>
+<text id="B" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="210.146" y="517.629">B</tspan></text>
+<text id="N" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="244.158" y="517.629">N</tspan></text>
+<text id="M" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="277.396" y="517.629">M</tspan></text>
+<text id="Q" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="17.4375" y="416.629">Q</tspan></text>
+<text id="W" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="50.2354" y="416.629">W</tspan></text>
+<text id="E" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="88.748" y="416.629">E</tspan></text>
+<text id="R" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="123.222" y="416.629">R</tspan></text>
+<text id="T" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="158.437" y="416.629">T</tspan></text>
+<text id="Y" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="193.394" y="416.629">Y</tspan></text>
+<text id="U" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="227.867" y="416.629">U</tspan></text>
+<text id="I" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="267.003" y="416.629">I</tspan></text>
+<text id="O" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="297.438" y="416.629">O</tspan></text>
+<text id="P" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="333.061" y="416.629">P</tspan></text>
+</g>
+<g id="numbers" opacity="0.8">
+<text id="1" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="35" y="396.559">1</tspan></text>
+<text id="2" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="68" y="396.559">2</tspan></text>
+<text id="3" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="103" y="396.559">3</tspan></text>
+<text id="4" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="139" y="396.559">4</tspan></text>
+<text id="5" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="173" y="396.559">5</tspan></text>
+<text id="6" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="209" y="396.559">6</tspan></text>
+<text id="7" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="243" y="396.559">7</tspan></text>
+<text id="8" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="278" y="396.559">8</tspan></text>
+<text id="9" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="313" y="396.559">9</tspan></text>
+<text id="0" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="348" y="396.559">0</tspan></text>
+</g>
+</g>
+</g>
+<g id="Suggestions Bar">
+<g id="Base_3" filter="url(#filter2_dd)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 333H360V367H0V333Z" fill="#E4E7E9"/>
+</g>
+<path id="Rectangle_6" fill-rule="evenodd" clip-rule="evenodd" d="M0 367H360V368H0V367Z" fill="#F6F7F8"/>
+<path id="Mic" fill-rule="evenodd" clip-rule="evenodd" d="M342.5 352.25C343.952 352.25 345.116 351.078 345.116 349.625L345.125 344.375C345.125 342.923 343.952 341.75 342.5 341.75C341.048 341.75 339.875 342.923 339.875 344.375V349.625C339.875 351.078 341.048 352.25 342.5 352.25ZM347.137 349.625C347.137 352.25 344.915 354.087 342.5 354.087C340.085 354.087 337.862 352.25 337.862 349.625H336.375C336.375 352.609 338.755 355.076 341.625 355.505V358.375H343.375V355.505C346.245 355.085 348.625 352.618 348.625 349.625H347.137Z" fill="#5B5C5D"/>
+<g id="More">
+<path id="Rectangle_7" fill-rule="evenodd" clip-rule="evenodd" d="M0 340H9C13.4183 340 17 343.582 17 348V353C17 357.418 13.4183 361 9 361H0V340Z" fill="white"/>
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M6.83327 345L5.54077 346.293L9.7391 350.5L5.54077 354.708L6.83327 356L12.3333 350.5L6.83327 345Z" fill="#757575"/>
+</g>
+</g>
+<g id="Status bar">
+<path id="status bar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V24H360V0H0Z" fill="#E0E0E0"/>
+<g id="status bar contents">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="black" fill-opacity="0.6" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="316.453" y="15.9883">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M306 5.875V5L303 5V5.875H300V19H309V5.875H306Z" fill="black" fill-opacity="0.6"/>
+</g>
+<g id="cellular">
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M277 19H291V5L277 19Z" fill="black" fill-opacity="0.6"/>
+</g>
+<g id="wifi">
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M256.977 8.01611L266 19L275.023 8.01611C272.512 6.12256 269.387 5 266 5C262.613 5 259.488 6.12256 256.977 8.01611Z" fill="black" fill-opacity="0.6"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_ddi" x="-2" y="366" width="364" height="230" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="0.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.8 0"/>
+<feBlend mode="normal" in2="shape" result="effect3_innerShadow"/>
+</filter>
+<filter id="filter1_dd" x="310" y="541" width="42" height="43" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_dd" x="-2" y="329" width="364" height="40" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="313.176" y1="544" x2="313.176" y2="579.648" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="313" y1="544" x2="313" y2="580" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.12"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.06"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="360" height="640" fill="white"/>
+</clipPath>
+</defs>
+</svg>

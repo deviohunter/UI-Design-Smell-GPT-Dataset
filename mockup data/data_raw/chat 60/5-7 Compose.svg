@@ -1,0 +1,205 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="5-7 Compose">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#F9EB59"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.05" fill-rule="evenodd" clip-rule="evenodd" d="M750 43L0 793H750V43Z" fill="black"/>
+<rect id="Shape_2" opacity="0.05" y="793" width="750" height="540" fill="black"/>
+</g>
+</g>
+<g id="Type Message...">
+<path id="Bg_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 1194V1334H750V1194H0Z" fill="#00A0FF"/>
+<g id="Send">
+<g id="Group">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M707 1264L667 1248V1261H675V1267H667V1280L707 1264Z" fill="white"/>
+</g>
+</g>
+<g id="Photo">
+<g id="Group_2">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M58 1247H72V1251H85V1281H45V1251H58V1247ZM71 1266C71 1269.31 68.3137 1272 65 1272C61.6863 1272 59 1269.31 59 1266C59 1262.69 61.6863 1260 65 1260C68.3137 1260 71 1262.69 71 1266Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Group_3">
+<g id="More">
+<g id="Group_4">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M631 1081C631 1083.76 633.239 1086 636 1086C638.761 1086 641 1083.76 641 1081C641 1078.24 638.761 1076 636 1076C633.239 1076 631 1078.24 631 1081Z" fill="black"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M649 1081C649 1083.76 651.239 1086 654 1086C656.761 1086 659 1083.76 659 1081C659 1078.24 656.761 1076 654 1076C651.239 1076 649 1078.24 649 1081Z" fill="black"/>
+</g>
+</g>
+<g id="Group_5">
+<text id="Name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-weight="bold" letter-spacing="0px"><tspan x="280" y="1083.98">Sienna Cardoso</tspan></text>
+<g id="Avatar" filter="url(#filter0_d)">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M200 1036C177.909 1036 160 1053.91 160 1076C160 1098.09 177.909 1116 200 1116C222.091 1116 240 1098.09 240 1076C240 1053.91 222.091 1036 200 1036Z" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="160" y="1036" width="80" height="80">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M200 1036C177.909 1036 160 1053.91 160 1076C160 1098.09 177.909 1116 200 1116C222.091 1116 240 1098.09 240 1076C240 1053.91 222.091 1036 200 1036Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect id="Img" x="150" y="1034" width="91.7143" height="85.9461"/>
+</g>
+</g>
+</g>
+<g id="Added">
+<g id="Group_6">
+<path id="Shape_5" d="M80 1075.92L90.056 1086L110 1066" stroke="black" stroke-width="6"/>
+</g>
+</g>
+<path id="Line" d="M70 995H680" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="More_2">
+<g id="Group_7">
+<path id="Oval_3" fill-rule="evenodd" clip-rule="evenodd" d="M631 914C631 916.761 633.239 919 636 919C638.761 919 641 916.761 641 914C641 911.239 638.761 909 636 909C633.239 909 631 911.239 631 914Z" fill="black"/>
+<path id="Oval_4" fill-rule="evenodd" clip-rule="evenodd" d="M649 914C649 916.761 651.239 919 654 919C656.761 919 659 916.761 659 914C659 911.239 656.761 909 654 909C651.239 909 649 911.239 649 914Z" fill="black"/>
+</g>
+</g>
+<g id="Group_8">
+<text id="Name_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-weight="bold" letter-spacing="0px"><tspan x="190" y="921.98">Todd Fisher</tspan></text>
+<g id="Avatar_2" filter="url(#filter1_d)">
+<path id="Mask_5" fill-rule="evenodd" clip-rule="evenodd" d="M110 874C87.9086 874 70 891.909 70 914C70 936.091 87.9086 954 110 954C132.091 954 150 936.091 150 914C150 891.909 132.091 874 110 874Z" fill="black"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="70" y="874" width="80" height="80">
+<path id="Mask_6" fill-rule="evenodd" clip-rule="evenodd" d="M110 874C87.9086 874 70 891.909 70 914C70 936.091 87.9086 954 110 954C132.091 954 150 936.091 150 914C150 891.909 132.091 874 110 874Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<rect id="Img_2" x="61" y="865" width="98" height="93"/>
+</g>
+</g>
+</g>
+<path id="Line_2" d="M70 833H680" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="Message / Video">
+<g id="Video">
+<g id="Group_9">
+<rect id="Shape_6" x="624" y="738" width="32" height="28" fill="black"/>
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M651 753L667 740V766L651 753Z" fill="black"/>
+</g>
+</g>
+<g id="Chat">
+<g id="Group_10">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M526.857 760.969L517.143 770.969V760.969H526.857Z" fill="black"/>
+<rect id="Shape_9" x="517" y="735" width="36" height="26" fill="black"/>
+</g>
+</g>
+</g>
+<g id="Group_11">
+<text id="Amy Shaw" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-weight="bold" letter-spacing="0px"><tspan x="190" y="759.98">Amy Shaw</tspan></text>
+<g id="Avatar_3" filter="url(#filter2_d)">
+<path id="Mask_7" fill-rule="evenodd" clip-rule="evenodd" d="M110 712C87.9086 712 70 729.909 70 752C70 774.091 87.9086 792 110 792C132.091 792 150 774.091 150 752C150 729.909 132.091 712 110 712Z" fill="black"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="70" y="712" width="80" height="80">
+<path id="Mask_8" fill-rule="evenodd" clip-rule="evenodd" d="M110 712C87.9086 712 70 729.909 70 752C70 774.091 87.9086 792 110 792C132.091 792 150 774.091 150 752C150 729.909 132.091 712 110 712Z" fill="white"/>
+</mask>
+<g mask="url(#mask3)">
+<rect id="Img_3" opacity="0.9" x="65.2002" y="704.8" width="90.4" height="88.8"/>
+</g>
+</g>
+</g>
+<path id="Line_3" d="M70 671H680" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="More_3">
+<g id="Group_12">
+<path id="Oval_5" fill-rule="evenodd" clip-rule="evenodd" d="M631 585C631 587.761 633.239 590 636 590C638.761 590 641 587.761 641 585C641 582.239 638.761 580 636 580C633.239 580 631 582.239 631 585Z" fill="black"/>
+<path id="Oval_6" fill-rule="evenodd" clip-rule="evenodd" d="M649 585C649 587.761 651.239 590 654 590C656.761 590 659 587.761 659 585C659 582.239 656.761 580 654 580C651.239 580 649 582.239 649 585Z" fill="black"/>
+</g>
+</g>
+<g id="Group_13">
+<text id="Name_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-weight="bold" letter-spacing="0px"><tspan x="280" y="597.98">Victoria Torres</tspan></text>
+<g id="Avatar_4" filter="url(#filter3_d)">
+<path id="Mask_9" fill-rule="evenodd" clip-rule="evenodd" d="M200 550C177.909 550 160 567.909 160 590C160 612.091 177.909 630 200 630C222.091 630 240 612.091 240 590C240 567.909 222.091 550 200 550Z" fill="black"/>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="160" y="550" width="80" height="80">
+<path id="Mask_10" fill-rule="evenodd" clip-rule="evenodd" d="M200 550C177.909 550 160 567.909 160 590C160 612.091 177.909 630 200 630C222.091 630 240 612.091 240 590C240 567.909 222.091 550 200 550Z" fill="white"/>
+</mask>
+<g mask="url(#mask4)">
+<rect id="Img_4" x="156" y="538" width="90" height="100"/>
+</g>
+</g>
+</g>
+<g id="Added_2">
+<g id="Group_14">
+<path id="Shape_10" d="M80 589.918L90.056 600L110 580" stroke="black" stroke-width="6"/>
+</g>
+</g>
+<path id="Line_4" d="M70 509H680" stroke="black" stroke-width="2" stroke-linecap="square"/>
+</g>
+<g id="Search">
+<g id="Group_15">
+<g id="Oval_7">
+<mask id="path-41-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M94 457C85.7157 457 79 450.284 79 442C79 433.716 85.7157 427 94 427C102.284 427 109 433.716 109 442C109 450.284 102.284 457 94 457Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M94 457C85.7157 457 79 450.284 79 442C79 433.716 85.7157 427 94 427C102.284 427 109 433.716 109 442C109 450.284 102.284 457 94 457Z" stroke="black" stroke-width="12" mask="url(#path-41-inside-1)"/>
+</g>
+<path id="Line_5" d="M103.227 451.227L110.298 458.298" stroke="black" stroke-width="6"/>
+</g>
+</g>
+<g id="Header">
+<path id="Bg_3" fill-rule="evenodd" clip-rule="evenodd" d="M0 128V368H750V128H0Z" fill="#00A0FF"/>
+<g id="Delete">
+<g id="Group_16">
+<rect id="Shape_11" x="642" y="275" width="26" height="6" fill="white"/>
+</g>
+</g>
+<text id="Name_4" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="50" font-weight="bold" letter-spacing="-2px"><tspan x="70" y="294.625">Sienna Cardoso</tspan></text>
+<g id="Delete_2">
+<g id="Group_17">
+<rect id="Shape_12" x="642" y="215" width="26" height="6" fill="white"/>
+</g>
+</g>
+<text id="Name_5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="50" font-weight="bold" letter-spacing="-2px"><tspan x="70" y="234.625">Victoria Torres</tspan></text>
+</g>
+<g id="Nav">
+<path id="Bg_4" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="Alert">
+<g id="Group_18">
+<path id="Shape_13" fill-rule="evenodd" clip-rule="evenodd" d="M715 91V79.2581C714.988 71.4049 708.69 65 701 65C693.297 65 687 71.4049 687 79.2581V91H715Z" fill="white"/>
+<path id="Shape_14" fill-rule="evenodd" clip-rule="evenodd" d="M696 97C696 99.75 698.25 102 701 102C703.75 102 706 99.75 706 97H696Z" fill="white"/>
+</g>
+</g>
+<text id="Compose" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="302.835" y="92.305">Compose</tspan></text>
+<g id="Close">
+<g id="Group_19">
+<rect id="Shape_15" x="61.4561" y="74.2426" width="30" height="6" transform="rotate(135 61.4561 74.2426)" fill="white"/>
+<rect id="Shape_16" x="40.2427" y="70" width="30" height="6" transform="rotate(45 40.2427 70)" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="120" y="1026" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="30" y="864" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="30" y="702" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" x="120" y="540" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

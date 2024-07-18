@@ -1,0 +1,383 @@
+<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="375" height="812" fill="#F2F2F2"/>
+<g id="Demo #4 - Feed">
+<g clip-path="url(#clip0)">
+<rect width="375" height="812" fill="white"/>
+<g id="Content">
+<g id="Posts">
+<g id="Post 2">
+<g id="Rectangle" filter="url(#filter0_i)">
+<rect y="566" width="375" height="253" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Activity buttons">
+<g id="Comments">
+<text id="204" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="336" y="797.563">204</tspan></text>
+<g id="Icon">
+<path id="Comments_2" fill-rule="evenodd" clip-rule="evenodd" d="M310.833 789.833C310.833 787.992 312.326 786.5 314.167 786.5H325.833C327.674 786.5 329.167 787.992 329.167 789.833V797.333C329.167 799.174 327.674 800.667 325.833 800.667H318.333L317 802.75C316.333 804 315.121 804 315 804V803.402V800.667H314.167C312.326 800.667 310.833 799.174 310.833 797.333V789.833ZM323.333 793.167C322.873 793.167 322.5 793.54 322.5 794C322.5 794.46 322.873 794.833 323.333 794.833C323.793 794.833 324.167 794.46 324.167 794C324.167 793.54 323.793 793.167 323.333 793.167ZM319.167 794C319.167 793.54 319.54 793.167 320 793.167C320.46 793.167 320.833 793.54 320.833 794C320.833 794.46 320.46 794.833 320 794.833C319.54 794.833 319.167 794.46 319.167 794ZM316.667 793.167C316.206 793.167 315.833 793.54 315.833 794C315.833 794.46 316.206 794.833 316.667 794.833C317.127 794.833 317.5 794.46 317.5 794C317.5 793.54 317.127 793.167 316.667 793.167Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Likes">
+<text id="398" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="271" y="797.563">398</tspan></text>
+<g id="Icon_2">
+<path id="Love" fill-rule="evenodd" clip-rule="evenodd" d="M256.287 788.025C255.312 789.029 255.01 789.603 255.01 789.603C255.01 789.603 254.678 788.997 253.735 788.025C251.753 785.983 248.495 785.992 246.499 788.05C244.502 790.107 244.507 793.161 246.475 795.506C247.913 797.221 252.506 801.386 253.05 801.869C255 803.595 255 803.595 256.938 801.892C257.673 801.245 262.095 797.177 263.547 795.506C265.458 793.306 265.519 790.107 263.522 788.05C261.525 785.992 258.261 785.99 256.287 788.025Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Time">
+<text id="5 min ago" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="41" y="797.563">5 min ago</tspan></text>
+<g id="Icon_3">
+<path id="Time_2" fill-rule="evenodd" clip-rule="evenodd" d="M15.8334 794C15.8334 799.063 19.9374 803.167 25 803.167C30.0627 803.167 34.1667 799.063 34.1667 794C34.1667 788.937 30.0627 784.833 25 784.833C19.9374 784.833 15.8334 788.937 15.8334 794ZM20.8334 794.833H25C25.4603 794.833 25.8334 794.46 25.8334 794V789.833C25.8334 789.373 25.4603 789 25 789C24.5398 789 24.1667 789.373 24.1667 789.833V793.167H20.8334C20.3731 793.167 20 793.54 20 794C20 794.46 20.3731 794.833 20.8334 794.833Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+<g id="Playlist">
+<g id="Song 2">
+<g id="Song">
+<g id="Right">
+<text id="Text" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="330.687" y="753.563"> 3:24</tspan></text>
+</g>
+<g id="Left">
+<text id="Link" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="65" y="764.563">Bastille &#x2014; All This Bad Blood</tspan></text>
+<text id="Title" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="65" y="745.581">Bad Blood</tspan></text>
+<g id="Placeholder">
+<g id="Background">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M34 769C44.4934 769 53 760.493 53 750C53 739.507 44.4934 731 34 731C23.5066 731 15 739.507 15 750C15 760.493 23.5066 769 34 769Z" fill="#FF7B00"/>
+</g>
+<g id="Icon_4">
+<path id="Play" fill-rule="evenodd" clip-rule="evenodd" d="M30 745.766C30 744.989 30.848 744.509 31.5145 744.909L38.5708 749.143C39.2182 749.531 39.2182 750.469 38.5708 750.857L31.5145 755.091C30.848 755.491 30 755.011 30 754.234V745.766Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="Song 1">
+<g id="Song_2">
+<g id="Right_2">
+<text id="Text_2" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="335.339" y="695.563">3:35</tspan></text>
+</g>
+<g id="Left_2">
+<text id="Link_2" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="65" y="706.563">The Chemical Brothers &#x2014; Brotherhood</tspan></text>
+<text id="Title_2" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="65" y="687.581">Hey Boy Hey Girl</tspan></text>
+<g id="Placeholder_2">
+<g id="Background_2">
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M34 711C44.4934 711 53 702.493 53 692C53 681.507 44.4934 673 34 673C23.5066 673 15 681.507 15 692C15 702.493 23.5066 711 34 711Z" fill="#F4F4F4"/>
+</g>
+<g id="Icon_5">
+<path id="Pause" fill-rule="evenodd" clip-rule="evenodd" d="M30.5 687C29.6716 687 29 687.672 29 688.5V695.5C29 696.328 29.6716 697 30.5 697C31.3284 697 32 696.328 32 695.5V688.5C32 687.672 31.3284 687 30.5 687ZM37.5 687C36.6716 687 36 687.672 36 688.5V695.5C36 696.328 36.6716 697 37.5 697C38.3284 697 39 696.328 39 695.5V688.5C39 687.672 38.3284 687 37.5 687Z" fill="#434040"/>
+</g>
+</g>
+</g>
+</g>
+<path id="Progress Bar" fill-rule="evenodd" clip-rule="evenodd" d="M20.5649 705.435C24.0033 708.873 28.7533 711 34 711C44.4934 711 53 702.493 53 692C53 681.507 44.4934 673 34 673V676C42.8365 676 50 683.163 50 692C50 700.837 42.8365 708 34 708C29.5817 708 25.5817 706.209 22.6863 703.314L20.5649 705.435Z" fill="#FF7B00"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="20" y="673" width="33" height="38">
+<path id="Progress Bar_2" fill-rule="evenodd" clip-rule="evenodd" d="M20.5649 705.435C24.0033 708.873 28.7533 711 34 711C44.4934 711 53 702.493 53 692C53 681.507 44.4934 673 34 673V676C42.8365 676 50 683.163 50 692C50 700.837 42.8365 708 34 708C29.5817 708 25.5817 706.209 22.6863 703.314L20.5649 705.435Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+</g>
+</g>
+</g>
+<g id="I&#39;ll be at the Griff">
+<text fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="15" y="650.581">I&#39;ll be at the </tspan></text>
+<text fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="115.236" y="650.581">Griffith Train Show</tspan></text>
+<text fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="264.314" y="650.581"> today.</tspan></text>
+</g>
+<g id="Header">
+<g id="Right_3">
+<g id="Icon_6">
+<path id="Dots" fill-rule="evenodd" clip-rule="evenodd" d="M341 600C341 601.381 339.881 602.5 338.5 602.5C337.119 602.5 336 601.381 336 600C336 598.619 337.119 597.5 338.5 597.5C339.881 597.5 341 598.619 341 600ZM348 602.5C349.381 602.5 350.5 601.381 350.5 600C350.5 598.619 349.381 597.5 348 597.5C346.619 597.5 345.5 598.619 345.5 600C345.5 601.381 346.619 602.5 348 602.5ZM357.5 602.5C358.881 602.5 360 601.381 360 600C360 598.619 358.881 597.5 357.5 597.5C356.119 597.5 355 598.619 355 600C355 601.381 356.119 602.5 357.5 602.5Z" fill="#434040"/>
+</g>
+</g>
+<g id="Left_3">
+<text id="Subtitle" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="65" y="614.563">Published a post</tspan></text>
+<text id="Title_3" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="65" y="595.581">Uche Ogbonna</tspan></text>
+<g id="Placeholder_3">
+<g id="Background_3">
+<path id="Oval_3" fill-rule="evenodd" clip-rule="evenodd" d="M34 619C44.4934 619 53 610.493 53 600C53 589.507 44.4934 581 34 581C23.5066 581 15 589.507 15 600C15 610.493 23.5066 619 34 619Z" fill="#F4F4F4"/>
+</g>
+<g id="Icon_7">
+<path id="Avatar" fill-rule="evenodd" clip-rule="evenodd" d="M39 594C39 596.761 36.7614 599 34 599C31.2386 599 29 596.761 29 594C29 591.239 31.2386 589 34 589C36.7614 589 39 591.239 39 594ZM44 608C44 610 39 611 34 611C29 611 24 610 24 608C24 606 27 601 34 601C41 601 44 606 44 608Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="Post 1">
+<g id="Rectangle_2" filter="url(#filter1_i)">
+<rect y="221" width="375" height="345" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Activity buttons_2">
+<g id="Comments_3">
+<text id="280" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="336" y="544.563">280</tspan></text>
+<g id="Icon_8">
+<path id="Comments_4" fill-rule="evenodd" clip-rule="evenodd" d="M310.833 536.833C310.833 534.992 312.326 533.5 314.167 533.5H325.833C327.674 533.5 329.167 534.992 329.167 536.833V544.333C329.167 546.174 327.674 547.667 325.833 547.667H318.333L317 549.75C316.333 551 315.121 551 315 551V550.402V547.667H314.167C312.326 547.667 310.833 546.174 310.833 544.333V536.833ZM323.333 540.167C322.873 540.167 322.5 540.54 322.5 541C322.5 541.46 322.873 541.833 323.333 541.833C323.793 541.833 324.167 541.46 324.167 541C324.167 540.54 323.793 540.167 323.333 540.167ZM319.167 541C319.167 540.54 319.54 540.167 320 540.167C320.46 540.167 320.833 540.54 320.833 541C320.833 541.46 320.46 541.833 320 541.833C319.54 541.833 319.167 541.46 319.167 541ZM316.667 540.167C316.206 540.167 315.833 540.54 315.833 541C315.833 541.46 316.206 541.833 316.667 541.833C317.127 541.833 317.5 541.46 317.5 541C317.5 540.54 317.127 540.167 316.667 540.167Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Likes_2">
+<text id="652" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="271" y="544.563">652</tspan></text>
+<g id="Icon_9">
+<path id="Love_2" fill-rule="evenodd" clip-rule="evenodd" d="M256.287 535.025C255.312 536.029 255.01 536.603 255.01 536.603C255.01 536.603 254.678 535.997 253.735 535.025C251.753 532.983 248.495 532.992 246.499 535.05C244.502 537.107 244.507 540.161 246.475 542.506C247.913 544.221 252.506 548.386 253.05 548.869C255 550.595 255 550.595 256.938 548.892C257.673 548.245 262.095 544.177 263.547 542.506C265.458 540.306 265.519 537.107 263.522 535.05C261.525 532.992 258.261 532.99 256.287 535.025Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Time_3">
+<text id="3 min ago" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="41" y="544.563">3 min ago</tspan></text>
+<g id="Icon_10">
+<path id="Time_4" fill-rule="evenodd" clip-rule="evenodd" d="M15.8334 541C15.8334 546.063 19.9374 550.167 25 550.167C30.0627 550.167 34.1667 546.063 34.1667 541C34.1667 535.937 30.0627 531.833 25 531.833C19.9374 531.833 15.8334 535.937 15.8334 541ZM20.8334 541.833H25C25.4603 541.833 25.8334 541.46 25.8334 541V536.833C25.8334 536.373 25.4603 536 25 536C24.5398 536 24.1667 536.373 24.1667 536.833V540.167H20.8334C20.3731 540.167 20 540.54 20 541C20 541.46 20.3731 541.833 20.8334 541.833Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+<g id="Images">
+<g id="Image 3">
+<g id="Placeholder_4">
+<g id="Background_4">
+<rect id="Rectangle_3" x="313" y="376" width="140" height="140" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon_11">
+<path id="Image" fill-rule="evenodd" clip-rule="evenodd" d="M395 430C395 432.209 393.209 434 391 434C388.791 434 387 432.209 387 430C387 427.791 388.791 426 391 426C393.209 426 395 427.791 395 430ZM373.495 436.587C373.176 436.222 372.876 436.251 372.646 436.678L359.531 461.015C359.189 461.65 359 462.377 359 463.098C359 464.701 360.299 466 361.902 466H403C405.209 466 407 464.209 407 462L396.197 447.596C395.534 446.712 394.283 446.538 393.4 447.202L387 452.011L373.495 436.587Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+<g id="Image 2">
+<g id="Placeholder_5">
+<g id="Background_5">
+<rect id="Rectangle_4" x="164" y="376" width="140" height="140" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon_12">
+<path id="Image_2" fill-rule="evenodd" clip-rule="evenodd" d="M246 430C246 432.209 244.209 434 242 434C239.791 434 238 432.209 238 430C238 427.791 239.791 426 242 426C244.209 426 246 427.791 246 430ZM224.495 436.587C224.176 436.222 223.876 436.251 223.646 436.678L210.531 461.015C210.189 461.65 210 462.377 210 463.098C210 464.701 211.299 466 212.902 466H254C256.209 466 258 464.209 258 462L247.197 447.596C246.534 446.712 245.283 446.538 244.4 447.202L238 452.011L224.495 436.587Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+<g id="Image 1">
+<g id="Placeholder_6">
+<g id="Background_6">
+<rect id="Rectangle_5" x="15" y="376" width="140" height="140" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon_13">
+<path id="Image_3" fill-rule="evenodd" clip-rule="evenodd" d="M97 430C97 432.209 95.2091 434 93 434C90.7909 434 89 432.209 89 430C89 427.791 90.7909 426 93 426C95.2091 426 97 427.791 97 430ZM75.4953 436.587C75.176 436.222 74.8761 436.251 74.6462 436.678L61.5307 461.015C61.1888 461.65 61 462.377 61 463.098C61 464.701 62.2992 466 63.9018 466H105C107.209 466 109 464.209 109 462L98.197 447.596C97.5339 446.712 96.2833 446.538 95.3997 447.202L89 452.011L75.4953 436.587Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Excellent! @Bowen po">
+<text fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="15" y="305.581">Excellent! </tspan></text>
+<text fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="97.9742" y="305.581">@Bowen </tspan></text>
+<text fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="175.235" y="305.581">posters ordered over </tspan><tspan x="15" y="329.581">the last two weeks went out yesterday. </tspan><tspan x="15" y="353.581">Should be in your hands on Tu&#x2026;  </tspan></text>
+<text fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="281.646" y="353.581">See</tspan></text>
+<text fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="311.094" y="353.581"> </tspan></text>
+<text fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="315.888" y="353.581">More</tspan></text>
+</g>
+<g id="Header_2">
+<g id="Right_4">
+<g id="Icon_14">
+<path id="Dots_2" fill-rule="evenodd" clip-rule="evenodd" d="M341 255C341 256.381 339.881 257.5 338.5 257.5C337.119 257.5 336 256.381 336 255C336 253.619 337.119 252.5 338.5 252.5C339.881 252.5 341 253.619 341 255ZM348 257.5C349.381 257.5 350.5 256.381 350.5 255C350.5 253.619 349.381 252.5 348 252.5C346.619 252.5 345.5 253.619 345.5 255C345.5 256.381 346.619 257.5 348 257.5ZM357.5 257.5C358.881 257.5 360 256.381 360 255C360 253.619 358.881 252.5 357.5 252.5C356.119 252.5 355 253.619 355 255C355 256.381 356.119 257.5 357.5 257.5Z" fill="#434040"/>
+</g>
+</g>
+<g id="Left_4">
+<text id="Subtitle_2" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="65" y="269.563">Added 3 new photos</tspan></text>
+<text id="Title_4" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="65" y="250.581">Nonkosi Joyi</tspan></text>
+<g id="Placeholder_7">
+<g id="Background_7">
+<path id="Oval_4" fill-rule="evenodd" clip-rule="evenodd" d="M34 274C44.4934 274 53 265.493 53 255C53 244.507 44.4934 236 34 236C23.5066 236 15 244.507 15 255C15 265.493 23.5066 274 34 274Z" fill="#F4F4F4"/>
+</g>
+<g id="Icon_15">
+<path id="Avatar_2" fill-rule="evenodd" clip-rule="evenodd" d="M39 249C39 251.761 36.7614 254 34 254C31.2386 254 29 251.761 29 249C29 246.239 31.2386 244 34 244C36.7614 244 39 246.239 39 249ZM44 263C44 265 39 266 34 266C29 266 24 265 24 263C24 261 27 256 34 256C41 256 44 261 44 263Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="You May Know">
+<g id="Users">
+<g id="Rectangle_6" filter="url(#filter2_i)">
+<rect y="142" width="375" height="79" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="User 5">
+<g id="Placeholder_8">
+<g id="Background_8">
+<path id="Oval_5" fill-rule="evenodd" clip-rule="evenodd" d="M363 206C380.673 206 395 191.673 395 174C395 156.327 380.673 142 363 142C345.327 142 331 156.327 331 174C331 191.673 345.327 206 363 206Z" fill="#F4F4F4"/>
+</g>
+<g id="Icon_16">
+<path id="Avatar_3" fill-rule="evenodd" clip-rule="evenodd" d="M368 168C368 170.761 365.761 173 363 173C360.239 173 358 170.761 358 168C358 165.239 360.239 163 363 163C365.761 163 368 165.239 368 168ZM373 182C373 184 368 185 363 185C358 185 353 184 353 182C353 180 356 175 363 175C370 175 373 180 373 182Z" fill="#DCDBDB"/>
+</g>
+</g>
+<path id="Oval_6" fill-rule="evenodd" clip-rule="evenodd" d="M335 150C337.209 150 339 148.209 339 146C339 143.791 337.209 142 335 142C332.791 142 331 143.791 331 146C331 148.209 332.791 150 335 150Z" fill="#DCDBDB"/>
+</g>
+<g id="User 4">
+<g id="Placeholder_9">
+<g id="Background_9">
+<path id="Oval_7" fill-rule="evenodd" clip-rule="evenodd" d="M284 206C301.673 206 316 191.673 316 174C316 156.327 301.673 142 284 142C266.327 142 252 156.327 252 174C252 191.673 266.327 206 284 206Z" fill="#F4F4F4"/>
+</g>
+<g id="Icon_17">
+<path id="Avatar_4" fill-rule="evenodd" clip-rule="evenodd" d="M289 168C289 170.761 286.761 173 284 173C281.239 173 279 170.761 279 168C279 165.239 281.239 163 284 163C286.761 163 289 165.239 289 168ZM294 182C294 184 289 185 284 185C279 185 274 184 274 182C274 180 277 175 284 175C291 175 294 180 294 182Z" fill="#DCDBDB"/>
+</g>
+</g>
+<path id="Oval_8" fill-rule="evenodd" clip-rule="evenodd" d="M256 150C258.209 150 260 148.209 260 146C260 143.791 258.209 142 256 142C253.791 142 252 143.791 252 146C252 148.209 253.791 150 256 150Z" fill="#FF7B00"/>
+</g>
+<g id="User 3">
+<g id="Placeholder_10">
+<g id="Background_10">
+<path id="Oval_9" fill-rule="evenodd" clip-rule="evenodd" d="M205 206C222.673 206 237 191.673 237 174C237 156.327 222.673 142 205 142C187.327 142 173 156.327 173 174C173 191.673 187.327 206 205 206Z" fill="#F4F4F4"/>
+</g>
+<g id="Icon_18">
+<path id="Avatar_5" fill-rule="evenodd" clip-rule="evenodd" d="M210 168C210 170.761 207.761 173 205 173C202.239 173 200 170.761 200 168C200 165.239 202.239 163 205 163C207.761 163 210 165.239 210 168ZM215 182C215 184 210 185 205 185C200 185 195 184 195 182C195 180 198 175 205 175C212 175 215 180 215 182Z" fill="#DCDBDB"/>
+</g>
+</g>
+<path id="Oval_10" fill-rule="evenodd" clip-rule="evenodd" d="M177 150C179.209 150 181 148.209 181 146C181 143.791 179.209 142 177 142C174.791 142 173 143.791 173 146C173 148.209 174.791 150 177 150Z" fill="#DCDBDB"/>
+</g>
+<g id="User 2">
+<g id="Placeholder_11">
+<g id="Background_11">
+<path id="Oval_11" fill-rule="evenodd" clip-rule="evenodd" d="M126 206C143.673 206 158 191.673 158 174C158 156.327 143.673 142 126 142C108.327 142 94 156.327 94 174C94 191.673 108.327 206 126 206Z" fill="#F4F4F4"/>
+</g>
+<g id="Icon_19">
+<path id="Avatar_6" fill-rule="evenodd" clip-rule="evenodd" d="M131 168C131 170.761 128.761 173 126 173C123.239 173 121 170.761 121 168C121 165.239 123.239 163 126 163C128.761 163 131 165.239 131 168ZM136 182C136 184 131 185 126 185C121 185 116 184 116 182C116 180 119 175 126 175C133 175 136 180 136 182Z" fill="#DCDBDB"/>
+</g>
+</g>
+<path id="Oval_12" fill-rule="evenodd" clip-rule="evenodd" d="M98 150C100.209 150 102 148.209 102 146C102 143.791 100.209 142 98 142C95.7909 142 94 143.791 94 146C94 148.209 95.7909 150 98 150Z" fill="#FF7B00"/>
+</g>
+<g id="User 1">
+<g id="Placeholder_12">
+<g id="Background_12">
+<path id="Oval_13" fill-rule="evenodd" clip-rule="evenodd" d="M47 206C64.6731 206 79 191.673 79 174C79 156.327 64.6731 142 47 142C29.3269 142 15 156.327 15 174C15 191.673 29.3269 206 47 206Z" fill="#F4F4F4"/>
+</g>
+<g id="Icon_20">
+<path id="Avatar_7" fill-rule="evenodd" clip-rule="evenodd" d="M52 168C52 170.761 49.7614 173 47 173C44.2386 173 42 170.761 42 168C42 165.239 44.2386 163 47 163C49.7614 163 52 165.239 52 168ZM57 182C57 184 52 185 47 185C42 185 37 184 37 182C37 180 40 175 47 175C54 175 57 180 57 182Z" fill="#DCDBDB"/>
+</g>
+</g>
+<path id="Oval_14" fill-rule="evenodd" clip-rule="evenodd" d="M19 150C21.2091 150 23 148.209 23 146C23 143.791 21.2091 142 19 142C16.7909 142 15 143.791 15 146C15 148.209 16.7909 150 19 150Z" fill="#FF7B00"/>
+</g>
+</g>
+<g id="Sub Header">
+<g id="Right_5">
+<text id="Link_3" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="300.089" y="119.581"> See All</tspan></text>
+</g>
+<g id="Left_5">
+<text id="Text_3" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="15" y="119.581">You May Know</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="Tab Bar">
+<g id="Bar" filter="url(#filter3_i)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 812V729H375V812H0Z" fill="white"/>
+</g>
+<g id="Home Indicator">
+<rect id="Home Indicator_2" x="120.5" y="799" width="134" height="5" rx="2.5" fill="#434040"/>
+</g>
+<g id="Item 5">
+<text id="Label" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="12" letter-spacing="0.3px"><tspan x="319.537" y="776.054">Profile</tspan></text>
+<g id="Icon_21">
+<path id="Avatar_8" fill-rule="evenodd" clip-rule="evenodd" d="M331.15 742.5C331.15 745.731 333.769 748.35 337 748.35C340.231 748.35 342.85 745.731 342.85 742.5C342.85 739.269 340.231 736.65 337 736.65C333.769 736.65 331.15 739.269 331.15 742.5ZM326.65 756C326.65 758.297 331.212 759.35 337 759.35C342.788 759.35 347.35 758.297 347.35 756C347.35 753.006 343.248 749.65 337 749.65C330.752 749.65 326.65 753.006 326.65 756ZM330.928 756.06C332.532 756.43 334.704 756.65 337 756.65C339.295 756.65 341.468 756.43 343.071 756.06C343.665 755.923 344.15 755.771 344.491 755.623C344.466 755.575 344.439 755.523 344.408 755.47C344.156 755.033 343.774 754.582 343.27 754.17C341.887 753.038 339.823 752.35 337 752.35C334.177 752.35 332.113 753.038 330.73 754.17C330.226 754.582 329.844 755.033 329.592 755.47C329.561 755.523 329.534 755.575 329.509 755.623C329.85 755.771 330.335 755.923 330.928 756.06ZM340.15 742.5C340.15 744.24 338.74 745.65 337 745.65C335.26 745.65 333.85 744.24 333.85 742.5C333.85 740.76 335.26 739.35 337 739.35C338.74 739.35 340.15 740.76 340.15 742.5Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Item 4">
+<text id="Label_2" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="12" letter-spacing="0.3px"><tspan x="235.872" y="776.054">Messages</tspan></text>
+<g id="Icon_22">
+<path id="Comments_5" fill-rule="evenodd" clip-rule="evenodd" d="M262.786 757.272L262.7 757.4C261.108 759.522 259.675 760 257 760H255.5V756.478C252.697 756.225 250.5 753.869 250.5 751V742C250.5 738.962 252.962 736.5 256 736.5H268C271.038 736.5 273.5 738.962 273.5 742V751C273.5 754.038 271.038 756.5 268 756.5H263.249L262.786 757.272ZM261.551 753.5H268C269.381 753.5 270.5 752.381 270.5 751V742C270.5 740.619 269.381 739.5 268 739.5H256C254.619 739.5 253.5 740.619 253.5 742V751C253.5 752.381 254.619 753.5 256 753.5H258.5V756.899C259.236 756.754 259.681 756.413 260.255 755.66L261.551 753.5ZM266 745.5C265.448 745.5 265 745.948 265 746.5C265 747.052 265.448 747.5 266 747.5C266.552 747.5 267 747.052 267 746.5C267 745.948 266.552 745.5 266 745.5ZM261 746.5C261 745.948 261.448 745.5 262 745.5C262.552 745.5 263 745.948 263 746.5C263 747.052 262.552 747.5 262 747.5C261.448 747.5 261 747.052 261 746.5ZM258 745.5C257.448 745.5 257 745.948 257 746.5C257 747.052 257.448 747.5 258 747.5C258.552 747.5 259 747.052 259 746.5C259 745.948 258.552 745.5 258 745.5Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Item 3">
+<text id="Label_3" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="12" letter-spacing="0.3px"><tspan x="166.516" y="776.054">Activity</tspan></text>
+<g id="Icon_23">
+<path id="Activity" fill-rule="evenodd" clip-rule="evenodd" d="M186.5 739.5C186.5 738.672 187.172 738 188 738C188.828 738 189.5 738.672 189.5 739.5V755H186.5V739.5ZM194.5 745C193.672 745 193 745.672 193 746.5V755H196V746.5C196 745.672 195.328 745 194.5 745ZM178 757C177.448 757 177 757.448 177 758C177 758.552 177.448 759 178 759H198C198.552 759 199 758.552 199 758C199 757.448 198.552 757 198 757H178ZM181.5 749C180.672 749 180 749.672 180 750.5V755H183V750.5C183 749.672 182.328 749 181.5 749Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Item 2">
+<text id="Label_4" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="12" letter-spacing="0.3px"><tspan x="94.0551" y="776.054">Friends</tspan></text>
+<g id="Icon_24">
+<path id="Friends" fill-rule="evenodd" clip-rule="evenodd" d="M113 748.35C109.769 748.35 107.15 745.731 107.15 742.5C107.15 739.269 109.769 736.65 113 736.65C116.231 736.65 118.85 739.269 118.85 742.5C118.85 745.731 116.231 748.35 113 748.35ZM102.65 756C102.65 758.297 107.212 759.35 113 759.35C113.359 759.35 113.713 759.346 114.062 759.338C114.069 759.293 114.076 759.248 114.085 759.202C114.111 759.063 114.144 758.928 114.184 758.794C114.218 758.677 114.252 758.575 114.283 758.49L114.87 756.601C114.263 756.633 113.636 756.65 113 756.65C110.704 756.65 108.532 756.43 106.928 756.06C106.335 755.923 105.85 755.771 105.509 755.623C105.534 755.575 105.561 755.523 105.592 755.47C105.844 755.033 106.226 754.582 106.73 754.17C107.958 753.165 109.724 752.51 112.08 752.376C112.441 751.508 113.459 750.959 114.578 750.959L115.775 750.959L116.611 750.959L116.869 750.117C115.703 749.82 114.406 749.65 113 749.65C106.752 749.65 102.65 753.006 102.65 756ZM113 745.65C114.74 745.65 116.15 744.24 116.15 742.5C116.15 740.76 114.74 739.35 113 739.35C111.26 739.35 109.85 740.76 109.85 742.5C109.85 744.24 111.26 745.65 113 745.65ZM124.679 753.633L121.809 755.822L122.847 759.184C122.847 759.184 123.447 760.597 122.225 759.684C121.106 758.848 119.507 757.586 119.507 757.586C119.507 757.586 117.83 758.876 116.721 759.728C115.605 760.586 116.176 759.14 116.176 759.14L117.208 755.818L114.404 753.68C114.404 753.68 113.388 752.959 114.578 752.959C115.948 752.959 118.089 752.96 118.089 752.96L119.208 749.313C119.208 749.313 119.295 749 119.515 749C119.749 749 119.827 749.336 119.827 749.336L120.933 752.962C120.933 752.962 123.052 752.959 124.423 752.959C125.549 752.959 124.679 753.633 124.679 753.633Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Item 1">
+<text id="Label_5" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="12" letter-spacing="0.3px"><tspan x="24.9406" y="776.054">Feed</tspan></text>
+<g id="Icon_25">
+<path id="Feed" fill-rule="evenodd" clip-rule="evenodd" d="M29 736H47C48.6569 736 50 737.343 50 739V757C50 758.657 48.6569 760 47 760H29C27.3431 760 26 758.657 26 757V739C26 737.343 27.3431 736 29 736ZM29 739V757H47V739H29ZM32.5 752C31.6716 752 31 752.672 31 753.5C31 754.328 31.6716 755 32.5 755H43.5C44.3284 755 45 754.328 45 753.5C45 752.672 44.3284 752 43.5 752H32.5ZM31 748C31 747.172 31.6716 746.5 32.5 746.5H43.5C44.3284 746.5 45 747.172 45 748C45 748.828 44.3284 749.5 43.5 749.5H32.5C31.6716 749.5 31 748.828 31 748ZM32.5 741C31.6716 741 31 741.672 31 742.5C31 743.328 31.6716 744 32.5 744H43.5C44.3284 744 45 743.328 45 742.5C45 741.672 44.3284 741 43.5 741H32.5Z" fill="#FF7B00"/>
+</g>
+</g>
+</g>
+<g id="Navigation Bar">
+<g id="Background_13" filter="url(#filter4_i)">
+<rect y="44" width="375" height="44" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Right_6">
+<g id="Icon 2">
+<path id="Add" fill-rule="evenodd" clip-rule="evenodd" d="M314 55C313.172 55 312.5 55.6716 312.5 56.5V64.5H304.5C303.672 64.5 303 65.1716 303 66C303 66.8284 303.672 67.5 304.5 67.5H312.5V75.5C312.5 76.3284 313.172 77 314 77C314.828 77 315.5 76.3284 315.5 75.5V67.5H323.5C324.328 67.5 325 66.8284 325 66C325 65.1716 324.328 64.5 323.5 64.5H315.5V56.5C315.5 55.6716 314.828 55 314 55Z" fill="#FF7B00"/>
+</g>
+<g id="Icon 1">
+<path id="Search" fill-rule="evenodd" clip-rule="evenodd" d="M346 74C340.477 74 336 69.5228 336 64C336 58.4772 340.477 54 346 54C351.523 54 356 58.4772 356 64C356 66.2203 355.276 68.2716 354.052 69.9309L359.561 75.4393C360.146 76.0251 360.146 76.9749 359.561 77.5607C358.975 78.1464 358.025 78.1464 357.439 77.5607L351.931 72.0522C350.272 73.2764 348.22 74 346 74ZM353 64C353 67.866 349.866 71 346 71C342.134 71 339 67.866 339 64C339 60.134 342.134 57 346 57C349.866 57 353 60.134 353 64Z" fill="#FF7B00"/>
+</g>
+</g>
+<g id="Center">
+<text id="Title_5" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="167.748" y="70.581">Feed</tspan></text>
+</g>
+<g id="Left_6">
+<text id="Link_4" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="36" y="70.581">Back</tspan></text>
+<g id="Arrow">
+<path id="Arrow_2" fill-rule="evenodd" clip-rule="evenodd" d="M25.5371 75.5928L16.2922 66.6788C15.9026 66.3036 15.9026 65.6974 16.2922 65.3212L25.5371 56.4072C26.0995 55.8643 27.0144 55.8643 27.5777 56.4072C28.14 56.95 28.14 57.8311 27.5777 58.374L19.6691 66.0005L27.5777 73.6251C28.14 74.1689 28.14 75.05 27.5777 75.5928C27.0144 76.1357 26.0995 76.1357 25.5371 75.5928" fill="#FF7B00"/>
+</g>
+</g>
+</g>
+<g id="Status Bar">
+<g id="Battery">
+<rect id="Border" opacity="0.35" x="336.833" y="17.8334" width="21" height="10.3333" rx="2.16667" stroke="#434040"/>
+<path id="Cap" opacity="0.4" d="M359.333 21V25C360.138 24.6612 360.661 23.8731 360.661 23C360.661 22.1269 360.138 21.3388 359.333 21" fill="#434040"/>
+<rect id="Capacity" x="338.333" y="19.3334" width="18" height="7.33333" rx="1.33333" fill="#434040"/>
+</g>
+<path id="Wifi" fill-rule="evenodd" clip-rule="evenodd" d="M323.667 19.6152C325.892 19.6153 328.031 20.4694 329.644 22.001C329.765 22.1192 329.959 22.1177 330.079 21.9976L331.239 20.8273C331.3 20.7664 331.334 20.6839 331.333 20.598C331.333 20.5122 331.298 20.4301 331.237 20.3699C327.005 16.3176 320.329 16.3176 316.097 20.3699C316.035 20.43 316.001 20.5121 316 20.598C315.999 20.6838 316.033 20.7663 316.094 20.8273L317.255 21.9976C317.374 22.1179 317.568 22.1194 317.69 22.001C319.302 20.4693 321.442 19.6152 323.667 19.6152V19.6152ZM323.667 23.4227C324.889 23.4227 326.068 23.8766 326.974 24.6964C327.097 24.8127 327.29 24.8102 327.409 24.6907L328.569 23.5204C328.63 23.459 328.663 23.3757 328.663 23.2892C328.662 23.2027 328.626 23.1201 328.564 23.0599C325.805 20.4955 321.532 20.4955 318.773 23.0599C318.71 23.1201 318.675 23.2027 318.674 23.2893C318.673 23.3758 318.707 23.4591 318.768 23.5204L319.927 24.6907C320.047 24.8102 320.24 24.8127 320.362 24.6964C321.268 23.8772 322.446 23.4233 323.667 23.4227V23.4227ZM325.895 26.2158C325.957 26.155 325.991 26.0714 325.989 25.9846C325.988 25.8978 325.95 25.8156 325.886 25.7574C324.605 24.6751 322.729 24.6751 321.449 25.7574C321.384 25.8156 321.347 25.8977 321.345 25.9845C321.343 26.0713 321.377 26.155 321.439 26.2158L323.445 28.2378C323.503 28.2972 323.583 28.3307 323.667 28.3307C323.751 28.3307 323.831 28.2972 323.89 28.2378L325.895 26.2158Z" fill="#434040"/>
+<path id="Cellular Connection" fill-rule="evenodd" clip-rule="evenodd" d="M295 24.3333H296C296.552 24.3333 297 24.781 297 25.3333V27.3333C297 27.8856 296.552 28.3333 296 28.3333H295C294.448 28.3333 294 27.8856 294 27.3333V25.3333C294 24.781 294.448 24.3333 295 24.3333V24.3333ZM299.667 22.3333H300.667C301.219 22.3333 301.667 22.781 301.667 23.3333V27.3333C301.667 27.8856 301.219 28.3333 300.667 28.3333H299.667C299.114 28.3333 298.667 27.8856 298.667 27.3333V23.3333C298.667 22.781 299.114 22.3333 299.667 22.3333ZM304.333 20H305.333C305.886 20 306.333 20.4477 306.333 21V27.3333C306.333 27.8856 305.886 28.3333 305.333 28.3333H304.333C303.781 28.3333 303.333 27.8856 303.333 27.3333V21C303.333 20.4477 303.781 20 304.333 20ZM309 17.6666H310C310.552 17.6666 311 18.1143 311 18.6666V27.3333C311 27.8856 310.552 28.3333 310 28.3333H309C308.448 28.3333 308 27.8856 308 27.3333V18.6666C308 18.1143 308.448 17.6666 309 17.6666V17.6666Z" fill="#434040"/>
+<g id="Time Style">
+<path id="9:41" fill-rule="evenodd" clip-rule="evenodd" d="M37.2842 28.5863C35.3506 28.5863 33.8784 27.4437 33.5635 25.7079H35.4458C35.6875 26.5062 36.3906 27.0043 37.2988 27.0043C38.8442 27.0043 39.7598 25.5614 39.7598 23.1444H39.6353C39.1372 24.1478 38.1338 24.7264 36.896 24.7264C34.8818 24.7264 33.417 23.2469 33.417 21.2108C33.417 19.0428 35.043 17.4974 37.3428 17.4974C38.8882 17.4974 40.1113 18.2299 40.8218 19.5848C41.3125 20.4564 41.5688 21.5844 41.5688 22.9247C41.5688 26.4843 39.9722 28.5863 37.2842 28.5863ZM37.3501 23.225C38.5586 23.225 39.4448 22.3607 39.4448 21.1815C39.4448 19.9877 38.5366 19.0721 37.3574 19.0721C36.1782 19.0721 35.27 19.973 35.27 21.1522C35.27 22.3607 36.1343 23.225 37.3501 23.225ZM43.4148 26.0521C43.4148 26.7113 43.8982 27.2094 44.5867 27.2094C45.2825 27.2094 45.7586 26.7113 45.7586 26.0521C45.7586 25.3856 45.2825 24.8949 44.5867 24.8949C43.8982 24.8949 43.4148 25.3856 43.4148 26.0521ZM44.5867 21.7162C43.8982 21.7162 43.4148 21.2255 43.4148 20.5663C43.4148 19.8998 43.8982 19.4091 44.5867 19.4091C45.2825 19.4091 45.7586 19.8998 45.7586 20.5663C45.7586 21.2255 45.2825 21.7162 44.5867 21.7162ZM52.7608 26.3597V28.33H54.5699V26.3597H55.9981V24.7631H54.5699V17.7611H51.9039C50.0362 20.5736 48.5494 22.9247 47.5973 24.6752V26.3597H52.7608ZM49.3478 24.6971V24.807H52.7901V19.2992H52.6876C51.6769 20.7933 50.5782 22.5292 49.3478 24.6971ZM60.0268 19.6654V28.33H61.9164V17.7611H60.0341L57.2729 19.6947V21.5111L59.9022 19.6654H60.0268Z" fill="#434040"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_i" x="0" y="566" width="375" height="253" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter1_i" x="0" y="221" width="375" height="345" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter2_i" x="0" y="142" width="375" height="79" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter3_i" x="0" y="729" width="375" height="83" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter4_i" x="0" y="44" width="375" height="44" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<clipPath id="clip0">
+<rect width="375" height="812" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,126 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="1-13 Stats">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<path id="Main Bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 1334V0H750V1334H0Z" fill="#D5D5D3"/>
+<g id="Bg_2" filter="url(#filter0_d)">
+<rect x="100" width="550" height="1334" fill="white"/>
+</g>
+</g>
+<g id="Followers">
+<rect id="Bg_3" x="375" y="709" width="315" height="625" fill="#AD6CFF"/>
+<text id="FOLLOWERS" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="459.021" y="880.17">FOLLOWERS</tspan></text>
+<text id="625" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="100" font-weight="bold" letter-spacing="5px"><tspan x="436.436" y="835.85">625</tspan></text>
+</g>
+<g id="Likes">
+<rect id="Bg_4" x="60" y="444" width="315" height="890" fill="#75BAF7"/>
+<text id="LIKES" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="185.143" y="615.17">LIKES</tspan></text>
+<text id="890" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="100" font-weight="bold" letter-spacing="5px"><tspan x="114.221" y="570.85">890</tspan></text>
+</g>
+<g id="Footer">
+<rect id="Bg_5" y="1214" width="750" height="120" fill="black"/>
+<text id="MONTH" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="6px"><tspan x="550" y="1281.17">MONTH</tspan></text>
+<text id="WEEK" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="6px"><tspan x="333" y="1281.17">WEEK</tspan></text>
+<path id="Line" d="M144 1314V1334" stroke="white" stroke-width="4" stroke-linecap="square"/>
+<text id="DAY" fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="6px"><tspan x="115" y="1281.17">DAY</tspan></text>
+</g>
+<g id="February" opacity="0.4">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="565" y="340.17">FEBRUAR</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="0px"><tspan x="678.902" y="340.17">Y</tspan></text>
+</g>
+<path id="Line_2" d="M413.514 361H519.514" stroke="black" stroke-width="4" stroke-linecap="square"/>
+<g id="January">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="410" y="340.17">JANUAR</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="0px"><tspan x="506.668" y="340.17">Y</tspan></text>
+</g>
+<g id="December" opacity="0.4">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="237" y="340.17">DECEMBE</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="0px"><tspan x="356.137" y="340.17">R</tspan></text>
+</g>
+<g id="November" opacity="0.4">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="60" y="340.17">NOVEMBE</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="0px"><tspan x="181.227" y="340.17">R</tspan></text>
+</g>
+<text id="2015" opacity="0.1" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="40" font-weight="bold" letter-spacing="4px"><tspan x="508.117" y="242.84">2015</tspan></text>
+<g id="STATS" filter="url(#filter1_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="80" font-weight="bold" letter-spacing="14px"><tspan x="60" y="257.68">STATS</tspan></text>
+</g>
+<g id="Nav">
+<g id="Bg_6" filter="url(#filter2_d)">
+<rect width="750" height="128" fill="url(#paint0_linear)"/>
+</g>
+<g id="More">
+<g id="Group">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M695 97C697.761 97 700 94.7614 700 92C700 89.2386 697.761 87 695 87C692.239 87 690 89.2386 690 92C690 94.7614 692.239 97 695 97Z" fill="white"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M695 79C697.761 79 700 76.7614 700 74C700 71.2386 697.761 69 695 69C692.239 69 690 71.2386 690 74C690 76.7614 692.239 79 695 79Z" fill="white"/>
+</g>
+</g>
+<g id="Alert">
+<g id="Group_2">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M608 91V79.7097C607.988 72.1586 602.141 66 595 66C587.847 66 582 72.1586 582 79.7097V91H608Z" fill="white"/>
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M590 96C590 98.75 592.25 101 595 101C597.75 101 600 98.75 600 96H590Z" fill="white"/>
+</g>
+</g>
+<g id="Search">
+<g id="Group_3">
+<g id="Oval_3">
+<mask id="path-27-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M494 97C485.716 97 479 90.2843 479 82C479 73.7157 485.716 67 494 67C502.284 67 509 73.7157 509 82C509 90.2843 502.284 97 494 97Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M494 97C485.716 97 479 90.2843 479 82C479 73.7157 485.716 67 494 67C502.284 67 509 73.7157 509 82C509 90.2843 502.284 97 494 97Z" stroke="white" stroke-width="12" mask="url(#path-27-inside-1)"/>
+</g>
+<path id="Line_3" d="M503.228 91.2273L510.299 98.2984" stroke="white" stroke-width="6"/>
+</g>
+</g>
+<g id="RELATE">
+<g id="ATE">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="10px"><tspan x="56.623" y="102.573">AT</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="103.596" y="102.573">E</tspan></text>
+</g>
+<g id="REL">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="10px"><tspan x="29.9521" y="74.17">RE</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="78.0771" y="74.17">L</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="50" y="0" width="650" height="1434" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="50"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="12.2402" y="201.04" width="406.935" height="157.92" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="50"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="-20" y="0" width="790" height="168" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="-375" y1="64" x2="-332.546" y2="312.755" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AD6BFF"/>
+<stop offset="1" stop-color="#74BCF7"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

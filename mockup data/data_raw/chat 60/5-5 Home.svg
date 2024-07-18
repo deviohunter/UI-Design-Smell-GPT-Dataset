@@ -1,0 +1,174 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="5-5 Home">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#F9EB59"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.05" fill-rule="evenodd" clip-rule="evenodd" d="M0 43L750 793H0V43Z" fill="black"/>
+<rect id="Shape_2" opacity="0.05" y="793" width="750" height="540" fill="black"/>
+</g>
+</g>
+<g id="Group">
+<text id="Name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" letter-spacing="0px"><tspan x="190" y="1200.98">Todd Fisher</tspan></text>
+<text id="Time" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-style="italic" letter-spacing="0px"><tspan x="618.566" y="1205.32">Aug 23</tspan></text>
+<text id="Message" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="190" y="1246.65">Talk to you soon.</tspan></text>
+<g id="Avatar" filter="url(#filter0_d)">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M110 1179C87.9086 1179 70 1196.91 70 1219C70 1241.09 87.9086 1259 110 1259C132.091 1259 150 1241.09 150 1219C150 1196.91 132.091 1179 110 1179Z" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="70" y="1179" width="80" height="80">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M110 1179C87.9086 1179 70 1196.91 70 1219C70 1241.09 87.9086 1259 110 1259C132.091 1259 150 1241.09 150 1219C150 1196.91 132.091 1179 110 1179Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect id="Img" x="61" y="1170" width="98" height="93"/>
+</g>
+</g>
+</g>
+<path id="Line" d="M70 1128H680" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="Group_2">
+<text id="Time_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-style="italic" letter-spacing="0px"><tspan x="620.961" y="1017.32">2 days</tspan></text>
+<text id="Message_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="190" y="1064.65">Talk to you later, bye</tspan></text>
+<g id="Avatars" filter="url(#filter1_d)">
+<g id="Avatar_2">
+<path id="Mask_5" fill-rule="evenodd" clip-rule="evenodd" d="M133 1043C123.611 1043 116 1050.61 116 1060C116 1069.39 123.611 1077 133 1077C142.389 1077 150 1069.39 150 1060C150 1050.61 142.389 1043 133 1043Z" fill="black"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="116" y="1043" width="34" height="34">
+<path id="Mask_6" fill-rule="evenodd" clip-rule="evenodd" d="M133 1043C123.611 1043 116 1050.61 116 1060C116 1069.39 123.611 1077 133 1077C142.389 1077 150 1069.39 150 1060C150 1050.61 142.389 1043 133 1043Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<text id="3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="18" font-weight="bold" letter-spacing="0px"><tspan x="127.401" y="1065.49">3</tspan></text>
+</g>
+</g>
+<g id="Avatar_3">
+<path id="Mask_7" fill-rule="evenodd" clip-rule="evenodd" d="M87 1043C77.6112 1043 70 1050.61 70 1060C70 1069.39 77.6112 1077 87 1077C96.3888 1077 104 1069.39 104 1060C104 1050.61 96.3888 1043 87 1043Z" fill="black"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="70" y="1043" width="34" height="34">
+<path id="Mask_8" fill-rule="evenodd" clip-rule="evenodd" d="M87 1043C77.6112 1043 70 1050.61 70 1060C70 1069.39 77.6112 1077 87 1077C96.3888 1077 104 1069.39 104 1060C104 1050.61 96.3888 1043 87 1043Z" fill="white"/>
+</mask>
+<g mask="url(#mask3)">
+<rect id="Img_2" x="67" y="1041" width="40" height="39"/>
+</g>
+</g>
+<g id="Avatar_4">
+<path id="Mask_9" fill-rule="evenodd" clip-rule="evenodd" d="M133 997C123.611 997 116 1004.61 116 1014C116 1023.39 123.611 1031 133 1031C142.389 1031 150 1023.39 150 1014C150 1004.61 142.389 997 133 997Z" fill="black"/>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="116" y="997" width="34" height="34">
+<path id="Mask_10" fill-rule="evenodd" clip-rule="evenodd" d="M133 997C123.611 997 116 1004.61 116 1014C116 1023.39 123.611 1031 133 1031C142.389 1031 150 1023.39 150 1014C150 1004.61 142.389 997 133 997Z" fill="white"/>
+</mask>
+<g mask="url(#mask4)">
+<rect id="Img_3" x="110" y="997" width="40" height="34"/>
+</g>
+</g>
+<g id="Avatar_5">
+<path id="Mask_11" fill-rule="evenodd" clip-rule="evenodd" d="M87 997C77.6112 997 70 1004.61 70 1014C70 1023.39 77.6112 1031 87 1031C96.3888 1031 104 1023.39 104 1014C104 1004.61 96.3888 997 87 997Z" fill="black"/>
+<mask id="mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="70" y="997" width="34" height="34">
+<path id="Mask_12" fill-rule="evenodd" clip-rule="evenodd" d="M87 997C77.6112 997 70 1004.61 70 1014C70 1023.39 77.6112 1031 87 1031C96.3888 1031 104 1023.39 104 1014C104 1004.61 96.3888 997 87 997Z" fill="white"/>
+</mask>
+<g mask="url(#mask5)">
+<rect id="Img_4" x="66" y="994" width="43" height="41"/>
+</g>
+</g>
+</g>
+</g>
+<path id="Line_2" d="M70 946H680" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="Group_3">
+<text id="Message_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="190" y="882.645">Ok, sounds good!</tspan></text>
+<text id="Time_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-style="italic" letter-spacing="0px"><tspan x="633.328" y="836.98">1 day</tspan></text>
+<text id="Name_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" letter-spacing="0px"><tspan x="190" y="836.98">Sienna Cardoso</tspan></text>
+<g id="Avatar_6" filter="url(#filter2_d)">
+<path id="Mask_13" fill-rule="evenodd" clip-rule="evenodd" d="M110 815C87.9086 815 70 832.909 70 855C70 877.091 87.9086 895 110 895C132.091 895 150 877.091 150 855C150 832.909 132.091 815 110 815Z" fill="black"/>
+<mask id="mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="70" y="815" width="80" height="80">
+<path id="Mask_14" fill-rule="evenodd" clip-rule="evenodd" d="M110 815C87.9086 815 70 832.909 70 855C70 877.091 87.9086 895 110 895C132.091 895 150 877.091 150 855C150 832.909 132.091 815 110 815Z" fill="white"/>
+</mask>
+<g mask="url(#mask6)">
+<rect id="Img_5" x="60" y="813" width="91.7143" height="85.9461"/>
+</g>
+</g>
+</g>
+<g id="More Copy">
+<g id="Group_4">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M655 728C657.761 728 660 725.761 660 723C660 720.239 657.761 718 655 718C652.239 718 650 720.239 650 723C650 725.761 652.239 728 655 728Z" fill="black"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M655 710C657.761 710 660 707.761 660 705C660 702.239 657.761 700 655 700C652.239 700 650 702.239 650 705C650 707.761 652.239 710 655 710Z" fill="black"/>
+</g>
+</g>
+<text id="Title" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="50" font-weight="bold" letter-spacing="-2px"><tspan x="70" y="731.625">All Chats</tspan></text>
+<g id="Message_4">
+<rect id="Bg_2" x="70" y="308" width="380" height="320" fill="#00A0FF"/>
+<text id="Time_4" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-style="italic" letter-spacing="0px"><tspan x="110" y="573.98">Just now</tspan></text>
+<text id="Name_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" letter-spacing="0px"><tspan x="110" y="535.98">Rachel Jackson</tspan></text>
+<g id="Avatar Copy 2">
+<path id="Mask_15" fill-rule="evenodd" clip-rule="evenodd" d="M370 508C347.909 508 330 525.909 330 548C330 570.091 347.909 588 370 588C392.091 588 410 570.091 410 548C410 525.909 392.091 508 370 508Z" fill="black"/>
+<mask id="mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="330" y="508" width="80" height="80">
+<path id="Mask_16" fill-rule="evenodd" clip-rule="evenodd" d="M370 508C347.909 508 330 525.909 330 548C330 570.091 347.909 588 370 588C392.091 588 410 570.091 410 548C410 525.909 392.091 508 370 508Z" fill="white"/>
+</mask>
+<g mask="url(#mask7)">
+<rect id="Img_6" x="326" y="496" width="90" height="100"/>
+</g>
+</g>
+<text id="Message_5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" font-weight="bold" letter-spacing="0px"><tspan x="110" y="376.31">Hey! Do you want to </tspan><tspan x="110" y="414.31">meet for happy hour </tspan><tspan x="110" y="452.31">tonight?</tspan></text>
+</g>
+<g id="Message_6">
+<rect id="Bg_3" x="490" y="308" width="380" height="320" fill="#00A0FF"/>
+<text id="Time_5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" font-style="italic" letter-spacing="0px"><tspan x="530" y="573.98">5 minutes</tspan></text>
+<text id="Name_4" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="24" letter-spacing="0px"><tspan x="530" y="535.98">Todd Fisher</tspan></text>
+<text id="Message_7" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" font-weight="bold" letter-spacing="0px"><tspan x="530" y="376.31">Thank you for sending </tspan><tspan x="530" y="414.31">over the files!</tspan></text>
+</g>
+<text id="Title_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="50" font-weight="bold" letter-spacing="-2px"><tspan x="70" y="234.625">New Messages</tspan></text>
+<g id="New">
+<g id="Group_5">
+<rect id="Shape_3" x="670" y="221" width="30" height="6" transform="rotate(-180 670 221)" fill="black"/>
+<rect id="Shape_4" x="652" y="233" width="6" height="30" transform="rotate(-90 652 233)" fill="black"/>
+</g>
+</g>
+<g id="Nav">
+<path id="Bg_4" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="Alert">
+<g id="Group_6">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M715 91V79.2581C714.988 71.4049 708.69 65 701 65C693.297 65 687 71.4049 687 79.2581V91H715Z" fill="white"/>
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M696 97C696 99.75 698.25 102 701 102C703.75 102 706 99.75 706 97H696Z" fill="white"/>
+</g>
+</g>
+<text id="Hi, Isabel!" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="300.029" y="92.305">Hi, Isabel!</tspan></text>
+<g id="Menu">
+<g id="Group_7">
+<path id="Line_3" d="M60.5354 86.4645L53.4644 93.5355" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path id="Line_4" d="M58.6065 70.3934L37.3933 91.6066" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path id="Line_5" d="M42.5354 68.4645L35.4644 75.5355" stroke="white" stroke-width="6" stroke-linecap="square"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="30" y="1169" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="30" y="987" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="30" y="805" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,131 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="1-2 Signup" clip-path="url(#clip0_0_2839)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<g id="Object">
+<rect id="Img" y="-11" width="796" height="1345" fill="url(#pattern0)"/>
+<mask id="mask0_0_2839" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-11" width="796" height="1345">
+<rect id="Img_2" y="-11" width="796" height="1345" fill="url(#pattern1)"/>
+</mask>
+<g mask="url(#mask0_0_2839)">
+<rect id="Img_3" y="-11" width="796" height="1345" fill="url(#paint0_linear_0_2839)"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Bg_2" filter="url(#filter0_d_0_2839)">
+<rect x="100" y="220" width="550" height="1014" fill="white"/>
+</g>
+<g id="Button">
+<g id="Button_2" filter="url(#filter1_d_0_2839)">
+<rect x="250" y="1154" width="440" height="120" fill="url(#paint1_linear_0_2839)"/>
+</g>
+<g id="NEXT STEP">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="6px"><tspan x="389.939" y="1221.17">NEXT STE</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="537.412" y="1221.17">P</tspan></text>
+</g>
+</g>
+<text id="1 / 2" opacity="0.3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="150" y="1169.17">1 / 2</tspan></text>
+<path id="Line" opacity="0.05" d="M150 1053H600" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="Group_2">
+<g id="&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;">
+<path id=" 8" fill-rule="evenodd" clip-rule="evenodd" d="M295 1012C297.761 1012 300 1009.76 300 1007C300 1004.24 297.761 1002 295 1002C292.239 1002 290 1004.24 290 1007C290 1009.76 292.239 1012 295 1012Z" fill="black"/>
+<path id=" 7" fill-rule="evenodd" clip-rule="evenodd" d="M275 1012C277.761 1012 280 1009.76 280 1007C280 1004.24 277.761 1002 275 1002C272.239 1002 270 1004.24 270 1007C270 1009.76 272.239 1012 275 1012Z" fill="black"/>
+<path id="6" fill-rule="evenodd" clip-rule="evenodd" d="M255 1012C257.761 1012 260 1009.76 260 1007C260 1004.24 257.761 1002 255 1002C252.239 1002 250 1004.24 250 1007C250 1009.76 252.239 1012 255 1012Z" fill="black"/>
+<path id="5" fill-rule="evenodd" clip-rule="evenodd" d="M235 1012C237.761 1012 240 1009.76 240 1007C240 1004.24 237.761 1002 235 1002C232.239 1002 230 1004.24 230 1007C230 1009.76 232.239 1012 235 1012Z" fill="black"/>
+<path id="4" fill-rule="evenodd" clip-rule="evenodd" d="M215 1012C217.761 1012 220 1009.76 220 1007C220 1004.24 217.761 1002 215 1002C212.239 1002 210 1004.24 210 1007C210 1009.76 212.239 1012 215 1012Z" fill="black"/>
+<path id="3" fill-rule="evenodd" clip-rule="evenodd" d="M195 1012C197.761 1012 200 1009.76 200 1007C200 1004.24 197.761 1002 195 1002C192.239 1002 190 1004.24 190 1007C190 1009.76 192.239 1012 195 1012Z" fill="black"/>
+<path id="2" fill-rule="evenodd" clip-rule="evenodd" d="M175 1012C177.761 1012 180 1009.76 180 1007C180 1004.24 177.761 1002 175 1002C172.239 1002 170 1004.24 170 1007C170 1009.76 172.239 1012 175 1012Z" fill="black"/>
+<path id="1" fill-rule="evenodd" clip-rule="evenodd" d="M155 1012C157.761 1012 160 1009.76 160 1007C160 1004.24 157.761 1002 155 1002C152.239 1002 150 1004.24 150 1007C150 1009.76 152.239 1012 155 1012Z" fill="black"/>
+</g>
+<text id="PASSWORD" opacity="0.3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="150" y="949.17">YOUR&#10;</tspan><tspan x="150" y="973.17">PASSWORD</tspan></text>
+</g>
+<path id="Line_2" opacity="0.05" d="M150 906.002H600" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="Group_3">
+<text id="karen@app.com" fill="black" xml:space="preserve" style="white-space: pre" font-family="Chivo" font-size="24" letter-spacing="1px"><tspan x="150" y="855.78">karen@app.com</tspan></text>
+<text id="EMAIL" opacity="0.3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="150" y="808.17">EMAIL</tspan></text>
+</g>
+<path id="Line_3" opacity="0.05" d="M150 747.002H600" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="Group_4">
+<text id="Karen Pollack" fill="black" xml:space="preserve" style="white-space: pre" font-family="Chivo" font-size="24" letter-spacing="1px"><tspan x="150" y="696.78">Karen Pollack</tspan></text>
+<text id="NAME" opacity="0.3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" letter-spacing="2px"><tspan x="150" y="649.17">NAME</tspan></text>
+</g>
+<g id="Img_4">
+<g id="Mask" filter="url(#filter2_d_0_2839)">
+<rect x="60" y="180" width="550" height="370" fill="white"/>
+</g>
+<mask id="mask1_0_2839" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="60" y="180" width="550" height="370">
+<rect id="Mask_2" x="60" y="180" width="550" height="370" fill="white"/>
+</mask>
+<g mask="url(#mask1_0_2839)">
+<rect id="Img_5" x="-252" y="-133" width="1053" height="791" fill="url(#pattern2)"/>
+</g>
+</g>
+</g>
+<g id="Close">
+<g id="Group_5">
+<path id="Line_4" d="M714.899 73.1005L695.101 92.8995" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path id="Line_5" d="M714.899 92.8995L695.1 73.1005" stroke="white" stroke-width="6" stroke-linecap="square"/>
+</g>
+</g>
+<g id="RELATE">
+<g id="ATE">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="10px"><tspan x="56.6228" y="97.5726">AT</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="103.595" y="97.5726">E</tspan></text>
+</g>
+<g id="REL">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="10px"><tspan x="29.952" y="69.17">RE</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Montserrat" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="78.077" y="69.17">L</tspan></text>
+</g>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_2839" transform="scale(0.000990099 0.000585823)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_2839" transform="scale(0.000990099 0.000585823)"/>
+</pattern>
+<filter id="filter0_d_0_2839" x="50" y="220" width="650" height="1114" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="50"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_2839"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_2839" result="shape"/>
+</filter>
+<filter id="filter1_d_0_2839" x="230" y="1154" width="480" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_2839"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_2839" result="shape"/>
+</filter>
+<filter id="filter2_d_0_2839" x="10" y="180" width="650" height="470" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="50"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_2839"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_2839" result="shape"/>
+</filter>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_0_2839" transform="scale(0.000474834 0.000632911)"/>
+</pattern>
+<linearGradient id="paint0_linear_0_2839" x1="126.147" y1="95.0789" x2="126.147" y2="1013.78" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9F9F9F"/>
+<stop offset="1" stop-color="#9F9F9F" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_2839" x1="30" y1="1214" x2="90.9231" y2="1437.38" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AD6BFF"/>
+<stop offset="1" stop-color="#74BCF7"/>
+</linearGradient>
+<clipPath id="clip0_0_2839">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

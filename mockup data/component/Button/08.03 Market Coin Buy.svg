@@ -1,0 +1,411 @@
+<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="375" height="812" fill="#F2F2F2"/>
+<g id="08.03 Market Coin Buy">
+<g clip-path="url(#clip0)">
+<rect width="375" height="812" fill="#D8D8D8"/>
+<rect id="bg" width="375" height="432" fill="url(#paint0_linear)"/>
+<g id="Rectangle" filter="url(#filter0_d)">
+<path d="M0 117C0 112.582 3.58172 109 8 109H367C371.418 109 375 112.582 375 117V870H0V117Z" fill="white"/>
+</g>
+<path id="Rectangle Copy 9" d="M0 175.5H-0.5V175V117C-0.5 112.306 3.30558 108.5 8 108.5H367C371.694 108.5 375.5 112.306 375.5 117V175V175.5H375H0Z" fill="#F9F9F9" stroke="#E2E2E2"/>
+<g id="Group 2">
+<g id="Group 4">
+<g id="Group 7">
+<g clip-path="url(#clip1)">
+<text id="USD" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="20" y="211.818">USD</tspan></text>
+<path id="PathPathPath161612128LPage 11 copy" d="M64.5 209L69 204.5L67.4993 203L64.5 206.001L61.5007 203L60 204.5L64.5 209Z" fill="black" stroke="white"/>
+</g>
+</g>
+<text id="Top 100" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="246.333" y="211.818">Top 100</tspan></text>
+<path id="Shape" d="M348 210.454L343.674 213L344.64 207.887L341 204.348L345.923 203.734L348 199L350.077 203.734L355 204.348L351.36 207.887L352.326 213L348 210.454Z" fill="black"/>
+<g id="Group 6">
+<g clip-path="url(#clip2)">
+<g id="Sort by Rank">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="100.667" y="211.818">Sort by </tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="160.276" y="211.818">Rank</tspan></text>
+</g>
+<path id="PathPathPath161612128LPage 11 copy 2" d="M210.167 209L214.667 204.5L213.166 203L210.167 206.001L207.167 203L205.667 204.5L210.167 209Z" fill="black" stroke="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Home Indicator">
+<rect id="Rectangle 24" x="121" y="738" width="134" height="5" rx="2.5" fill="black"/>
+</g>
+<g id="Status Bar">
+<g id="iPhone X/Status Bars/Status Bar (Black)">
+<g id="Battery">
+<rect id="Border" opacity="0.35" x="336.5" y="17.8333" width="21" height="10.3333" rx="2.16667" stroke="white"/>
+<path id="Cap" opacity="0.4" d="M359 21V25C359.805 24.6612 360.328 23.8731 360.328 23C360.328 22.1269 359.805 21.3388 359 21" fill="white"/>
+<rect id="Capacity" x="338" y="19.3333" width="18" height="7.33333" rx="1.33333" fill="white"/>
+</g>
+<path id="Wifi" fill-rule="evenodd" clip-rule="evenodd" d="M323.33 19.6079C325.546 19.608 327.678 20.4594 329.283 21.9862C329.404 22.1041 329.598 22.1026 329.717 21.9829L330.873 20.8162C330.933 20.7555 330.967 20.6733 330.966 20.5877C330.966 20.5021 330.931 20.4202 330.87 20.3602C326.655 16.3207 320.005 16.3207 315.79 20.3602C315.729 20.4202 315.694 20.502 315.694 20.5876C315.693 20.6732 315.727 20.7555 315.787 20.8162L316.943 21.9829C317.062 22.1028 317.256 22.1043 317.377 21.9862C318.983 20.4593 321.114 19.6079 323.33 19.6079ZM323.33 23.4036C324.548 23.4035 325.722 23.856 326.624 24.6732C326.747 24.7892 326.939 24.7867 327.058 24.6676L328.212 23.5009C328.273 23.4397 328.307 23.3567 328.306 23.2704C328.305 23.1842 328.27 23.1018 328.208 23.0419C325.46 20.4855 321.204 20.4855 318.455 23.0419C318.393 23.1018 318.358 23.1842 318.357 23.2705C318.356 23.3568 318.39 23.4398 318.451 23.5009L319.605 24.6676C319.724 24.7867 319.917 24.7892 320.039 24.6732C320.941 23.8566 322.114 23.4041 323.33 23.4036ZM325.643 25.9574C325.645 26.0439 325.611 26.1273 325.549 26.1879L323.552 28.2036C323.494 28.2628 323.414 28.2961 323.33 28.2961C323.247 28.2961 323.167 28.2628 323.109 28.2036L321.111 26.1879C321.049 26.1272 321.015 26.0438 321.017 25.9573C321.019 25.8708 321.057 25.7889 321.121 25.7309C322.396 24.652 324.265 24.652 325.54 25.7309C325.604 25.7889 325.642 25.8709 325.643 25.9574Z" fill="white"/>
+<path id="Cellular Connection" fill-rule="evenodd" clip-rule="evenodd" d="M309.667 17.6667H308.667C308.114 17.6667 307.667 18.1145 307.667 18.6667V27.3334C307.667 27.8857 308.114 28.3334 308.667 28.3334H309.667C310.219 28.3334 310.667 27.8857 310.667 27.3334V18.6667C310.667 18.1145 310.219 17.6667 309.667 17.6667ZM304 20.0001H305C305.552 20.0001 306 20.4478 306 21.0001V27.3334C306 27.8857 305.552 28.3334 305 28.3334H304C303.448 28.3334 303 27.8857 303 27.3334V21.0001C303 20.4478 303.448 20.0001 304 20.0001ZM300.333 22.3334H299.333C298.781 22.3334 298.333 22.7811 298.333 23.3334V27.3334C298.333 27.8857 298.781 28.3334 299.333 28.3334H300.333C300.886 28.3334 301.333 27.8857 301.333 27.3334V23.3334C301.333 22.7811 300.886 22.3334 300.333 22.3334ZM295.667 24.3334H294.667C294.114 24.3334 293.667 24.7811 293.667 25.3334V27.3334C293.667 27.8857 294.114 28.3334 294.667 28.3334H295.667C296.219 28.3334 296.667 27.8857 296.667 27.3334V25.3334C296.667 24.7811 296.219 24.3334 295.667 24.3334Z" fill="white"/>
+</g>
+</g>
+<rect id="Rectangle_2" y="381" width="375" height="1" fill="#E2E2E2"/>
+<rect id="Rectangle Copy 4" y="453" width="375" height="1" fill="#E2E2E2"/>
+<rect id="Rectangle Copy 5" y="525" width="375" height="1" fill="#E2E2E2"/>
+<rect id="Rectangle Copy 6" x="1" y="597" width="375" height="1" fill="#E2E2E2"/>
+<rect id="Rectangle Copy 7" y="669" width="375" height="1" fill="#E2E2E2"/>
+<rect id="Rectangle Copy" y="237" width="375" height="1" fill="#E2E2E2"/>
+<rect id="Rectangle Copy 2" y="309" width="375" height="1" fill="#E2E2E2"/>
+<g id="Coin-Tag-2">
+<g id="arrow-up-s-fill (1)">
+<path id="okkksss" d="M110 282.333L114 286.333H106L110 282.333Z" fill="#51A553"/>
+</g>
+<text id="$10.057,91" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="273.062" y="279.818">$10.057,91</tspan></text>
+<text id="4,72%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="118" y="288.864">4,72%</tspan></text>
+<text id="BTC" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="74" y="288.864">BTC</tspan></text>
+<text id="Bitcoin" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="74" y="269.318">Bitcoin</tspan></text>
+</g>
+<g id="Coin-Tag-2 Copy">
+<g id="arrow-up-s-fill (1)_2">
+<path id="okkksss_2" d="M110 354.333L114 358.333H106L110 354.333Z" fill="#51A553"/>
+</g>
+<text id="$10.057,91_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="292.875" y="351.818">$196.36</tspan></text>
+<text id="4,72%_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="118" y="360.864">6.86%</tspan></text>
+<text id="BTC_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="74" y="360.864">ETH</tspan></text>
+<text id="Bitcoin_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="74" y="341.318">Ethereum</tspan></text>
+</g>
+<g id="Coin-Tag-2 Copy 2">
+<g id="arrow-up-s-fill (1)_3">
+<path id="okkksss_3" d="M111 426.333L115 430.333H107L111 426.333Z" fill="#51A553"/>
+</g>
+<text id="$10.057,91_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="310.859" y="423.818">$0.29</tspan></text>
+<text id="4,72%_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="119" y="432.864">8.95%</tspan></text>
+<text id="BTC_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="75" y="432.864">XRP</tspan></text>
+<text id="Bitcoin_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="75" y="413.318">XRP</tspan></text>
+</g>
+<g id="Coin-Tag-2 Copy 3">
+<g id="arrow-up-s-fill (1)_4">
+<path id="okkksss_4" d="M111 498.333L115 502.333H107L111 498.333Z" fill="#51A553"/>
+</g>
+<text id="$10.057,91_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="294.547" y="495.818">$318.76</tspan></text>
+<text id="4,72%_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="119" y="504.864">4.55%</tspan></text>
+<text id="BTC_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="75" y="504.864">BCH</tspan></text>
+<text id="Bitcoin_4" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="75" y="485.318">Bitcoin Cash</tspan></text>
+</g>
+<g id="Coin-Tag-2 Copy 4">
+<g id="arrow-up-s-fill (1)_5">
+<path id="okkksss_5" d="M112 570.333L116 574.333H108L112 570.333Z" fill="#51A553"/>
+</g>
+<text id="$10.057,91_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="303.891" y="567.818">$76.68</tspan></text>
+<text id="4,72%_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="120" y="576.864">7.12%</tspan></text>
+<text id="BTC_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="76" y="576.864">LTC</tspan></text>
+<text id="Bitcoin_5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="76" y="557.318">Litecoin</tspan></text>
+</g>
+<g id="Coin-Tag-2 Copy 5">
+<g id="arrow-up-s-fill (1)_6">
+<path id="okkksss_6" d="M111 642.333L115 646.333H107L111 642.333Z" fill="#51A553"/>
+</g>
+<text id="$10.057,91_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="304.547" y="639.818">$28.01</tspan></text>
+<text id="4,72%_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="119" y="648.864">3.43%</tspan></text>
+<text id="BTC_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="75" y="648.864">BNB</tspan></text>
+<text id="Bitcoin_6" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="75" y="629.318">Binance Coin</tspan></text>
+</g>
+<g id="Coin-Tag-2 Copy 6">
+<g id="arrow-up-s-fill (1)_7">
+<path id="okkksss_7" d="M110 714.333L114 718.333H106L110 714.333Z" fill="#51A553"/>
+</g>
+<text id="$10.057,91_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="313.578" y="711.818">$3.71</tspan></text>
+<text id="4,72%_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="118" y="720.864">5.27%</tspan></text>
+<text id="BTC_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="74" y="720.864">EOS</tspan></text>
+<text id="Bitcoin_7" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="74" y="701.318">EOS</tspan></text>
+</g>
+<g id="Group 6 Copy 4">
+<g clip-path="url(#clip3)">
+<g id="Rectangle Copy 9_2" filter="url(#filter1_d)">
+<rect y="761" width="335" height="72" fill="white"/>
+<rect x="-0.5" y="760.5" width="336" height="73" stroke="#E2E2E2"/>
+</g>
+<text id="Expense" fill="#FF4200" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0px"><tspan x="70" y="790.864">Expense</tspan></text>
+<text id="9 A&#196;&#159;ustos 2019" fill="#7E7E7E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="70" y="810.864">9 A&#x11f;ustos 2019</tspan></text>
+<text id="-$18.000" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="243.672" y="802.818">-$18.000</tspan></text>
+<g id="arrow-down-line">
+<rect id="Rectangle_3" opacity="0.1" x="16" y="777" width="40" height="40" rx="4" fill="#FF4200"/>
+<path id="Path" d="M36.7714 800.129L40.9092 796.106L42 797.167L36 803L30 797.167L31.0908 796.106L35.2286 800.129V791H36.7714V800.129Z" fill="#FF4200"/>
+</g>
+</g>
+</g>
+<text id="SIGN IN" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="46" y="147.818">Search...</tspan></text>
+<text id="Crypto Market" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="132.117" y="69.8182">Crypto Market</tspan></text>
+<path id="PathPathPath161612128LPage 11 copy_2" d="M26 64L30.5003 68.5L32 66.9993L28.9995 64L32 61.0007L30.5003 59.5L26 64Z" fill="white"/>
+<g id="search-line (4)">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M38.5951 149.416L35.0259 145.848C36.0903 144.52 36.6692 142.868 36.6667 141.167C36.6667 137.027 33.3067 133.667 29.1667 133.667C25.0267 133.667 21.6667 137.027 21.6667 141.167C21.6667 145.307 25.0267 148.667 29.1667 148.667C30.8684 148.669 32.5199 148.09 33.8476 147.026L37.4159 150.595L38.5951 149.416ZM35.0001 141.167C35.0025 142.684 34.4118 144.142 33.3542 145.229L33.2292 145.354C32.1417 146.412 30.6838 147.002 29.1667 147C25.9434 147 23.3334 144.389 23.3334 141.167C23.3334 137.943 25.9434 135.333 29.1667 135.333C32.3892 135.333 35.0001 137.943 35.0001 141.167Z" fill="#0073F7"/>
+</g>
+<g id="Group 5">
+<rect id="Rectangle Copy 10" x="258" y="119" width="97" height="46" rx="4" fill="#0073F7"/>
+<text id="5430" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="299" y="148.818">5430</tspan></text>
+<g id="bit-coin-fill (1)">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M275 142C275 147.523 279.477 152 285 152C290.523 152 295 147.523 295 142C295 136.477 290.523 132 285 132C279.477 132 275 136.477 275 142ZM284 148V146H281V138H284V136H286V138H287C287.947 138 288.813 138.535 289.236 139.382C289.66 140.229 289.568 141.242 289 142C289.568 142.758 289.66 143.771 289.236 144.618C288.813 145.465 287.947 146 287 146H286V148H284ZM287 143C287.276 143 287.5 143.224 287.5 143.5C287.5 143.776 287.276 144 287 144H283V143H287ZM287 140H283V141H287C287.276 141 287.5 140.776 287.5 140.5C287.5 140.224 287.276 140 287 140Z" fill="white"/>
+</g>
+</g>
+<rect id="38" x="20" y="257" width="32" height="32" fill="url(#pattern0)"/>
+<rect id="413" x="20" y="402" width="32" height="32" fill="url(#pattern1)"/>
+<rect id="153" x="20" y="330" width="32" height="32" fill="url(#pattern2)"/>
+<rect id="429" x="20" y="474" width="32" height="32" fill="url(#pattern3)"/>
+<rect id="229" x="20" y="546" width="32" height="32" fill="url(#pattern4)"/>
+<rect id="35" x="20" y="617" width="32" height="32" fill="url(#pattern5)"/>
+<rect id="152" x="20" y="690" width="32" height="32" fill="url(#pattern6)"/>
+<g id="Group 4_2">
+<rect id="Rectangle Copy 3" opacity="0.3" x="30" y="750" width="315" height="1" fill="black"/>
+<g id="Group 3">
+<g id="Combined Shape" filter="url(#filter2_d)">
+<mask id="path-96-outside-1" maskUnits="userSpaceOnUse" x="-1" y="707" width="377" height="106" fill="black">
+<rect fill="white" x="-1" y="707" width="377" height="106"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M211.686 719C206 712.272 197.499 708 188 708C178.501 708 170 712.272 164.314 719H0V812H375V719H211.686Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M211.686 719C206 712.272 197.499 708 188 708C178.501 708 170 712.272 164.314 719H0V812H375V719H211.686Z" fill="white"/>
+<path d="M211.686 719L210.923 719.646L211.222 720H211.686V719ZM164.314 719V720H164.778L165.077 719.646L164.314 719ZM0 719V718H-1V719H0ZM0 812H-1V813H0V812ZM375 812V813H376V812H375ZM375 719H376V718H375V719ZM212.45 718.354C206.582 711.412 197.806 707 188 707V709C197.192 709 205.418 713.133 210.923 719.646L212.45 718.354ZM188 707C178.194 707 169.418 711.412 163.55 718.354L165.077 719.646C170.582 713.133 178.808 709 188 709V707ZM0 720H164.314V718H0V720ZM1 812V719H-1V812H1ZM375 811H0V813H375V811ZM374 719V812H376V719H374ZM211.686 720H375V718H211.686V720Z" fill="#A9A9A9" fill-opacity="0.3" mask="url(#path-96-outside-1)"/>
+</g>
+<g id="Home Indicator_2">
+<rect id="Rectangle 24_2" x="121" y="798" width="134" height="5" rx="2.5" fill="black"/>
+</g>
+<g id="Group">
+<text id="Exchange" fill="#999999" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="25.873" y="774.864">Exchange</tspan></text>
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M44 742C44 747.523 48.477 752 54 752C59.523 752 64 747.523 64 742C64 736.477 59.523 732 54 732C48.477 732 44 736.477 44 742ZM53 748V746H50V738H53V736H55V738H56C56.9469 738 57.8126 738.535 58.2361 739.382C58.6595 740.229 58.5682 741.242 58 742C58.5682 742.758 58.6595 743.771 58.2361 744.618C57.8126 745.465 56.9469 746 56 746H55V748H53ZM56 743C56.2761 743 56.5 743.224 56.5 743.5C56.5 743.776 56.2761 744 56 744H52V743H56ZM56 740H52V741H56C56.2761 741 56.5 740.776 56.5 740.5C56.5 740.224 56.2761 740 56 740Z" fill="#999999"/>
+</g>
+<g id="Group Copy 2">
+<text id="Overview" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="160.752" y="774.864">Overview</tspan></text>
+</g>
+<g id="Group Copy" opacity="0.4">
+<text id="Wallet" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="103.209" y="774.864">Wallet</tspan></text>
+</g>
+<g id="Group Copy 3" opacity="0.4">
+<text id="Stats" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="239.857" y="774.864">Stats</tspan></text>
+</g>
+<g id="Group Copy 4" opacity="0.4">
+<text id="Profile" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="303.477" y="774.864">Profile</tspan></text>
+</g>
+</g>
+<g id="wallet-3-fill" opacity="0.4">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M131 736H124C120.686 736 118 738.686 118 742C118 745.314 120.686 748 124 748H131V750C131 750.552 130.552 751 130 751H112C111.448 751 111 750.552 111 750V734C111 733.448 111.448 733 112 733H130C130.552 733 131 733.448 131 734V736ZM124 738H132V746H124C121.791 746 120 744.209 120 742C120 739.791 121.791 738 124 738ZM127 743H124V741H127V743Z" fill="black"/>
+</g>
+<g id="bit-coin-fill">
+<path id="Oval Copy" fill-rule="evenodd" clip-rule="evenodd" d="M188 759C199.046 759 208 750.046 208 739C208 727.954 199.046 719 188 719C176.954 719 168 727.954 168 739C168 750.046 176.954 759 188 759Z" fill="#0073F7"/>
+<g id="home-6-fill">
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M196 748C196.552 748 197 747.552 197 747V736.49C197 736.181 196.858 735.89 196.614 735.7L188.614 729.478C188.253 729.197 187.747 729.197 187.386 729.478L179.386 735.7C179.142 735.89 179 736.181 179 736.49V747C179 747.552 179.448 748 180 748H196ZM183 744V742H193V744H183Z" fill="white"/>
+</g>
+</g>
+<g id="pie-chart-2-fill" opacity="0.4">
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M266.457 741C265.979 735.447 261.553 731.02 256 730.543V741H266.457ZM254 743V732.05C248.947 732.551 245 736.815 245 742C245 747.523 249.477 752 255 752C260.185 752 264.449 748.053 264.95 743H254Z" fill="black"/>
+</g>
+<g id="user-fill" opacity="0.4">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M316 737C316 740.315 318.685 743 322 743C325.315 743 328 740.315 328 737C328 733.685 325.315 731 322 731C318.685 731 316 733.685 316 737ZM322 744C317.582 744 314 747.582 314 752H330C330 747.582 326.418 744 322 744Z" fill="black"/>
+</g>
+</g>
+<rect id="Rectangle_4" opacity="0.7" width="375" height="814" fill="black"/>
+<g id="Rectangle_5" filter="url(#filter3_d)">
+<path d="M0 117C0 112.582 3.58172 109 8 109H367C371.418 109 375 112.582 375 117V813H0V117Z" fill="white"/>
+</g>
+<rect id="Rectangle_6" x="20" y="209" width="335" height="1" fill="#E2E2E2"/>
+<g id="Coin-Tag-2_2">
+<g clip-path="url(#clip4)">
+<g id="arrow-up-s-fill (1)_8">
+<path id="Path_2" d="M312 178.333L316 182.333H308L312 178.333Z" fill="#51A553"/>
+</g>
+<text id="$10,136.73" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="220.328" y="159.455">$10,136.73</tspan></text>
+<text id="4,72%_8" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="320" y="184.864">4,72%</tspan></text>
+<text id="BTC_8" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="276" y="184.864">BTC</tspan></text>
+</g>
+</g>
+<g id="Menu / Exchange">
+<g id="Group 4_3">
+<rect id="Rectangle Copy 3_2" opacity="0.3" x="30" y="750" width="315" height="1" fill="black"/>
+<g id="Group 3_2">
+<g id="Combined Shape_2" filter="url(#filter4_d)">
+<mask id="path-121-outside-2" maskUnits="userSpaceOnUse" x="-1" y="707" width="377" height="106" fill="black">
+<rect fill="white" x="-1" y="707" width="377" height="106"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M211.686 719C206 712.272 197.499 708 188 708C178.501 708 170 712.272 164.314 719H0V812H375V719H211.686Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M211.686 719C206 712.272 197.499 708 188 708C178.501 708 170 712.272 164.314 719H0V812H375V719H211.686Z" fill="white"/>
+<path d="M211.686 719L210.923 719.646L211.222 720H211.686V719ZM164.314 719V720H164.778L165.077 719.646L164.314 719ZM0 719V718H-1V719H0ZM0 812H-1V813H0V812ZM375 812V813H376V812H375ZM375 719H376V718H375V719ZM212.45 718.354C206.582 711.412 197.806 707 188 707V709C197.192 709 205.418 713.133 210.923 719.646L212.45 718.354ZM188 707C178.194 707 169.418 711.412 163.55 718.354L165.077 719.646C170.582 713.133 178.808 709 188 709V707ZM0 720H164.314V718H0V720ZM1 812V719H-1V812H1ZM375 811H0V813H375V811ZM374 719V812H376V719H374ZM211.686 720H375V718H211.686V720Z" fill="#A9A9A9" fill-opacity="0.3" mask="url(#path-121-outside-2)"/>
+</g>
+<g id="Home Indicator_3">
+<rect id="Rectangle 24_3" x="121" y="798" width="134" height="5" rx="2.5" fill="black"/>
+</g>
+<g id="Group_2">
+<text id="Portfolios" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="26.3594" y="774.864">Portfolios</tspan></text>
+<path id="Shape_9" fill-rule="evenodd" clip-rule="evenodd" d="M44 742C44 747.523 48.477 752 54 752C59.523 752 64 747.523 64 742C64 736.477 59.523 732 54 732C48.477 732 44 736.477 44 742ZM53 748V746H50V738H53V736H55V738H56C56.9469 738 57.8126 738.535 58.2361 739.382C58.6595 740.229 58.5682 741.242 58 742C58.5682 742.758 58.6595 743.771 58.2361 744.618C57.8126 745.465 56.9469 746 56 746H55V748H53ZM56 743C56.2761 743 56.5 743.224 56.5 743.5C56.5 743.776 56.2761 744 56 744H52V743H56ZM56 740H52V741H56C56.2761 741 56.5 740.776 56.5 740.5C56.5 740.224 56.2761 740 56 740Z" fill="#0073F7"/>
+</g>
+<g id="Group Copy 2_2">
+<text id="Home" fill="#999999" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="170.771" y="774.864">Home</tspan></text>
+</g>
+<g id="Group Copy_2" opacity="0.4">
+<text id="Wallet_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="103.209" y="774.864">Wallet</tspan></text>
+</g>
+<g id="Group Copy 3_2" opacity="0.4">
+<text id="Notificat" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="230.301" y="774.864">Notificat</tspan></text>
+</g>
+<g id="Group Copy 4_2" opacity="0.4">
+<text id="More" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="306.957" y="774.864">More</tspan></text>
+</g>
+<g id="menu-2-line (2)">
+<path id="Shape_10" fill-rule="evenodd" clip-rule="evenodd" d="M313 734H331V736H313V734ZM313 741H325V743H313V741ZM331 748H313V750H331V748Z" fill="#999999"/>
+</g>
+</g>
+<g id="wallet-3-fill_2" opacity="0.4">
+<path id="Shape_11" fill-rule="evenodd" clip-rule="evenodd" d="M131 736H124C120.686 736 118 738.686 118 742C118 745.314 120.686 748 124 748H131V750C131 750.552 130.552 751 130 751H112C111.448 751 111 750.552 111 750V734C111 733.448 111.448 733 112 733H130C130.552 733 131 733.448 131 734V736ZM124 738H132V746H124C121.791 746 120 744.209 120 742C120 739.791 121.791 738 124 738ZM127 743H124V741H127V743Z" fill="black"/>
+</g>
+<g id="bit-coin-fill_2">
+<path id="Oval Copy_2" fill-rule="evenodd" clip-rule="evenodd" d="M188 759C199.046 759 208 750.046 208 739C208 727.954 199.046 719 188 719C176.954 719 168 727.954 168 739C168 750.046 176.954 759 188 759Z" fill="#999999"/>
+<g id="home-6-fill_2">
+<path id="Shape_12" fill-rule="evenodd" clip-rule="evenodd" d="M196 748C196.552 748 197 747.552 197 747V736.49C197 736.181 196.858 735.89 196.614 735.7L188.614 729.478C188.253 729.197 187.747 729.197 187.386 729.478L179.386 735.7C179.142 735.89 179 736.181 179 736.49V747C179 747.552 179.448 748 180 748H196ZM183 744V742H193V744H183Z" fill="white"/>
+</g>
+</g>
+<g id="notification-3-fill (1)">
+<path id="Shape_13" fill-rule="evenodd" clip-rule="evenodd" d="M265 747H263V740C263 735.582 259.418 732 255 732C250.582 732 247 735.582 247 740V747H245V749H265V747ZM258 753V751H252V753H258Z" fill="#999999"/>
+</g>
+</g>
+<rect id="Rectangle_7" x="267" y="762" width="12" height="15" fill="url(#paint1_linear)"/>
+</g>
+<g id="Buttons / Primary">
+<rect id="Container" x="20" y="387" width="335" height="56" rx="4" fill="#0073F7"/>
+<g id="Buttons / Contained / Enabled">
+<text id="Button Text" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="172.969" y="420.818">Buy</tspan></text>
+</g>
+</g>
+<text id="Use limit order" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0px" text-decoration="underline"><tspan x="139.841" y="474.091">Use limit order</tspan></text>
+<g id="Group 8">
+<g clip-path="url(#clip5)">
+<rect id="Rectangle_8" x="19.5" y="236.5" width="336" height="57" rx="4.5" fill="white" stroke="#CFCFCF"/>
+<g id="Group 9">
+<g clip-path="url(#clip6)">
+<rect id="Rectangle Copy 4_2" x="19.5" y="314.5" width="336" height="57" rx="4.5" fill="white" stroke="#CFCFCF"/>
+<rect id="Rectangle_9" x="30" y="312" width="65" height="9" fill="white"/>
+<text id="Amount" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="40" y="319.864">Amount</tspan></text>
+<text id="0.2213" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="70" y="348.818">0.2213</tspan></text>
+<text id="BTC_9" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="303.172" y="347.818">BTC</tspan></text>
+<g id="bit-coin-fill (2)">
+<path id="Shape_14" fill-rule="evenodd" clip-rule="evenodd" d="M41.6667 343C41.6667 347.603 45.3976 351.333 50.0001 351.333C54.6026 351.333 58.3334 347.603 58.3334 343C58.3334 338.398 54.6026 334.667 50.0001 334.667C45.3976 334.667 41.6667 338.398 41.6667 343ZM49.1667 348V346.333H46.6667V339.667H49.1667V338H50.8334V339.667H51.6667C52.4559 339.667 53.1772 340.113 53.5301 340.818C53.883 341.524 53.8069 342.369 53.3334 343C53.8069 343.631 53.883 344.476 53.5301 345.182C53.1772 345.888 52.4559 346.333 51.6667 346.333H50.8334V348H49.1667ZM51.6667 343.833C51.8969 343.833 52.0834 344.02 52.0834 344.25C52.0834 344.48 51.8969 344.667 51.6667 344.667H48.3334V343.833H51.6667ZM52.0834 341.75C52.0834 341.52 51.8969 341.333 51.6667 341.333H48.3334V342.167H51.6667C51.8969 342.167 52.0834 341.98 52.0834 341.75Z" fill="black"/>
+</g>
+</g>
+</g>
+<rect id="Rectangle Copy 8" x="30" y="232" width="52" height="9" fill="white"/>
+<text id="Value" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="40" y="241.864">Value</tspan></text>
+<text id="2,500" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="70" y="270.818">2,500</tspan></text>
+<text id="USD_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="301.438" y="269.818">USD</tspan></text>
+<g id="money-dollar-circle-line">
+<path id="Shape_15" fill-rule="evenodd" clip-rule="evenodd" d="M50.0001 273.333C45.3976 273.333 41.6667 269.603 41.6667 265C41.6667 260.398 45.3976 256.667 50.0001 256.667C54.6026 256.667 58.3334 260.398 58.3334 265C58.3334 269.603 54.6026 273.333 50.0001 273.333ZM50.0001 271.667C53.682 271.667 56.6667 268.682 56.6667 265C56.6667 261.318 53.682 258.333 50.0001 258.333C46.3182 258.333 43.3334 261.318 43.3334 265C43.3334 268.682 46.3182 271.667 50.0001 271.667ZM51.6667 266.667H47.0834V268.333H49.1667V270H50.8334V268.333H51.6667C52.8173 268.333 53.7501 267.401 53.7501 266.25C53.7501 265.099 52.8173 264.167 51.6667 264.167H48.3334C48.1033 264.167 47.9167 263.98 47.9167 263.75C47.9167 263.52 48.1033 263.333 48.3334 263.333H52.9167V261.667H50.8334V260H49.1667V261.667H48.3334C47.1828 261.667 46.2501 262.599 46.2501 263.75C46.2501 264.901 47.1828 265.833 48.3334 265.833H51.6667C51.8969 265.833 52.0834 266.02 52.0834 266.25C52.0834 266.48 51.8969 266.667 51.6667 266.667Z" fill="black"/>
+</g>
+</g>
+</g>
+<g id="Shape_16">
+<mask id="path-155-inside-3" fill="white">
+<path d="M125 154.454L120.674 157L121.64 151.887L118 148.348L122.923 147.734L125 143L127.077 147.734L132 148.348L128.36 151.887L129.326 157L125 154.454Z"/>
+</mask>
+<path d="M125 154.454L120.674 157L121.64 151.887L118 148.348L122.923 147.734L125 143L127.077 147.734L132 148.348L128.36 151.887L129.326 157L125 154.454Z" fill="black" fill-opacity="0.01" stroke="black" stroke-width="2.8" mask="url(#path-155-inside-3)"/>
+</g>
+<text id="Bitcoin_8" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="61" y="155.318">Bitcoin</tspan></text>
+<rect id="38_2" x="20" y="134" width="32" height="32" fill="url(#pattern7)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="-14" y="87" width="403" height="789" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="-8"/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="-3" y="760" width="341" height="82" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="6"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.03125)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1" transform="scale(0.03125)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2" transform="scale(0.03125)"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3" transform="scale(0.03125)"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4" transform="scale(0.03125)"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5" transform="scale(0.03125)"/>
+</pattern>
+<pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image6" transform="scale(0.03125)"/>
+</pattern>
+<filter id="filter2_d" x="-9" y="697" width="393" height="122" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" x="-14" y="87" width="403" height="732" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="-8"/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter4_d" x="-9" y="697" width="393" height="122" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.03125)"/>
+</pattern>
+<linearGradient id="paint0_linear" x1="523.073" y1="203.832" x2="128.284" y2="-138.867" gradientUnits="userSpaceOnUse">
+<stop stop-color="#02072F"/>
+<stop offset="1" stop-color="#091361"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="279" y1="762" x2="267" y2="762" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="375" height="812" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect x="20" y="195" width="49" height="22" fill="white"/>
+</clipPath>
+<clipPath id="clip2">
+<rect x="100.667" y="195" width="114" height="22" fill="white"/>
+</clipPath>
+<clipPath id="clip3">
+<rect y="761" width="335" height="72" fill="white"/>
+</clipPath>
+<clipPath id="clip4">
+<rect x="220" y="139" width="135" height="50" fill="white"/>
+</clipPath>
+<clipPath id="clip5">
+<rect x="20" y="230" width="335" height="141" fill="white"/>
+</clipPath>
+<clipPath id="clip6">
+<rect x="20" y="308" width="335" height="63" fill="white"/>
+</clipPath>
+<image id="image0" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGOfPtRkwAABJ5JREFUWAnFV11sVEUU/mb27m7XaoNoKcWKIIZEAUnUBqgJ8hPRgCFpTMRoYnwwPtRoIpho4s+D6KP44E98MSRWo1ETpQkmGhHCg6IECbUIEkuqbreU2hY2FLo/d8Zz5nbu3t3euz8Ew0nuvWfOnL+ZOefMuQJ1gv58WSI3ml0PqK0QuIPEFgCaHgaRoVcGGr8Dsi/Z1rJfPHI8b6ZqvESNeej3Fs3P6cJr0PpxDbTU4ud5UpqFEJ8kRfx18czQmWoykQ7ob25LTg9eellAbyfDzdWURM2R8ikNsatpSepNsfnPXBhfqAO86mlV+Iq2eHWYUOM0cahJxrvDdmOWA7n3O+5Urt5LxjsaN1RNQqQlxObks+nfglxlDsys/PCVN25NijTtRGdwJ6SdMmfubXvdK3dWvYDEw3sg5iwBEtcBTsqqi/jqDj5atmUZfAc44Bo9c3nzWoj5d0FfHENsxZNIPn0ScuF6qzviq1d7trxp4wBvPUd7hIRPjm/ZjUT3l4h1bidD90HMWwn973Egn4W8qQtCOlDjJ33+KMRkFtnkeYdfnOf1pJokg6K5jYytYTEPmtvhrH0Dsv0eqPNDlHgjdibyy7ZMbQF6hFfhJsfqKzICcmk3EpveCVWu3RzcU1/DPfIu9LnToTyWSNGfTbZd3yq5vNZnnEU11D8HrQ7zLezbgeLAx9CXJiBiSTi3b0Ni23eQizeV8VUO2Cbbphig2t4ABLdf0SrdE5+heOBF5HrvhfvXfqNJxFOIb3irjqxQW6k2mIulbhfKHBj+qSRHgVg8/LY/Fqm5ENe2++NQhGxzFszcaKEss4hBB3DxLF1+CZ8nduuDPq6VS8cy7o8jkAWUBfZKjWAJklM3QM5d6lOczucRu/s56AsZiCZacaJ0Z7n9uym9zvu84YhmB+qH4Or1hRG4Q9+beiBbFpYpKRx4Ce5AbxktYqDpCEwzETFfTg46wAFXJEP5j9Yg98VDUMOHfGan61WIG5f742hEjHAMcDdTF3C1s6CGf7Qo9OhR5Pc8Cp1NGxofhbNqhz9fBck4XhuFdVFMonU54g98QOc8XHb+KpgBLKwK0LlJSirvLhPNptJGqfXo1MJRDMg+wO2J4nRWPgU5ZzHAzwxwhHMA6tFfoSYHwXnPF5NsXWFZoMYGfDwakX21SzFFN5+9eRZtRGXAhSnXbh75TzdWLcd+KTbdKzWQYYoMbXoCanAvigdfgfqDujSC4rEPqer9YPDKF5fkwj7anRp3ATetbNukIXevOZ1/gupzKZErNdNYdnRRc6xR/GUXYsseQ+yWDSiwY2eOQFwzzxQePXEKKEyFSJdItPoptskUzgJwi8TdK+ORIIiVjYyfoAJzztz/zOue/hb6bD8U1QTOhlrGWYZt2bbML0TcOlOncn9kV6QV8r2Uhgnv10Bn/4bK/AxQFWwMqEMmW1aGdqMEV7UpZTd4W2RMbCHMqygl364A5rXlduutQhMDdsDfZE+6n1tncqJUW4MMl4WbH5POyn8CVjXLASayl3RO6wjbyRHLtMsBT1bsZF2VK7f6ymLAEoNfjour8nMadILx/+v3/D+J7NA79U2xhQAAAABJRU5ErkJggg=="/>
+<image id="image1" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGOfPtRkwAABBhJREFUWAnFV1tsTFEUXed2ZtoaRjsxNUNDSISUiFejHkH50BRFQkV8im/ix4cghB8fxDc+fEioJkTikYjWO+MRhGiIDwnVx7Sqph3Vmekc+5w7t/fO3MdMJx47aefce/bZa5+9z95nXYZ8pYl7oHTWgvMGgFeBsym0VPwJ6QDjHQBrA2PXkQq1opHF1Snn/8x5mmabIkEgeZhAd9GfL6e+VGBRcuYi4DqGxooupzX2DtzkxYh1HqQd7ydgr5MR+zkWo4icgjd0AvVs2ErP2gG56/hVWlBjtaiAd2HAs9UqGmYHmrvngydugKOyACD7JQzt4K56NAbfGpUyHRA7Z/HnfxxcQ5ROeKqNkVC0OYicg8JewM7n+ly4ssyPb5tD6N4UxLklZQiW6KZHMaRtwpBY6ltdSxy4AnK+sMyNJ2sD2FZZCr9HQUVJEXbP8OLpuoC1EwJDxZIeqA6I0MvTPupr3oMzCybC59b3oS2cNs6Fo3NtqlZgyYMOpFfKOh9zqXmLGFZO8miYpt+6IGXVUkRZC0zhgOhwsslYajq+9LkZlXnmOTYumGgRGX2eGhthK7K95uhwFcUKppaaw9z5K4X2nyO6zazRy++JrDfGR+qq1NoVtbcbJ/TxIjpgz+gwdTeE0L4xhPd1FdgUKtEVaHT2UyzjWXvgnONYG3VkJ6F7hbZFF4uFVFFpPaidhGq/nuPZE9y4tsIPY24/DiRNq/vjKewIf8e9nlz3Ea9yqbcaNxk5Ps8Hr8scdoVyfqnGjz0v+vFxMIkDcybItZ9iSZx8P4gPAwmE++IYss+MjkU3KkPT1wGKwnj9rTqKNAQRKC7Kfm37vLq1Bw96c+04ezkbNG8xWyfP51SeehlqDFw4QETCLA8d8idyXP+wFwvvRPDlp3oGLlSXY98sL2oDHpTmGziOTkVlMmYHDr2LIpY07ytFp3vn0z7c6hrG6/4EjryjDJLMHO/C6QVlaFkTQAdVzHZqzTmFWBRFgGiUhbRFk1jV2ovndKA0EQdsy+M+3CZwTaaPM2+3jNrL5ZpyrKFoOAtrY2juWI9U6raT4mRqRKIgvg6ZI/JlQxCVFk4Iey2RYay732tvWlHqFEkgITicvXQPpyzBQ3Tl2oELa4vL3fZGBSaRV0Vlr4JAjl2iCU6N1NxDNEs/EuaIaXOStBJzTpchsVcQgRyjxEY4HjnUvvGsZJoWWAJTu44FdRbstQDZ+/oHohY7/UzleYQqyVIEVpqupyNAaoI6A8RexyavqBSXt/SguX0IfdQfIr9GcJ4uqKV3e9BFt6WFhNNYcirzMv+vpFT4I1Ph3gDBXv+0jNLyzC8lPQUa4LbJb8CJOheQDs2ExW9Y2sz6JhB6mSkwrvyvn2ZGRyR7laT1H3+cGp0Q47/0ef4bii2EgTfaz4UAAAAASUVORK5CYII="/>
+<image id="image2" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGOfPtRkwAABKxJREFUWAnFV11sFFUU/u7M/u+6QG1Nf6SVKCiVNhFTygMkVkwEJUYSHzT1SY0mJvjgg8aYkBXCqyaa+GCMvugrEkRDjAoGS6pGwTRCCUFK7Q+lZUW2+78z13PudrY70+nM+GC4yezsPefc850595xzzxUIODIZGZkW2SHTNJ4CRC8t6wQkPTzEDP3QI89rmn6sS7aczGRERbF8foQPH69mFtvLKB6QEsOQMu0nr/hC3BICn0cRP/hhJnXNa82qBux/X0bz2YW3YcrXSUHSS4kHLw9NvJtsaT38wWui7CbnaoD6aln4gr56u9ui/0ojb4xGRWKfmzc0p7KXMtn+siz+EgScFGNoWwz89hqsi3W+fDDb55SzGcBfLqXxlZTybqeg23xoIIaN68O4vyfsxrbRWKdhGF8zRjOjYQDveVm5PRh4OiWwb1c9NB7aHEEs6uMGQmUjGIOxLCMaBnDABXG7tfDZx1NIxOrLwyGBgQcbOi0R1zdjqOBe4ioNyi31aHdd5CRu3hDGYH/MRt7QFUJ7q26jrTohLGsrlAGc5yQcKNVChPH83pSr7u39UWgNn7qKWMTkEiY0rnDklmGL4/fevSNBXxpyFUsnNWy5N+LKcxIZk7E1Lq9BK1zbOg17dyacumzz/k0RpBL+AcmYjK3Va7tNx6qT4SfvQDhsV26YdnHegsE+e3zYJZZnjE2+5INFLlNX+fdwbwR9G5fdOzFdxcRMDZf/qiJflFjfrqNlTT0Iu+7S0dMRwtXZ2iraLLLo5c1cOtEs4sp3LCLw3J4UDENi/EoFc1kTOn2pqoDkkJs5Uz3JeA2dBN5BMTKwJYrp+Rpq3jZ0kgHWkboS2KLs3hFXX5rLSxXlDO422BOXrtaUZ9gIDshzF71OZckG+A92dyquBU0xVKtQ7s/lDW/lUkh2JDcTnuPSZA1HT+Yx6bundTWFkomZ6zUVG56KBWbZmb4GPHBPGI8NxnHm9xK+OVNU++2muFKTmLth4O9bpgpY3gafMUMGyPM+Qvj1QgWt63Qc3t+Cbtq1L38o4KexMirVevaYVFVu/GNgdt5AR5uOpx9NIklb5p8F3MJRD+dnAPM/O75IWQC88kwab76wFqWyxJHv8rhC8TF93UCU6sMeCtadW2MwTInRsZKvWsYWXA4n5cJ8kGrIB85bL66FrguYBDJytoTjpwvYRP3AfdQX8CAyTvxYwMJNR4VymkN9Y7dobdNPnXrH2Dr0RjfVogGnjHPO+V6jWtBL6SWoCPR0hpFOaEinlvPy7HiZ0tAn+kmx0MQn72WSx9RK7l6JlncCus1PjBRx4U/33L5GAfjHZcpB/5FfwoQyQDWL1L36r+OuBvj4SA6LBbuLyxWJ07+VFN9XD2FZDWrDd9w6k1dHfReTAG/Fp0dzNtGRcyUUS/5nCmMwlrW4YQD37dw6095OWUyvN5fY738uKpHxiSqm5gLsO+lmjOY7gv1sJXXclgftjENUZ3Zti+Pb0SKlnpe5fHCJKV3Xn/joQMtYs+QKA5jJ/Vq9Q74NFxM2gAMkcWfbI3StOkTTQNnB61wGX80OsS4r6Jwyrh5oFlLeuB2X02Yj+P//dT3/F1Iw9gxQwwIpAAAAAElFTkSuQmCC"/>
+<image id="image3" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGOfPtRkwAABPJJREFUWAnNV29sU1UUP/e9t7aj0LGN/bEdjuE2ZIsYxmQEE5VEhSAhIWR+4YvwiUzEyEdJ+OBi/GaMinxTjPGDLNH4P4FEiUSdzm0gbg4LbM6u61Zc145u7dq+6zm33Gdfea8tCf65yXbvO+fc8zv33HPOPWVQ4jgz0u0IRvUdeobvBcbbOAcvA+al7Rx4kDEIAmejiso+8VYoXz/d3rdcimpWTOjkj931ieXMCQb8AIJ6iskTH42JcWDvuxzqS89u7QsV2mNrwOv+55ypmanjeLxjeEZ3ISX2PBYHBq+W1flePtryRtJKztIAOnVyOfMR53yb1aY7pTHG+p0OdZ+VN24z4LX+/Zv0FP8c77XhToEKyWO8BEBVdx/b3nc5V85kgDh5MjNwt8ElIBnhdKoP5XpCkUy6c+H2IidXmAoeZw3sbz8BDzcekNtLmulghEFYcoNhAAVcoTuvda+HQ51vQdfablhMxcBX0Q7N1V1ST8kzYYjgvrVDGECuz0a7vZ5YclacvKmyA9J6EqaiI1C9ogGaKrdAS/U2WF/VCSsd1fYKcjmYWQITaRrRKc+LpVoifRNCC364Z9UG4QWPq06o3Nd+XMz0L6On4cLEezAU/NSgWS+4O4sJPYwqXCCSDtsVGQYKeD3340k7YGPto7DKWfiUOs/Au0PPQ2QpaI19i0rFqqFSq9GovNqBk+zBzjdhtavepGwxFYX+yTMQjF2BpfQC+NDAXa1HgQKU/hpXP1jUAMIkbE3UdpN680cA7zqWmIUytRzd3yKYZYoTLofOQYanxfdYOAyb6ndCQ0Wb+KbrKmUQtkYPCwag7TjrPyl4dLLDXafBpbnRGJfIgsn5S4JXVe6DNe5GsSZjA9FRW30mBmKrTx7c+CISC18sCmAOA6XiGve9QscSpmI0MQNbfHvhieYeYRgxnGgg0Shurv05gF5KCXmbf8vqrkNtryDTYSNgItPJZe7TdXT49gi3a0qZSY4+KG5WOCrg2tzAbTxJwMroFGkoCcXmicgwYCHB5xa3MgX+wPjw3/hOpCcFI4GSNzyuGqGqtXo7nPOfQt/plqo541xB1xbOl5yti6l5mI1fNyi/IfjF6S8hdPOquI7fMSaGp78w+A6tXBhqEPIXHKYV0cnkMwp8kxfkaKrcLJfGXOtuMtaJdByoLtgNwlaojbITsKJfnxs0yGsrHgCVZe+fMmH3hhewWD1i8KlWUPjaDsTWqIfLZHiPrVAeg8oxnSybjk54vPkwVOGbIGsEiaf1FHwzflpcT9520ydha9RABiJ6rFA1lLtc2kq4r2or5EZ9e90OycYA1eH7yQ/g59BZfDGjBt1qQaWYsBXqXqmBtBLKp2327oGdrUfQgL+zNpVJigdoKvarCLix8IWi4KSXMAlbPMfUvWIvG88HzP9eSN4QNX5o6jP48JdefAvGhDGjM+fhSvhbIb4OH63ig8WzmIBPHQ7RImH3WmzjyMxX8M7gETg//jZMzA+LIkM1YR1mw3hkEJZSC6brsdWHWLItEwaQILXO1L3abkJGfkEZnxvCInQVUnpC1IFTPzwDP019XEgFFbF+wpJC/5+mlCwityhl7CnRQksT79IsdGJbLl0v1Zo8IIn/5g8TIwYkOM1kpVbnewwvrLeU7Mjda17TTzPWS7ryTy7lLD0gmTSTN/6TH6e5RtD6n/p5/hdI1R51C9jLjAAAAABJRU5ErkJggg=="/>
+<image id="image4" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGOfPtRkwAAB55JREFUWAmVV2tsXMUVPnfuvfv22qTBiZNgEpcATUhMapLUOGmqghS1Mj/62FTtH6B/SviB2kqVCPyASpBU6oMqrRT+VJD+qChGTSRcqUUUUB5FSR0SUjtNEN1gIvAjT693va977/R853rs3e1uSUf3MTN35nxnzvnmzLnW4O4fUasSv9JvF5e+65vv07Ob1mjbv5/bfVpTD+ngFvlmqeuWRVmun1IUO35r4uRH0s+PRhmm37wdU2l8m4nDB16w7nvk4DesQH+flL/NUk67ZSnSrAERbhSLLNZA64ACvzQzPdd7NLCsl0ZefvjQ4G7yjaxwbP3TarTA8IFfWfTMs9bgdC74dHbDV23b3qecyBaWToFX5kUHgbYEnSzNqJYIZE1wsRqKixNlnSweXzkR6OqeruTY28OdaUU/fVYP7v6x0Vomqlp9BJw7AD6V3/i847p/s5S9xasUfK865/MKNQMqRrVxo86W4Jts3GE70BiLOTx3q62ib00Wep+DTGAZDINr37m5X+pm5Tu+Qvb16egrTiz5mF8u8nK9YB4Qyobr5QpcADu4jiLFKuEOGAI24QtKqiDwfHQ6sdSOXGnJurUdhw+NP/IOffCLfXTn5r8KrnAAfs5k+lVxOudP5i/+kSd82yvmqizKZUEysPYBYMdWtP8nO2nlrW1U9RmE2787fJpeeeMctadi5DMwz4VVyCvOVp14265Cdze7dnRXPDNkDx14IWD3a3FBJvOqAtsnZtc978baFsBrQU0dKy2Vq/SFNUtpy/oVtLKzjVZ3tdMqfk9fn2OdmYwL5JyfZZGLBbmxdGZydv1zwAImvirD0Onchu22G3+qUpr1WErL3QGAihdQ/8ZV4oZK1Zf31LUCnb4wSfGYw0St41moBcuEbOVGn57I37MNSgBbDa0b06j4VrA/HMkur/F12Lf4ZFJQPOrQ/awAlDH3e+cn6VquRC67ogk8BLBcyOZL035gAluBndlo7iEnmrzX90q++G0Rr64GsHLFo9UrOuiu2z8n3+ASlONnLslOlEaLB2QDw4kmNmVj+UFgh9vQsn4AXreYt9At/mcFNq/rEvZ7TD4bnOC+99j8MbZMM+svCFioACt4DE01kb+3m2mzPaiWYdBQoYWBDRWeByUGelfJB6PyWPYKXZrKUTRiCx8aZtU1gTGPtW0if3c3i6vuULzpEeF4ZGjPuilhg7UT8i1bkqRNdy2XTvShnBz9hEDGmywWsDi6ppS2t2PF98G3Jry2EqJ4DLbfxjs6qaMtxvGFQ59SvN81/fnYhzLNdWCBVhIW+4GF8yQgvRmU7QkPlsUBjTWs1Aa7WfhA723yOeAG+q/OFOnrA3fQoZ9nOCilqFz1OFbPm6ZRUE1bMC2rBxboAH3lYKkZYKqQ5fuart6YE/9v3bBSPoELUKjzlgQ9nukjEDL7yQ2KRUDE/22GEAvHitXRMuAAxYAnYi59+YvdtLO/h25fnpZ9zpPl+8Hhs3T4nQv0MZMQ64Y7/58CBW6Ae+IXEVE7HVHPo5effIg2sO9NgfkAdC1XpN++OkKFYoVSichN+R8yQr4xJmMrxsw20xoLqfJhBtaf/+gqPf6zv9Dovy+LDh67BOXUvyZprlQVUn6G1WV87UMwNWVhgRFZ0WJyIeMgECfc7FyFnvzNW9S9vJ3W3hZmYOx+KX9//5LsAoxtZvlWSoEDIWYw4vg+HSEqFTh5SErCAX/UFDSiTKwHtqyWt4/ox4qVKz6dGP1UIiIs1QwMSjWxrkbWFHilglbBEbWyfWycJx/jU4pfnNQ1KdD2S/PsN6H2wvhV4cCSdJxA0mT8v++Iy3GhQR4wQizraFfq/Mfzu8B+kXOanQ1jxaw4ejuZB313d8lnh5MxlLXdS+j1X3+n6Z5HkMI2PfPBFP3wl29QIuo2bE2xzYuQ4yBZzFxJvp7VM+/bkXhv7Yloot9WTjzaU1EmZSCCYW/sdxzLzYrZJZc5R0CITsYjHEyQpmjfdmK2Vy6c6Smnh4d60kplzq23kBwo23oiFKZgtdByrCh8/rWBzwsw8j+cfribkc4oY/z+9qlxCddQKJQpsll/9YRkRYztmMxk2dJ3j0zk1u+LJNr3VIszkg8GDJ5MuJJovHniopjxs8IsoKDcTL5Mox9eZn5wZARxtPYi8bRbKd7YuyJ97qjJxOS/IExK5/PC/D2vcV74rYWklIXNlTyxhFnhzb5herGU1pyUpl2vlH9teeqfGcmGhnZJUipORHY6dCAT0DNjqs/3vusVC3/gCZyczvIZrTUzfJ56NwsdjuPMmP8lOLUGeLkwlOxZ871hGlfEWMDEqLo/I/PTgL+XqbmNe/k3bA/CAogpg8OEJdwGIUaz58J2BuFAJ+15e5elzj5dK99MrMuAzG8TdsayxNmndKX8oA78fziRpO24CZvPcARw9qgGpzn64Eivb2MMxmIOB7aTVK0+IOD4NeNiMIwCdRYwnXgbksjP6cO//yYHz0c5k9mubDcNlofMFivyaOyKsE/71RnO9I5pK3hp5OCjf4Kpjaxa+abeUgEMaJw4Xd20JqgEA+yDPg5oPWwFORwY/jp7J8vqnFKBOt7ZdvqiAWiUYfrN+z+0c70Eg/d2NwAAAABJRU5ErkJggg=="/>
+<image id="image5" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGOfPtRkwAAA6ZJREFUWAnFV0FIVEEY/uf59rnmJigEtltQmh0MKssFjwp1qCDy0Kljhwrq0jXwoHT1UpAdOnbqYAjRwUCPwlpCkVCmBblbECToburuc6f/m7fz2n3ue/tWDQfmvXkz//9/38z/z8z/BIUs8uN1K5dZHJBUvCqIuiXJOKuiomQEiYwkmhdkTDTHO6fEqRd5Zyj4ybaCS3Yq2S7twhBJukEkW4Kl9ahYJUHPhRkZjg2kfuream9fAnLhUmP2a+YBC9znmTVXU67Vx7o51h2NHY8/FF2vN6vJVyXgzDo/zrPuq6ZUd5+gGWFag9VWYxuB7Jtzp6m49YqZH6kbKECBgZZJmJdjF99+KBerIICZUyGf2mtwDahIRKxk+UoYehA+l3Z+vB5wq+M2oYYtsK0wGEvrmLqBgON2aJ8r8M5/4PmlMW0q+M1xVcIagqByQWnpvzDDUNHuBYeh/OIYhSXBoDmKWCfgCuUC7PPdgIOAxasR6biFZs0CLHW2sKTACZdNL/wKc8h4Z17ccM4YI9rugm4uPqHC0lP3278hVmOJrkMGjtedgq/P3iRUTQRgjZ13Qq6EbAG2gbPdn2VpRJhktJ53xQAIYLmeVtVLoqG1l9fWjW9Xz9sAtsEB0e0dqPg2D/IC2bQxd4/s3yk1Ww1ORpRQQUSTgAxkoUPQDSjAFmuTZz7xkXuymhx8biauubMFmLBaSW78UMBNPY+V2vrcXWJmJKKHSeZXnHZTgpp6n1EhPe4fE4I+YxfoK7WCgw44BBgMCTYIkHLwhrZeQlVEsBIgBiIlcOjWiIm4exJWoPMH3/ferh1/c67gpysDXYB9HUkM7soFdvql/wHFLhDZybNTUsp+P4oqkOw15fNozyMyDhytIKT0ypa9+Oe7E4Tc5+r6GBdCTPM2pHmfcacb4Lyl4GezLclxWBkTXp9DRsUEtiF0AwqweRsaEwEyzhBvqa2VWVesnER5wGkBeyXlbEPd4fMG9v4fxSp75QTSh2RFN2473Hq6YCVQdQl/D7AGklbOnNU2RPbKGyWnDQW9vSS0bD3gwAImdBUB3MscEKPaWK23l0Q94LANLJ2WuSeESsO/ZaZ5tK8WAT2O0xIHVrjrt6TFGXLsWLxfp+kuAQzva1IKAmpZjIYrzGoZ33tZlE2k5Z4/pW13QezCu/ecryU5Smf2jABsIR33/BPA/jYC6ARL+ImbI8w81O6AnreUdEdgyztzLcsywcX5TduHn1Mvrf/1e/4XYrzgmfvIzPgAAAAASUVORK5CYII="/>
+<image id="image6" width="32" height="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGOfPtRkwAABLpJREFUWAnFV0lIJFkQDbdSEdwGF8pRcD2Udl9UFBFHLyoK4kEvLqDgpQdFmKMeBhpEBzw7Fz0IKiq4tYwLHhwFUXBX9KIHpbTccMW1Varj/aqsqcyqysppepiAyPw/Mn5E/Ij48SM9SDvomDWPsYTRwKi3Ir/IZMVdfn9hnGX8yvhDIJKldDDeMpo1InixBmu/G3x55WfGe0atipV8WAsZkPWvAJYvMioFfu8csjR74yMzG7Uob2lpMbe2tmo1CjI/MMrAUzazWPkX035W0B2mycnJlJmZSQkJCZSSkuLw3QkBMicYZZ7wsGNEnP5mzLSjOR0GBgYS75729/fJ09OT4uLiqLm5me7u7pzyK4hLPM9lfAHdCw8r/M7vSmmi9m5sbKT19XXy9vamt7c32tnZoYKCAlpYWFBbJn2DJxC2WRCkEMAtv4HgDoqKisjPz4+Gh4dtrCMjI6TT6ai4uNhGczOALlkocGbdJlNsbKy5o6PDHBoaKngHBwfNQ0NDYhwSEiK+cTjcyrHqgk7hAVQ4t67HrhsaGqirq4uurq4oIiKCbm5u6PLykiIjI+n6+po6Ozupvr6e/P39IdsdQKcOIUB5DXTH3dbWJpJudXVVsFZUVNDo6KgIRWWlxf61tTXa29sj8GoA6MyDASUamMnLy4uCg4MFq8FgoOjoaJqenqaZmRnS6/WEYwkICgoS+SAm7h8lMAAXiyr4+vpSQEAAcQ4QxtXV1dTb20vv7+8C+/r6qKqqSiiOj48XPAiZBjDgGDYx/qTGnJSURFFRUXR6ekqcbAIHBgZsS05OTigjI4NQH1AXbm9v6eLigs7Pz208LgZf4QFcq6qAaoeigxjX1tZST0+PAz9o+IYcAS88oQH0MMAtSAYg25ELR0dHDmuOj4/F7sEDA7BGA5hhAJoJVUhMTKTDw0PKyckRXnBW+5GEGxsblJ2dTSaTSasBJ96sGQYkubIgLCyMXl9fqby8nCYnJ+nl5YXS0tJoc3NTtiQ1NZWWlpbIx8eHysrK6Pn5WdSKs7MzGZ9iYoIHdhVE2RSuxI7ghYmJCVpeXiYo8/D45x7DGEatrKwIIxF/JKaGMOzCAPRwLgFCcOb7+/uFJ1D5gDgZEsA4VEVkPrwF3piYGC0GfIEBs4wu71Hs9uHhgRYX0dRYADtNT0+XpmL38IwECAXWYK0KQOes5EdcDJ+cMZvNZnEH3N+jvbMAilFubq6ohKDk5+fT3NycyA8riwhZU1OTLFTSN+v7T37/Cg8APjM+iJHigaqXlZUlmg2j0UhAHDPsEC4HPj09CZr0HY0JqibWugDogk5bQ4LtoXb+AqI9bG1tieTCXR8eHi52vb29LW481AQ0JQcHBzQ+Pk6Pj4+iJ0D829vbaX5+3l6U/fgPnoyDIIUAY9WWDJkOV5eWltLU1JTogurq6gghwhWNOlBYWEhjY2PCSNBdgKwlszcA/OhSkE0um1LcBTU1NaIHQCKiKuKY4rx3d3eLXgGCXABKKLL31MV3Qf7ITyOjamfDGc6btADXAFVeqyzIdGjLmeYU4AmcOy2CtfBAlqwHdKpVQUROIFP/l18ze1tgOerEf/JzqkxCe8XKsY4JeYxo4X7Y7/k3if1GSYlFzygAAAAASUVORK5CYII="/>
+</defs>
+</svg>

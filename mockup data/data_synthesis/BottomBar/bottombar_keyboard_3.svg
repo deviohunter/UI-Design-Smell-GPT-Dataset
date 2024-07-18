@@ -1,0 +1,293 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Store #2" clip-path="url(#clip0_0_2692)">
+<rect width="360" height="640" fill="#F5F5F5"/>
+<path id="Scrim" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V368H360V0H0Z" fill="#323232" fill-opacity="0.502463"/>
+<g id="Search">
+<path id="Base" fill-rule="evenodd" clip-rule="evenodd" d="M4 30C4 28.8954 4.89543 28 6 28H354C355.105 28 356 28.8954 356 30V366C356 367.105 355.105 368 354 368H6C4.89543 368 4 367.105 4 366V30Z" fill="white"/>
+<g id="#5">
+<text id="The New Yourk Times" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="52" y="353.102">The New Yourk Times</tspan></text>
+<g id="Logo">
+<mask id="mask0_0_2692" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="17" y="334" width="28" height="28">
+<path id="Mask" d="M17.5 334.5H44.5V361.5H17.5V334.5Z" fill="white" stroke="white"/>
+</mask>
+<g mask="url(#mask0_0_2692)">
+<path id="Mask_2" d="M17.5 334.5H44.5V361.5H17.5V334.5Z" fill="#D8D8D8" stroke="#979797"/>
+<rect id="images" x="17" y="333" width="29" height="29" fill="url(#pattern0)"/>
+</g>
+</g>
+</g>
+<g id="Subheader">
+<text id="NEWS SOURCES" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="13" y="318.102">NEWS SOURCES</tspan></text>
+<g id="Dividers/Light">
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M12 326H348V327H12V326Z" fill="black" fill-opacity="0.12"/>
+</g>
+</g>
+<g id="#4">
+<text id="Brexit" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="52" y="283.102">Brexit</tspan></text>
+<g id="Group 11">
+<mask id="mask1_0_2692" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="19" y="266" width="24" height="24">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M31 290C37.6274 290 43 284.627 43 278C43 271.373 37.6274 266 31 266C24.3726 266 19 271.373 19 278C19 284.627 24.3726 290 31 290Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_0_2692)">
+<rect id="gb-tiara1" x="14" y="266" width="35" height="24" fill="url(#pattern1)"/>
+</g>
+</g>
+</g>
+<g id="#3">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M31 250C37.6274 250 43 244.627 43 238C43 231.373 37.6274 226 31 226C24.3726 226 19 231.373 19 238C19 244.627 24.3726 250 31 250Z" stroke="#E8E8E8" stroke-width="0.5"/>
+<rect id="CNBC_logo.svg" x="21" y="231" width="20" height="12" fill="url(#pattern2)"/>
+<text id="Comcast" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="52" y="241.102">Comcast</tspan></text>
+</g>
+<g id="Subheader_2">
+<text id="TOPICS" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="13" y="206.102">TOPICS</tspan></text>
+<g id="Dividers/Light_2">
+<path id="Rectangle_2" fill-rule="evenodd" clip-rule="evenodd" d="M12 214H348V215H12V214Z" fill="black" fill-opacity="0.12"/>
+</g>
+</g>
+<g id="#2">
+<g id="ic_trending_up_black_24px">
+<g id="Group">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M35 161L37.29 163.29L32.41 168.17L28.41 164.17L21 171.59L22.41 173L28.41 167L32.41 171L38.71 164.71L41 167V161H35Z" fill="black"/>
+</g>
+</g>
+<text id="Dolphins" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="52" y="171.102">Dolphins</tspan></text>
+</g>
+<g id="#1">
+<g id="ic_trending_up_black_24px_2">
+<g id="Group_2">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M35 118L37.29 120.29L32.41 125.17L28.41 121.17L21 128.59L22.41 130L28.41 124L32.41 128L38.71 121.71L41 124V118H35Z" fill="black"/>
+</g>
+</g>
+<text id="Football" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="52" y="129.102">Football</tspan></text>
+</g>
+<g id="Subheader_3">
+<text id="TRENDING NOW" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="13" y="94.1016">TRENDING NOW</tspan></text>
+<g id="Dividers/Light_3">
+<path id="Rectangle_3" fill-rule="evenodd" clip-rule="evenodd" d="M12 102H348V103H12V102Z" fill="black" fill-opacity="0.12"/>
+</g>
+</g>
+<g id="Input">
+<g id="Dividers/Light_4">
+<path id="Rectangle_4" fill-rule="evenodd" clip-rule="evenodd" d="M4 76H356V77H4V76Z" fill="black" fill-opacity="0.12"/>
+</g>
+<g id="Icon">
+<path id="mic" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M330.99 51L330.999 45C330.999 43.342 329.657 42 328 42C326.344 42 325 43.342 325 45V51C325 52.656 326.344 54 328 54C329.657 54 330.99 52.656 330.99 51ZM333.299 51C333.299 54 330.762 56.1 328 56.1C325.239 56.1 322.7 54 322.7 51H321C321 54.415 323.719 57.233 327 57.718V61H329V57.718C332.279 57.233 335 54.415 335 51H333.299Z" fill="black"/>
+</g>
+<text id="Search for topics, n" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="56" y="56.7852">Search for topics, news, magazines</tspan></text>
+<g id="Icons / Navigation 24px / Grey / Back">
+<g id="Back">
+<path id="Shape_3" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M40 51H27.8L33.4 45.4L32 44L24 52L32 60L33.4 58.6L27.8 53H40V51Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Keyboard light">
+<g id="Base_2" filter="url(#filter0_ddi_0_2692)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 368V592H360V368H0Z" fill="#ECEFF0"/>
+</g>
+<path id="space" opacity="0.15" fill-rule="evenodd" clip-rule="evenodd" d="M257 573C257 574.1 256.226 575 255.28 575H129.72C128.774 575 128 574.1 128 573V553C128 551.9 128.774 551 129.72 551H255.28C256.226 551 257 551.9 257 553V573Z" fill="#37474F"/>
+<path id="Icon_2" fill-rule="evenodd" clip-rule="evenodd" d="M103.5 571.25C108.332 571.25 112.25 567.332 112.25 562.5C112.25 557.668 108.332 553.75 103.5 553.75C98.6677 553.75 94.75 557.668 94.75 562.5C94.75 567.332 98.6677 571.25 103.5 571.25ZM103.5 569.75C99.4961 569.75 96.25 566.504 96.25 562.5C96.25 558.496 99.4961 555.25 103.5 555.25C107.504 555.25 110.75 558.496 110.75 562.5C110.75 566.504 107.504 569.75 103.5 569.75Z" fill="#7F8B8E"/>
+<text id="," opacity="0.8" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" font-weight="500" letter-spacing="0em"><tspan x="73.54" y="568.629">,</tspan></text>
+<g id="?123" opacity="0.8">
+<text fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0285714em"><tspan x="17.5602" y="568.582">?12</tspan></text>
+<text fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="41.4828" y="568.582">3</tspan></text>
+</g>
+<text id="." opacity="0.8" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" font-weight="500" letter-spacing="0em"><tspan x="284.938" y="568.629">.</tspan></text>
+<path id="caps" opacity="0.6" fill-rule="evenodd" clip-rule="evenodd" d="M44 511H39V516H31V511H26L35 502L44 511ZM28 522V520H42V522H28Z" fill="#37474F"/>
+<path id="delete" opacity="0.6" fill-rule="evenodd" clip-rule="evenodd" d="M340 503H325.1C324.4 503 323.8 503.3 323.4 503.9L318 512L323.4 520.1C323.8 520.6 324.4 521 325.1 521H340C341.1 521 342 520.1 342 519V505C342 503.9 341.1 503 340 503ZM337 515.6L335.6 517L332 513.4L328.4 517L327 515.6L330.6 512L327 508.4L328.4 507L332 510.6L335.6 507L337 508.4L333.4 512L337 515.6Z" fill="#37474F"/>
+<g id="return">
+<g id="button bg" filter="url(#filter1_dd_0_2692)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M331 580C340.941 580 349 571.941 349 562C349 552.059 340.941 544 331 544C321.059 544 313 552.059 313 562C313 571.941 321.059 580 331 580Z" fill="#FF5722"/>
+<path d="M348.75 562C348.75 571.803 340.803 579.75 331 579.75C321.197 579.75 313.25 571.803 313.25 562C313.25 552.197 321.197 544.25 331 544.25C340.803 544.25 348.75 552.197 348.75 562Z" stroke="url(#paint0_linear_0_2692)" stroke-width="0.5"/>
+<path d="M348.75 562C348.75 571.803 340.803 579.75 331 579.75C321.197 579.75 313.25 571.803 313.25 562C313.25 552.197 321.197 544.25 331 544.25C340.803 544.25 348.75 552.197 348.75 562Z" stroke="url(#paint1_linear_0_2692)" stroke-width="0.5"/>
+</g>
+<g id="Icons / Navigation 24px / White / Check">
+<g id="Check">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M328 566.2L323.8 562L322.4 563.4L328 569L340 557L338.6 555.6L328 566.2Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="letters">
+<text id="A" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="34.8242" y="467.629">A</tspan></text>
+<text id="S" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="70.4688" y="467.629">S</tspan></text>
+<text id="D" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="104.781" y="467.629">D</tspan></text>
+<text id="F" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="140.92" y="467.629">F</tspan></text>
+<text id="G" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="174.502" y="467.629">G</tspan></text>
+<text id="H" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="209.147" y="467.629">H</tspan></text>
+<text id="J" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="245.931" y="467.629">J</tspan></text>
+<text id="K" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="280.093" y="467.629">K</tspan></text>
+<text id="L" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="316.07" y="467.629">L</tspan></text>
+<text id="Z" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="70.4043" y="517.629">Z</tspan></text>
+<text id="X" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="105.104" y="517.629">X</tspan></text>
+<text id="C" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="139.835" y="517.629">C</tspan></text>
+<text id="V" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="174.996" y="517.629">V</tspan></text>
+<text id="B" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="210.146" y="517.629">B</tspan></text>
+<text id="N" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="244.147" y="517.629">N</tspan></text>
+<text id="M" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="277.396" y="517.629">M</tspan></text>
+<text id="Q" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="17.4268" y="416.629">Q</tspan></text>
+<text id="W" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="50.2354" y="416.629">W</tspan></text>
+<text id="E" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="88.748" y="416.629">E</tspan></text>
+<text id="R" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="123.222" y="416.629">R</tspan></text>
+<text id="T" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="158.437" y="416.629">T</tspan></text>
+<text id="Y" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="193.394" y="416.629">Y</tspan></text>
+<text id="U" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="227.867" y="416.629">U</tspan></text>
+<text id="I" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="267.003" y="416.629">I</tspan></text>
+<text id="O" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="297.427" y="416.629">O</tspan></text>
+<text id="P" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="333.061" y="416.629">P</tspan></text>
+</g>
+<g id="numbers" opacity="0.8">
+<text id="1" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="35" y="396.559">1</tspan></text>
+<text id="2" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="68" y="396.559">2</tspan></text>
+<text id="3" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="103" y="396.559">3</tspan></text>
+<text id="4" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="139" y="396.559">4</tspan></text>
+<text id="5" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="173" y="396.559">5</tspan></text>
+<text id="6" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="209" y="396.559">6</tspan></text>
+<text id="7" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="243" y="396.559">7</tspan></text>
+<text id="8" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="278" y="396.559">8</tspan></text>
+<text id="9" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="313" y="396.559">9</tspan></text>
+<text id="0" fill="#455A64" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="10" font-weight="500" letter-spacing="0em"><tspan x="348" y="396.559">0</tspan></text>
+</g>
+</g>
+<g id="Bars/Navbar 360dp black">
+<path id="navbar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 592V640H360V592H0Z" fill="black"/>
+<g id="Group 3">
+<path id="recent" d="M274 610C274 609.448 274.448 609 275 609H287C287.552 609 288 609.448 288 610V622C288 622.552 287.552 623 287 623H275C274.448 623 274 622.552 274 622V610Z" stroke="white" stroke-width="2"/>
+</g>
+<g id="Group 4">
+<path id="home" d="M187 616C187 619.866 183.866 623 180 623C176.134 623 173 619.866 173 616C173 612.134 176.134 609 180 609C183.866 609 187 612.134 187 616Z" stroke="white" stroke-width="2"/>
+</g>
+<g id="Group 2">
+<path id="back" fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="Status bar">
+<path id="status bar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V24H360V0H0Z" fill="black" fill-opacity="0.2"/>
+<g id="Bars/Status bar Content White">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="316.48" y="15.9883">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M306 5.875V5L303 5V5.875H300V19H309V5.875H306Z" fill="white"/>
+</g>
+<g id="cellular">
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M277 19H291V5L277 19Z" fill="white"/>
+</g>
+<g id="wifi">
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M256.977 8.01611L266 19L275.023 8.01611C272.512 6.12256 269.387 5 266 5C262.613 5 259.488 6.12256 256.977 8.01611Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="bottom app bar 2">
+<g id="bg">
+<g id="app bar bg">
+<rect width="360" height="56" transform="translate(0 312)" fill="#019AE8"/>
+</g>
+</g>
+<g id="Actions">
+<g id="02">
+<g id="search">
+<path id="Vector" d="M287.5 342H286.71L286.43 341.73C287.41 340.59 288 339.11 288 337.5C288 333.91 285.09 331 281.5 331C277.91 331 275 333.91 275 337.5C275 341.09 277.91 344 281.5 344C283.11 344 284.59 343.41 285.73 342.43L286 342.71V343.5L291 348.49L292.49 347L287.5 342V342ZM281.5 342C279.01 342 277 339.99 277 337.5C277 335.01 279.01 333 281.5 333C283.99 333 286 335.01 286 337.5C286 339.99 283.99 342 281.5 342Z" fill="white"/>
+</g>
+</g>
+<g id="01">
+<g id="more">
+<path id="Vector_2" d="M332 336C333.1 336 334 335.1 334 334C334 332.9 333.1 332 332 332C330.9 332 330 332.9 330 334C330 335.1 330.9 336 332 336ZM332 338C330.9 338 330 338.9 330 340C330 341.1 330.9 342 332 342C333.1 342 334 341.1 334 340C334 338.9 333.1 338 332 338ZM332 344C330.9 344 330 344.9 330 346C330 347.1 330.9 348 332 348C333.1 348 334 347.1 334 346C334 344.9 333.1 344 332 344Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="nav icon left">
+<g id="menu">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M19 346H37V344H19V346ZM19 341H37V339H19V341ZM19 334V336H37V334H19Z" fill="white"/>
+</g>
+</g>
+<g id="FAB button">
+<g id="FAB Floating Action Button" filter="url(#filter2_ddi_0_2692)">
+<g id="circle bg">
+<rect x="152" y="284" width="56" height="56" rx="28" fill="#FF1D89"/>
+</g>
+<g id="actions">
+<g id="add">
+<path id="Shape_9" fill-rule="evenodd" clip-rule="evenodd" d="M179 305V311H173V313H179V319H181V313H187V311H181V305H179Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_2692" transform="scale(0.00444444)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_0_2692" transform="scale(0.00169492 0.00254453)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_0_2692" transform="scale(0.00102669 0.00177305)"/>
+</pattern>
+<filter id="filter0_ddi_0_2692" x="-2" y="366" width="364" height="230" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_2692"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_0_2692" result="effect2_dropShadow_0_2692"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_0_2692" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="0.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.8 0"/>
+<feBlend mode="normal" in2="shape" result="effect3_innerShadow_0_2692"/>
+</filter>
+<filter id="filter1_dd_0_2692" x="310" y="541" width="42" height="43" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_2692"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_0_2692" result="effect2_dropShadow_0_2692"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_0_2692" result="shape"/>
+</filter>
+<filter id="filter2_ddi_0_2692" x="144" y="276" width="72" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="8"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_2692"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_0_2692" result="effect2_dropShadow_0_2692"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_0_2692" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="shape" result="effect3_innerShadow_0_2692"/>
+</filter>
+<linearGradient id="paint0_linear_0_2692" x1="313.176" y1="544" x2="313.176" y2="579.648" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_2692" x1="313" y1="544" x2="313" y2="580" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.12"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.06"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0_0_2692">
+<rect width="360" height="640" fill="white"/>
+</clipPath>
+</defs>
+</svg>

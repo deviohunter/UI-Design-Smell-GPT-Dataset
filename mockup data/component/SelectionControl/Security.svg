@@ -1,0 +1,114 @@
+<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="375" height="812" fill="#F2F2F2"/>
+<g id="Security">
+<rect width="375" height="812" fill="black"/>
+<g id="iPhone X/Status Bars/Status Bar (Black)">
+<g id="iPhone X/Status Bars/Status Bar (Black)_2">
+<g id="Battery">
+<rect id="Border" opacity="0.35" x="336.5" y="17.8334" width="21" height="10.3333" rx="2.16667" stroke="white"/>
+<path id="Cap" opacity="0.4" d="M359 21V25C359.805 24.6612 360.328 23.8731 360.328 23C360.328 22.1269 359.805 21.3388 359 21Z" fill="white"/>
+<rect id="Capacity" x="338" y="19.3334" width="18" height="7.33333" rx="1.33333" fill="white"/>
+</g>
+<path id="Wifi" fill-rule="evenodd" clip-rule="evenodd" d="M323.33 19.608C325.546 19.6081 327.678 20.4596 329.283 21.9863C329.404 22.1042 329.598 22.1027 329.717 21.983L330.873 20.8163C330.933 20.7556 330.967 20.6734 330.966 20.5878C330.966 20.5022 330.931 20.4204 330.87 20.3603C326.655 16.3208 320.005 16.3208 315.79 20.3603C315.729 20.4203 315.694 20.5021 315.694 20.5877C315.693 20.6733 315.727 20.7556 315.787 20.8163L316.943 21.983C317.062 22.1029 317.256 22.1044 317.377 21.9863C318.983 20.4595 321.114 19.608 323.33 19.608ZM323.33 23.4037C324.548 23.4036 325.722 23.8561 326.624 24.6733C326.747 24.7893 326.939 24.7868 327.058 24.6677L328.212 23.501C328.273 23.4398 328.307 23.3568 328.306 23.2705C328.305 23.1843 328.27 23.102 328.208 23.042C325.46 20.4856 321.204 20.4856 318.455 23.042C318.393 23.102 318.358 23.1843 318.357 23.2706C318.356 23.3569 318.39 23.4399 318.451 23.501L319.605 24.6677C319.724 24.7868 319.917 24.7893 320.039 24.6733C320.941 23.8567 322.114 23.4042 323.33 23.4037ZM325.643 25.9575C325.645 26.044 325.611 26.1274 325.549 26.188L323.552 28.2037C323.494 28.2629 323.414 28.2963 323.33 28.2963C323.247 28.2963 323.167 28.2629 323.109 28.2037L321.111 26.188C321.049 26.1274 321.015 26.0439 321.017 25.9574C321.019 25.8709 321.057 25.789 321.121 25.731C322.396 24.6521 324.265 24.6521 325.54 25.731C325.604 25.7891 325.642 25.871 325.643 25.9575Z" fill="white"/>
+<path id="Cellular Connection" fill-rule="evenodd" clip-rule="evenodd" d="M309.667 17.6666H308.667C308.114 17.6666 307.667 18.1143 307.667 18.6666V27.3333C307.667 27.8856 308.114 28.3333 308.667 28.3333H309.667C310.219 28.3333 310.667 27.8856 310.667 27.3333V18.6666C310.667 18.1143 310.219 17.6666 309.667 17.6666ZM304 20H305C305.552 20 306 20.4477 306 21V27.3333C306 27.8856 305.552 28.3333 305 28.3333H304C303.448 28.3333 303 27.8856 303 27.3333V21C303 20.4477 303.448 20 304 20ZM300.333 22.3333H299.333C298.781 22.3333 298.333 22.781 298.333 23.3333V27.3333C298.333 27.8856 298.781 28.3333 299.333 28.3333H300.333C300.886 28.3333 301.333 27.8856 301.333 27.3333V23.3333C301.333 22.781 300.886 22.3333 300.333 22.3333ZM295.667 24.3333H294.667C294.114 24.3333 293.667 24.781 293.667 25.3333V27.3333C293.667 27.8856 294.114 28.3333 294.667 28.3333H295.667C296.219 28.3333 296.667 27.8856 296.667 27.3333V25.3333C296.667 24.781 296.219 24.3333 295.667 24.3333Z" fill="white"/>
+</g>
+</g>
+<path id="Arrow left" fill-rule="evenodd" clip-rule="evenodd" d="M24.8469 86.8484C24.7781 86.9172 24.675 86.9516 24.5375 86.9516C24.4 86.9516 24.2969 86.9172 24.2281 86.8484C21.5125 83.8578 20.1375 82.3453 20.1031 82.3109C20.0344 82.2422 20 82.1391 20 82.0016C20 81.8641 20.0344 81.7609 20.1031 81.6922L24.2281 77.1547C24.4344 76.9484 24.6406 76.9484 24.8469 77.1547C25.0531 77.3609 25.0531 77.5672 24.8469 77.7734L21.3922 81.5891H36.0875C36.3625 81.5891 36.5 81.7266 36.5 82.0016C36.5 82.2766 36.3625 82.4141 36.0875 82.4141H21.3922L24.8469 86.2297C25.0531 86.4359 25.0531 86.6422 24.8469 86.8484Z" fill="white"/>
+<g id="Row">
+<text id="Location based secur" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="22" y="134.6">Location based security</tspan></text>
+<text id="Social entrepreneurs" fill="#B0B1B8" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0px"><tspan x="22" y="163.4">Social entrepreneurship </tspan><tspan x="22" y="184.4">transparent deep dive </tspan><tspan x="22" y="205.4">segmentation, challenges and </tspan><tspan x="22" y="226.4">opportunities incubator replicable.</tspan></text>
+<g id="Toggle/Switch">
+<g id="Toggle/Switch_2">
+<g id="Rectangle">
+<rect x="305" y="122" width="46" height="26" rx="13" fill="#151515"/>
+<rect x="305.5" y="122.5" width="45" height="25" rx="12.5" stroke="#45AAF2" stroke-opacity="0.32"/>
+</g>
+<g id="Oval" filter="url(#filter0_d)">
+<path d="M318 146C324.075 146 329 141.075 329 135C329 128.925 324.075 124 318 124C311.925 124 307 128.925 307 135C307 141.075 311.925 146 318 146Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Row_2">
+<text id="Scale and impact pro" fill="#B0B1B8" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0px"><tspan x="22" y="316.4">Scale and impact problem-solvers, </tspan><tspan x="22" y="337.4">uplift capacity building, move the </tspan><tspan x="22" y="358.4">needle incubator.</tspan></text>
+<text id="Contactless" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="22" y="287.6">Contactless</tspan></text>
+<g id="Toggle/Switch &#226;&#128;&#148;&#194;&#160;Active">
+<g id="Rectangle_2">
+<rect x="305" y="269" width="46" height="26" rx="13" fill="#45AAF2"/>
+<rect x="305.5" y="269.5" width="45" height="25" rx="12.5" stroke="#45AAF2" stroke-opacity="0.32"/>
+</g>
+<g id="Oval_2" filter="url(#filter1_d)">
+<path d="M338 293C344.075 293 349 288.075 349 282C349 275.925 344.075 271 338 271C331.925 271 327 275.925 327 282C327 288.075 331.925 293 338 293Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Row_3">
+<text id="Impact investing str" fill="#B0B1B8" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0px"><tspan x="22" y="469.4">Impact investing strategy systems </tspan><tspan x="22" y="490.4">thinking cultivate mobilize move the </tspan><tspan x="22" y="511.4">needle</tspan></text>
+<text id="Cash withdrawals" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="22" y="439.6">Cash withdrawals</tspan></text>
+<g id="Toggle/Switch Copy 2">
+<g id="Toggle/Switch_3">
+<g id="Rectangle_3">
+<rect x="305" y="421" width="46" height="26" rx="13" fill="#151515"/>
+<rect x="305.5" y="421.5" width="45" height="25" rx="12.5" stroke="#45AAF2" stroke-opacity="0.32"/>
+</g>
+<g id="Oval_3" filter="url(#filter2_d)">
+<path d="M318 445C324.075 445 329 440.075 329 434C329 427.925 324.075 423 318 423C311.925 423 307 427.925 307 434C307 440.075 311.925 445 318 445Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Row_4">
+<text id="Her body her rights" fill="#B0B1B8" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0px"><tspan x="22" y="622.4">Her body her rights humanitarian </tspan><tspan x="22" y="643.4">empower communities best </tspan><tspan x="22" y="664.4">practices blended value. </tspan></text>
+<text id="Online transactions" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="22" y="592.6">Online transactions</tspan></text>
+<g id="Toggle/Switch Copy 3">
+<g id="Toggle/Switch_4">
+<g id="Rectangle_4">
+<rect x="305" y="573" width="46" height="26" rx="13" fill="#151515"/>
+<rect x="305.5" y="573.5" width="45" height="25" rx="12.5" stroke="#45AAF2" stroke-opacity="0.32"/>
+</g>
+<g id="Oval_4" filter="url(#filter3_d)">
+<path d="M318 597C324.075 597 329 592.075 329 586C329 579.925 324.075 575 318 575C311.925 575 307 579.925 307 586C307 592.075 311.925 597 318 597Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="305" y="123" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.508108 0 0 0 0 0.870323 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="325" y="270" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.508108 0 0 0 0 0.870323 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="305" y="422" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.508108 0 0 0 0 0.870323 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" x="305" y="574" width="26" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.508108 0 0 0 0 0.870323 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

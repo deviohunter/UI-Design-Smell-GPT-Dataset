@@ -1,0 +1,65 @@
+<svg width="720" height="1280" viewBox="0 0 720 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="720" height="1280" fill="#F2F2F2"/>
+<g id="05">
+<g clip-path="url(#clip0)">
+<rect width="720" height="1280" fill="white"/>
+<rect id="bg" width="720" height="1306.53" fill="#232C3D"/>
+<text id="Classes today" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" font-weight="500" letter-spacing="0px"><tspan x="39" y="78.0703">Classes today</tspan></text>
+<g id="Group">
+<g clip-path="url(#clip1)">
+<rect id="Rectangle" y="109" width="720" height="290" fill="#2F3A4F"/>
+<path id="shape" fill-rule="evenodd" clip-rule="evenodd" d="M679 159C681.2 159 683 157.2 683 155C683 152.8 681.2 151 679 151C676.8 151 675 152.8 675 155C675 157.2 676.8 159 679 159V159ZM679 163C676.8 163 675 164.8 675 167C675 169.2 676.8 171 679 171C681.2 171 683 169.2 683 167C683 164.8 681.2 163 679 163V163ZM679 175C676.8 175 675 176.8 675 179C675 181.2 676.8 183 679 183C681.2 183 683 181.2 683 179C683 176.8 681.2 175 679 175V175Z" fill="#838FA5"/>
+<path id="Line" opacity="0.2" d="M0 301.5H720" stroke="#ACB4C4" stroke-linecap="square"/>
+<text id="Mark Attendance" fill="#64FF6C" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="215.164" y="357.887">Mark Attendance</tspan></text>
+<text id="Practice session" fill="#64FF6C" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="489.193" y="357.887">Practice session</tspan></text>
+<text id="Hint text Copy 24" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" letter-spacing="0px"><tspan x="147" y="208.887">Mon, Tue, Wed | 2pm - 3pm</tspan></text>
+<text id="Hint text Copy 24_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0px"><tspan x="147" y="249.203">4 students</tspan></text>
+<path id="mask" fill-rule="evenodd" clip-rule="evenodd" d="M79 220C101.091 220 119 202.091 119 180C119 157.909 101.091 140 79 140C56.9086 140 39 157.909 39 180C39 202.091 56.9086 220 79 220Z" fill="url(#paint0_linear)"/>
+<text id="Hint text Copy 24_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="147" y="172.254">Guitar Batch 2 </tspan></text>
+</g>
+</g>
+<g id="Group_2">
+<g clip-path="url(#clip2)">
+<rect id="Rectangle_2" y="419" width="720" height="290" fill="#2F3A4F"/>
+<path id="shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M679 468C681.2 468 683 466.2 683 464C683 461.8 681.2 460 679 460C676.8 460 675 461.8 675 464C675 466.2 676.8 468 679 468V468ZM679 472C676.8 472 675 473.8 675 476C675 478.2 676.8 480 679 480C681.2 480 683 478.2 683 476C683 473.8 681.2 472 679 472V472ZM679 484C676.8 484 675 485.8 675 488C675 490.2 676.8 492 679 492C681.2 492 683 490.2 683 488C683 485.8 681.2 484 679 484V484Z" fill="#838FA5"/>
+<path id="Line_2" opacity="0.2" d="M0 611.5H720" stroke="#ACB4C4" stroke-linecap="square"/>
+<text id="Mark Attendance_2" fill="#64FF6C" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="205.164" y="668.887">Mark Attendance</tspan></text>
+<text id="Practice session_2" fill="#64FF6C" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="479.193" y="668.887">Practice session</tspan></text>
+<text id="Hint text Copy 24_4" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" letter-spacing="0px"><tspan x="39" y="518.887">Mon, Tue, Wed | 2pm - 3pm</tspan></text>
+<text id="Hint text Copy 24_5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0px"><tspan x="39" y="559.203">4 students</tspan></text>
+<text id="Hint text Copy 24_6" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="39" y="482.254">Guitar Batch 2 </tspan></text>
+</g>
+</g>
+<g id="Group_3">
+<rect id="Rectangle_3" y="957" width="720" height="144" fill="#2F3A4F"/>
+<text id="Hint text Copy 24_7" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" letter-spacing="0px"><tspan x="40" y="1056.89">A round-the-world trip remains</tspan></text>
+<text id="Hint text Copy 24_8" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="1020.25">Gilbert Kelley</tspan></text>
+</g>
+<g id="Group 4">
+<rect id="Rectangle_4" y="1142" width="720" height="98" fill="#2F3A4F"/>
+<text id="My Achievements" fill="#64FF6C" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="472" y="1199.89">My Achievements</tspan></text>
+</g>
+<g id="Group_4">
+<rect id="Rectangle_5" y="740" width="720" height="190" fill="#2F3A4F"/>
+<path id="shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M679 789C681.2 789 683 787.2 683 785C683 782.8 681.2 781 679 781C676.8 781 675 782.8 675 785C675 787.2 676.8 789 679 789V789ZM679 793C676.8 793 675 794.8 675 797C675 799.2 676.8 801 679 801C681.2 801 683 799.2 683 797C683 794.8 681.2 793 679 793V793ZM679 805C676.8 805 675 806.8 675 809C675 811.2 676.8 813 679 813C681.2 813 683 811.2 683 809C683 806.8 681.2 805 679 805V805Z" fill="#838FA5"/>
+<text id="Hint text Copy 24_9" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" letter-spacing="0px"><tspan x="39" y="839.887">You are 4 more practice sessions away from </tspan><tspan x="39" y="875.887">earning the week streak badge</tspan></text>
+<text id="Hint text Copy 24_10" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="39" y="803.254">Achievements</tspan></text>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="1.32701" y1="180.776" x2="79.7757" y2="259.224" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D4F123"/>
+<stop offset="1" stop-color="#37F8A2"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="720" height="1280" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect y="109" width="720" height="290" fill="white"/>
+</clipPath>
+<clipPath id="clip2">
+<rect y="419" width="720" height="290" fill="white"/>
+</clipPath>
+</defs>
+</svg>

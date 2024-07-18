@@ -1,0 +1,156 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="640" fill="#F2F2F2"/>
+<g id="Alerts #1">
+<g clip-path="url(#clip0)">
+<rect width="360" height="640" fill="#F5F5F5"/>
+<g id="Background">
+<rect id="Bitmap" width="360" height="640"/>
+<path id="Scrim" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H360V640H0V0Z" fill="black" fill-opacity="0.38"/>
+</g>
+<g id="Sheet">
+<g id="sheet bg" filter="url(#filter0_dd)">
+<mask id="path-4-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 376V592H360V376H0Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 376V592H360V376H0Z" fill="#FAFAFA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 376V592H360V376H0Z" stroke="url(#paint0_linear)" stroke-width="2" mask="url(#path-4-inside-1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 376V592H360V376H0Z" stroke="url(#paint1_linear)" stroke-width="2" style="mix-blend-mode:soft-light" mask="url(#path-4-inside-1)"/>
+</g>
+<g id="more">
+<g id="icon-more">
+<path id="Shape" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M300 515.887C297.8 515.887 296 517.687 296 519.887C296 522.087 297.8 523.887 300 523.887C302.2 523.887 304 522.087 304 519.887C304 517.687 302.2 515.887 300 515.887ZM324 515.887C321.8 515.887 320 517.687 320 519.887C320 522.087 321.8 523.887 324 523.887C326.2 523.887 328 522.087 328 519.887C328 517.687 326.2 515.887 324 515.887ZM312 515.887C309.8 515.887 308 517.687 308 519.887C308 522.087 309.8 523.887 312 523.887C314.2 523.887 316 522.087 316 519.887C316 517.687 314.2 515.887 312 515.887Z" fill="black"/>
+</g>
+<text id="More" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="298" y="564.133">More</tspan></text>
+</g>
+<g id="message">
+<text id="Message" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="155.5" y="564.133">Message</tspan></text>
+<g id="icon-message">
+<path id="Shape_2" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M196 499.888H164C161.8 499.888 160 501.688 160 503.888V539.888L168 531.888H196C198.2 531.888 200 530.088 200 527.888V503.888C200 501.688 198.2 499.888 196 499.888Z" fill="black"/>
+</g>
+</g>
+<g id="mail">
+<g id="icon-mail">
+<path id="Shape_3" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M64.0002 503.887H32.0002C29.8002 503.887 28.0002 505.687 28.0002 507.887V531.887C28.0002 534.087 29.8002 535.887 32.0002 535.887H64.0002C66.2002 535.887 68.0002 534.087 68.0002 531.887V507.887C68.0002 505.687 66.2002 503.887 64.0002 503.887ZM64.0002 511.887L48.0002 521.887L32.0002 511.887V507.887L48.0002 517.887L64.0002 507.887V511.887Z" fill="black"/>
+</g>
+<text id="Mail" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="36.5" y="564.133">Mail</tspan></text>
+</g>
+<g id="google+">
+<text id="Google+" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="289.5" y="468.133">Google+</tspan></text>
+<g id="icon -G+">
+<path id="circle" fill-rule="evenodd" clip-rule="evenodd" d="M314 400C326.15 400 336 409.85 336 422C336 434.15 326.15 444 314 444C301.85 444 292 434.15 292 422C292 409.85 301.85 400 314 400Z" fill="#DB4437"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="298" y="412" width="38" height="32">
+<path id="Clip 9" fill-rule="evenodd" clip-rule="evenodd" d="M299.06 417.51C298.38 418.86 298 420.38 298 422C298 423.62 298.38 425.14 299.06 426.49C299.59 427.54 300.29 428.48 301.14 429.27L303.91 432.04L315.798 443.928C326.169 443.089 334.507 435.059 335.82 424.828L327 416H324V420.88L321 420.89L314.7 414.61H314.69C312.95 412.99 310.7 412 308 412C304.09 412 300.71 414.24 299.06 417.51Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Clip 9_2" fill-rule="evenodd" clip-rule="evenodd" d="M299.06 417.51C298.38 418.86 298 420.38 298 422C298 423.62 298.38 425.14 299.06 426.49C299.59 427.54 300.29 428.48 301.14 429.27L303.91 432.04L315.798 443.928C326.169 443.089 334.507 435.059 335.82 424.828L327 416H324V420.88L321 420.89L314.7 414.61H314.69C312.95 412.99 310.7 412 308 412C304.09 412 300.71 414.24 299.06 417.51Z" fill="#3E2723" fill-opacity="0.2"/>
+<path id="shape" fill-rule="evenodd" clip-rule="evenodd" d="M331 420H327V416H324V420H320V423H324V427H327V423H331" fill="#EEEEEE"/>
+<path id="shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M308 423.9V420.18H317.36C317.5 420.81 317.61 421.4 317.61 422.23C317.61 427.94 313.78 432 308.01 432C302.49 432 298.01 427.52 298.01 422C298.01 416.48 302.49 412 308.01 412C310.71 412 312.97 412.99 314.7 414.61L311.86 417.37C311.14 416.69 309.88 415.89 308.01 415.89C304.7 415.89 302 418.64 302 422.01C302 425.38 304.7 428.13 308.01 428.13C311.84 428.13 313.25 425.48 313.51 423.91H308V423.9Z" fill="#EEEEEE"/>
+</g>
+</g>
+</g>
+<g id="hangout">
+<text id="Hangout" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="157" y="468.133">Hangout</tspan></text>
+<g id="icon-hangouts">
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="159" y="399" width="42" height="49">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M180 399.9C168.4 399.9 159 409.3 159 420.9C159 431.9 169 440.9 180 440.9V447.9C192.7 441.7 201 431.5 201 420.9C201 409.3 191.6 399.9 180 399.9Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M180 399.9C168.4 399.9 159 409.3 159 420.9C159 431.9 169 440.9 180 440.9V447.9C192.7 441.7 201 431.5 201 420.9C201 409.3 191.6 399.9 180 399.9Z" fill="#0C9D58"/>
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M204 447.9V428.4L190.5 414.9H181.5V417.9L178.5 414.9L169.5 423.9L193.5 447.9H204Z" fill="url(#paint2_radial)"/>
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M170 423.9H175V428.9C177.2 428.9 179 426.7 179 423.9V414.9H170V423.9ZM182 414.9V423.9H187V428.9C189.2 428.9 191 426.7 191 423.9V414.9H182Z" fill="#F1F1F1"/>
+</g>
+</g>
+</g>
+<g id="gmail">
+<text id="Gmail" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="32" y="468.133">Gmail</tspan></text>
+<g id="icon-gmail">
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M27 406V442H69V406H27Z" fill="#E1E1E1"/>
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M72 408.9L30 441.6V441.9H69L72 408.9Z" fill="#EEEEEE"/>
+<path id="Shape_9" opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M72 408.9L30 441.6V441.9H69L72 408.9Z" fill="#E1E1E1"/>
+<path id="Shape_10" fill-rule="evenodd" clip-rule="evenodd" d="M30 441.6V441.9L66 413.8V413.6L30 441.6Z" fill="white" fill-opacity="0.4"/>
+<path id="Shape_11" fill-rule="evenodd" clip-rule="evenodd" d="M66 408.9L69 405.9C70.7 405.9 72 407.2 72 408.9V438.9C72 440.6 70.7 441.9 69 441.9H66V408.9Z" fill="#B93426"/>
+<path id="Shape_12" fill-rule="evenodd" clip-rule="evenodd" d="M30 408.9L27 405.9C25.3 405.9 24 407.2 24 408.9V438.9C24 440.6 25.3 441.9 27 441.9H30V408.9Z" fill="#D23F30"/>
+<path id="Shape_13" fill-rule="evenodd" clip-rule="evenodd" d="M55.7999 441.9L24.8999 411L47.9999 420.4L71.9999 408.9V438.9C71.9999 440.6 70.6999 441.9 68.9999 441.9H55.7999Z" fill="url(#paint3_radial)"/>
+<path id="Shape_14" fill-rule="evenodd" clip-rule="evenodd" d="M48 427.6L69 405.9H27L48 427.6Z" fill="#EEEEEE"/>
+<path id="Shape_15" fill-rule="evenodd" clip-rule="evenodd" d="M70.7 411.3C71.5 410.8 72 409.9 72 408.9C72 407.2 70.7 405.9 69 405.9H68L48 420.4L28 405.9H27C25.3 405.9 24 407.2 24 408.9C24 409.9 24.5 410.8 25.3 411.3L48 427.6L70.7 411.3Z" fill="#DB4436"/>
+</g>
+</g>
+</g>
+<g id="Bars/Navbar 360dp black">
+<path id="navbar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 592V640H360V592H0Z" fill="black"/>
+<g id="Group 3">
+<g id="recent">
+<mask id="path-33-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z" stroke="white" stroke-width="4" mask="url(#path-33-inside-2)"/>
+</g>
+</g>
+<g id="Group 4">
+<g id="home">
+<mask id="path-34-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z" stroke="white" stroke-width="4" mask="url(#path-34-inside-3)"/>
+</g>
+</g>
+<g id="Group 2">
+<path id="back" fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="status bar contents">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="316.453" y="15.9883">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_16" fill-rule="evenodd" clip-rule="evenodd" d="M306 5.875V5L303 5V5.875H300V19H309V5.875H306Z" fill="white"/>
+</g>
+<g id="cellular">
+<path id="Shape_17" fill-rule="evenodd" clip-rule="evenodd" d="M277 19H291V5L277 19Z" fill="white"/>
+</g>
+<g id="wifi">
+<path id="Shape_18" fill-rule="evenodd" clip-rule="evenodd" d="M256.977 8.01611L266 19L275.023 8.01611C272.512 6.12256 269.387 5 266 5C262.613 5 259.488 6.12256 256.977 8.01611Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd" x="-16" y="360" width="392" height="264" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="16"/>
+<feGaussianBlur stdDeviation="8"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="8"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="2.44658" y1="376" x2="2.44658" y2="589.064" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.01"/>
+<stop offset="0.95" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="0" y1="376" x2="0" y2="592" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.8"/>
+<stop offset="0.0490476" stop-color="white" stop-opacity="0.4"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(178.484 414.771) scale(29.5617 28.2764)">
+<stop stop-color="#263238" stop-opacity="0.15"/>
+<stop offset="1" stop-color="#263238" stop-opacity="0.02"/>
+</radialGradient>
+<radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(24.857 410.959) scale(55.2217 38.6904)">
+<stop offset="0.32" stop-color="#263238" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#263238" stop-opacity="0.01"/>
+</radialGradient>
+<clipPath id="clip0">
+<rect width="360" height="640" fill="white"/>
+</clipPath>
+</defs>
+</svg>

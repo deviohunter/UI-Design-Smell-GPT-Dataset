@@ -1,0 +1,36 @@
+<svg width="360" height="144" viewBox="0 0 360 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="144" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-661" y="-512" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Lists">
+<g id="List #2">
+<path id="Bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H360V144H0V0Z" fill="white"/>
+<g id="Row">
+<text id="List item one" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="27.8438">List item one</tspan></text>
+<g id="Icons/Blank/24px">
+<path id="Icon 24px" fill-rule="evenodd" clip-rule="evenodd" d="M28 36C34.6274 36 40 30.6274 40 24C40 17.3726 34.6274 12 28 12C21.3726 12 16 17.3726 16 24C16 30.6274 21.3726 36 28 36Z" fill="#D1D3D4"/>
+</g>
+</g>
+<g id="Row_2">
+<text id="List item two" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="75.8438">List item two</tspan></text>
+<g id="Icons/Blank/24px_2">
+<path id="Icon 24px_2" fill-rule="evenodd" clip-rule="evenodd" d="M28 84C34.6274 84 40 78.6274 40 72C40 65.3726 34.6274 60 28 60C21.3726 60 16 65.3726 16 72C16 78.6274 21.3726 84 28 84Z" fill="#D1D3D4"/>
+</g>
+</g>
+<g id="Row_3">
+<text id="List item three" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="123.844">List item three</tspan></text>
+<g id="Icons/Blank/24px_3">
+<path id="Icon 24px_3" fill-rule="evenodd" clip-rule="evenodd" d="M28 132C34.6274 132 40 126.627 40 120C40 113.373 34.6274 108 28 108C21.3726 108 16 113.373 16 120C16 126.627 21.3726 132 28 132Z" fill="#D1D3D4"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect x="-661" y="-512" width="2660" height="3455" fill="white"/>
+</clipPath>
+</defs>
+</svg>

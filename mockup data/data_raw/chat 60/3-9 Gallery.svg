@@ -1,0 +1,82 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="3-9 Gallery">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Bg_2" width="750" height="1334" fill="#7EEFCC"/>
+<rect id="Bg_3" y="408" width="750" height="926" fill="black"/>
+</g>
+<g id="Img">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M390 966V1334H700V966H390Z" fill="black"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="390" y="966" width="310" height="368">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M390 966V1334H700V966H390Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect id="Img_2" opacity="0.9" x="364.571" y="951.157" width="351" height="411"/>
+</g>
+</g>
+<g id="Img_3">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M50 966V1334H360V966H50Z" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="50" y="966" width="310" height="368">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M50 966V1334H360V966H50Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect id="Img_4" opacity="0.9" width="343" height="401" transform="matrix(-1 0 0 1 370 946)"/>
+</g>
+</g>
+<g id="Img_5">
+<path id="Mask_5" fill-rule="evenodd" clip-rule="evenodd" d="M50 308V936H700V308H50Z" fill="black"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="50" y="308" width="650" height="628">
+<path id="Mask_6" fill-rule="evenodd" clip-rule="evenodd" d="M50 308V936H700V308H50Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<rect id="Img_6" x="36" y="294" width="667" height="656"/>
+</g>
+</g>
+<text id="Year" opacity="0.2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="0px"><tspan x="571" y="227.95">2015</tspan></text>
+<text id="Month" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2.4px"><tspan x="50" y="227.95">September</tspan></text>
+<g id="Button">
+<g id="Bg_4" filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M690 1214C690 1247.14 663.13 1274 630 1274C596.854 1274 570 1247.14 570 1214C570 1180.86 596.854 1154 630 1154C663.13 1154 690 1180.86 690 1214Z" fill="#B8A6E4"/>
+</g>
+<g id="Filter">
+<g id="Group">
+<rect id="Shape" x="611" y="1200" width="40" height="6" fill="black"/>
+<rect id="Shape_2" x="622" y="1221" width="19" height="6" fill="black"/>
+</g>
+</g>
+</g>
+<g id="Nav">
+<path id="Bg_5" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="More">
+<g id="Group_2">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M701 97C703.761 97 706 94.7614 706 92C706 89.2386 703.761 87 701 87C698.239 87 696 89.2386 696 92C696 94.7614 698.239 97 701 97Z" fill="white"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M701 79C703.761 79 706 76.7614 706 74C706 71.2386 703.761 69 701 69C698.239 69 696 71.2386 696 74C696 76.7614 698.239 79 701 79Z" fill="white"/>
+</g>
+</g>
+<text id="Gallery" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="322.043" y="92.305">Gallery</tspan></text>
+<g id="Menu">
+<g id="Group_3">
+<rect id="Shape_3" x="30" y="89" width="38" height="6" fill="white"/>
+<rect id="Shape_4" x="30" y="71" width="28" height="6" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="510" y="1134" width="240" height="240" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="40"/>
+<feGaussianBlur stdDeviation="30"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

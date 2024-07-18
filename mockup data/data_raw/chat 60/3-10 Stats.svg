@@ -1,0 +1,172 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="3-10 Stats">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#7EEFCC"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect id="Shape" y="444" width="750" height="890" fill="black"/>
+</g>
+</g>
+<g id="Grid">
+<path id="Line" opacity="0.3" d="M624.667 438.678V1331.59" stroke="url(#paint0_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_2" opacity="0.3" d="M524.667 438.678V1331.59" stroke="url(#paint1_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_3" opacity="0.3" d="M424.667 438.678V1331.59" stroke="url(#paint2_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_4" opacity="0.3" d="M324.667 438.678V1331.59" stroke="url(#paint3_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_5" opacity="0.3" d="M224.667 438.678V1331.59" stroke="url(#paint4_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_6" opacity="0.3" d="M124.667 438.678V1331.59" stroke="url(#paint5_linear)" stroke-width="2" stroke-linecap="square"/>
+</g>
+<g id="Dates">
+<text id="30" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="660.196" y="1278.32">30</tspan></text>
+<text id="25" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="560.938" y="1278.32">25</tspan></text>
+<text id="20" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="460.379" y="1278.32">20</tspan></text>
+<text id="15" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="363.666" y="1278.32">15</tspan></text>
+<text id="10" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="263.107" y="1278.32">10</tspan></text>
+<text id="5" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="168.598" y="1278.32">5</tspan></text>
+<text id="1" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="71.0684" y="1278.32">1</tspan></text>
+</g>
+<g id="Followers">
+<path id="Followers_2" d="M0 1017.52L1.48253 1020.98C27.9178 1082.7 118.43 1072.32 130.201 1006.21L146.425 915.1C154.971 867.107 222.47 863.551 236.012 910.38L239.988 924.132C250.647 960.993 301.616 964.225 316.846 929.006V929.006C332.09 893.756 383.114 897.033 393.723 933.943L402.153 963.272C416.592 1013.51 487.873 1013.23 501.923 962.886L513.662 920.821C524.084 883.477 575.055 878.628 592.33 913.338V913.338C608.52 945.868 655.475 944.223 669.349 910.639L724.351 777.501" stroke="#7EEFCC" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Likes">
+<g id="Oval">
+<mask id="path-19-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M675 1037C680.523 1037 685 1032.52 685 1027C685 1021.48 680.523 1017 675 1017C669.477 1017 665 1021.48 665 1027C665 1032.52 669.477 1037 675 1037Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M675 1037C680.523 1037 685 1032.52 685 1027C685 1021.48 680.523 1017 675 1017C669.477 1017 665 1021.48 665 1027C665 1032.52 669.477 1037 675 1037Z" fill="black" stroke="#B8A6E4" stroke-width="12" stroke-linecap="square" mask="url(#path-19-inside-1)"/>
+</g>
+<g id="Oval_2">
+<mask id="path-20-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M575 978C580.523 978 585 973.523 585 968C585 962.477 580.523 958 575 958C569.477 958 565 962.477 565 968C565 973.523 569.477 978 575 978Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M575 978C580.523 978 585 973.523 585 968C585 962.477 580.523 958 575 958C569.477 958 565 962.477 565 968C565 973.523 569.477 978 575 978Z" fill="black" stroke="#B8A6E4" stroke-width="12" stroke-linecap="square" mask="url(#path-20-inside-2)"/>
+</g>
+<g id="Oval_3">
+<mask id="path-21-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M475 856C480.523 856 485 851.523 485 846C485 840.477 480.523 836 475 836C469.477 836 465 840.477 465 846C465 851.523 469.477 856 475 856Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M475 856C480.523 856 485 851.523 485 846C485 840.477 480.523 836 475 836C469.477 836 465 840.477 465 846C465 851.523 469.477 856 475 856Z" fill="black" stroke="#B8A6E4" stroke-width="12" stroke-linecap="square" mask="url(#path-21-inside-3)"/>
+</g>
+<g id="Oval_4">
+<mask id="path-22-inside-4" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M375 996C380.523 996 385 991.523 385 986C385 980.477 380.523 976 375 976C369.477 976 365 980.477 365 986C365 991.523 369.477 996 375 996Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M375 996C380.523 996 385 991.523 385 986C385 980.477 380.523 976 375 976C369.477 976 365 980.477 365 986C365 991.523 369.477 996 375 996Z" fill="black" stroke="#B8A6E4" stroke-width="12" stroke-linecap="square" mask="url(#path-22-inside-4)"/>
+</g>
+<g id="Oval_5">
+<mask id="path-23-inside-5" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 846C280.523 846 285 841.523 285 836C285 830.477 280.523 826 275 826C269.477 826 265 830.477 265 836C265 841.523 269.477 846 275 846Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 846C280.523 846 285 841.523 285 836C285 830.477 280.523 826 275 826C269.477 826 265 830.477 265 836C265 841.523 269.477 846 275 846Z" fill="black" stroke="#B8A6E4" stroke-width="12" stroke-linecap="square" mask="url(#path-23-inside-5)"/>
+</g>
+<g id="Oval_6">
+<mask id="path-24-inside-6" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M175 896C180.523 896 185 891.523 185 886C185 880.477 180.523 876 175 876C169.477 876 165 880.477 165 886C165 891.523 169.477 896 175 896Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M175 896C180.523 896 185 891.523 185 886C185 880.477 180.523 876 175 876C169.477 876 165 880.477 165 886C165 891.523 169.477 896 175 896Z" fill="black" stroke="#B8A6E4" stroke-width="12" stroke-linecap="square" mask="url(#path-24-inside-6)"/>
+</g>
+<g id="Oval_7">
+<mask id="path-25-inside-7" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M75 1060C80.5228 1060 85 1055.52 85 1050C85 1044.48 80.5228 1040 75 1040C69.4772 1040 65 1044.48 65 1050C65 1055.52 69.4772 1060 75 1060Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M75 1060C80.5228 1060 85 1055.52 85 1050C85 1044.48 80.5228 1040 75 1040C69.4772 1040 65 1044.48 65 1050C65 1055.52 69.4772 1060 75 1060Z" fill="black" stroke="#B8A6E4" stroke-width="12" stroke-linecap="square" mask="url(#path-25-inside-7)"/>
+</g>
+</g>
+<g id="Followers_3">
+<rect id="Bg_2" x="390" y="344" width="310" height="350" fill="white"/>
+<rect id="Bg_3" x="390" y="594" width="310" height="100" fill="#B8A6E4"/>
+<text id="FOLLOWERS" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="473.433" y="651.315">FOLLOWERS</tspan></text>
+<g id="98">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="120" font-weight="bold" letter-spacing="-5px"><tspan x="472.031" y="543.9">9</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="120" font-weight="bold" letter-spacing="-5.45455px"><tspan x="540.273" y="543.9">8</tspan></text>
+</g>
+<g id="Followers_4">
+<g id="Group">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M561 424C561 415.9 550.4 412 545 412C539.6 412 529 415.9 529 424H561Z" fill="black"/>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M545 408C548.85 408 552 404.85 552 401C552 397.15 548.85 394 545 394C541.15 394 538 397.15 538 401C538 404.85 541.15 408 545 408Z" fill="black"/>
+</g>
+</g>
+</g>
+<g id="Likes_2">
+<rect id="Bg_4" x="50" y="344" width="310" height="350" fill="white"/>
+<rect id="Bg_5" x="50" y="594" width="310" height="100" fill="#7EEFCC"/>
+<text id="LIKES" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="171.066" y="651.315">LIKES</tspan></text>
+<g id="165">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="120" font-weight="bold" letter-spacing="-5px"><tspan x="116.688" y="543.9">16</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="120" font-weight="bold" letter-spacing="-5.45455px"><tspan x="222.469" y="543.9">5</tspan></text>
+</g>
+<g id="Likes_3">
+<g id="Group_2">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M213 395H208L200 405V424H217L220 405H211L213 395ZM190 405H196V424H190V405Z" fill="black"/>
+</g>
+</g>
+</g>
+<g id="Month">
+<g id="Next">
+<g id="Group_3">
+<path id="Line_7" d="M671 201.686L682.314 213L671 224.314" stroke="black" stroke-width="6" stroke-linecap="square"/>
+</g>
+</g>
+<g id="Month_2">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="269.969" y="232.95">Octobe</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="0px"><tspan x="457.07" y="232.95">r</tspan></text>
+</g>
+<g id="Prev">
+<g id="Group_4">
+<path id="Line_8" d="M71 224.314L59.6863 213L71 201.686" stroke="black" stroke-width="6" stroke-linecap="square"/>
+</g>
+</g>
+<text id="Year" opacity="0.2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="342" y="275.475">2015</tspan></text>
+</g>
+<g id="Nav">
+<path id="Bg_6" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="More">
+<g id="Group_5">
+<path id="Oval_8" fill-rule="evenodd" clip-rule="evenodd" d="M701 97C703.761 97 706 94.7614 706 92C706 89.2386 703.761 87 701 87C698.239 87 696 89.2386 696 92C696 94.7614 698.239 97 701 97Z" fill="white"/>
+<path id="Oval_9" fill-rule="evenodd" clip-rule="evenodd" d="M701 79C703.761 79 706 76.7614 706 74C706 71.2386 703.761 69 701 69C698.239 69 696 71.2386 696 74C696 76.7614 698.239 79 701 79Z" fill="white"/>
+</g>
+</g>
+<text id="Statistics" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="299.714" y="92.305">Statistics</tspan></text>
+<g id="Menu">
+<g id="Group_6">
+<rect id="Shape_5" x="30" y="89" width="38" height="6" fill="white"/>
+<rect id="Shape_6" x="30" y="71" width="28" height="6" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="624.403" y1="437" x2="624.403" y2="972.441" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="524.403" y1="437" x2="524.403" y2="972.441" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="424.403" y1="437" x2="424.403" y2="972.441" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="324.403" y1="437" x2="324.403" y2="972.441" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="224.403" y1="437" x2="224.403" y2="972.441" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint5_linear" x1="124.403" y1="437" x2="124.403" y2="972.441" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

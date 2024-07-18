@@ -1,0 +1,190 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="1-10 Stats">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#00A0FF"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M0 43L750 793H0V43Z" fill="black"/>
+<rect id="Shape_2" x="1" y="577" width="750" height="757" fill="black"/>
+</g>
+</g>
+<g id="Lines">
+<path id="Line" opacity="0.2" d="M624.667 916.782V1332.88" stroke="url(#paint0_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_2" opacity="0.2" d="M524.667 916.782V1332.88" stroke="url(#paint1_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_3" opacity="0.2" d="M424.667 916.782V1332.88" stroke="url(#paint2_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_4" opacity="0.2" d="M324.667 916.782V1332.88" stroke="url(#paint3_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_5" opacity="0.2" d="M224.667 916.782V1332.88" stroke="url(#paint4_linear)" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_6" opacity="0.2" d="M124.667 916.782V1332.88" stroke="url(#paint5_linear)" stroke-width="2" stroke-linecap="square"/>
+</g>
+<g id="Group">
+<rect id="Followers" x="664" y="1042" width="16" height="196" fill="#00A0FF"/>
+<rect id="Likes" x="680" y="1113" width="16" height="125" fill="#FFBDB8"/>
+</g>
+<g id="Group_2">
+<rect id="Followers_2" x="563" y="1062" width="16" height="176" fill="#00A0FF"/>
+<rect id="Likes_2" x="579" y="1123" width="16" height="115" fill="#FFBDB8"/>
+</g>
+<g id="Group_3">
+<rect id="Followers_3" x="462" y="1012" width="16" height="226" fill="#00A0FF"/>
+<rect id="Likes_3" x="478" y="1153" width="16" height="85" fill="#FFBDB8"/>
+</g>
+<g id="Group_4">
+<rect id="Followers_4" x="361" y="1022" width="16" height="216" fill="#00A0FF"/>
+<rect id="Likes_4" x="377" y="1133" width="16" height="105" fill="#FFBDB8"/>
+</g>
+<g id="Group_5">
+<rect id="Followers_5" x="260" y="1042" width="16" height="196" fill="#00A0FF"/>
+<rect id="Likes_5" x="276" y="1073" width="16" height="165" fill="#FFBDB8"/>
+</g>
+<g id="Group_6">
+<rect id="Followers_6" x="159" y="1122" width="16" height="116" fill="#00A0FF"/>
+<rect id="Likes_6" x="175" y="1183" width="16" height="55" fill="#FFBDB8"/>
+</g>
+<g id="Group_7">
+<rect id="Followers_7" x="58" y="1012" width="16" height="226" fill="#00A0FF"/>
+<rect id="Likes_7" x="74" y="1073" width="16" height="165" fill="#FFBDB8"/>
+</g>
+<text id="1" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="71.0684" y="1288.32">1</tspan></text>
+<text id="5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="168.598" y="1288.32">5</tspan></text>
+<text id="10" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="263.107" y="1288.32">10</tspan></text>
+<text id="15" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="363.666" y="1288.32">15</tspan></text>
+<text id="20" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="460.379" y="1288.32">20</tspan></text>
+<text id="25" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="560.938" y="1288.32">25</tspan></text>
+<text id="30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="660.196" y="1288.32">30</tspan></text>
+<g id="Chart">
+<rect id="Bg_2" x="50" y="454.934" width="650" height="460" fill="white"/>
+<g id="Followers_8">
+<text id="FOLLOWERS" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="467.433" y="847.249">FOLLOWERS</tspan></text>
+<text id="%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="40" letter-spacing="0px"><tspan x="602" y="761.734">%</tspan></text>
+<g id="64" filter="url(#filter0_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="100" font-weight="bold" letter-spacing="0px"><tspan x="484" y="786.684">64</tspan></text>
+</g>
+<g id="Chart_2">
+<path id="Oval" opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M538 664.934C579.421 664.934 613 631.355 613 589.934C613 548.513 579.421 514.934 538 514.934C496.579 514.934 463 548.513 463 589.934C463 631.355 496.579 664.934 538 664.934Z" fill="#00A0FF"/>
+<g id="Line_7" filter="url(#filter1_d)">
+<path d="M482.156 639.999C495.887 655.305 515.819 664.934 538 664.934C579.422 664.934 613 631.355 613 589.934C613 548.513 579.422 514.934 538 514.934" stroke="#00A0FF" stroke-width="10" stroke-linecap="square"/>
+</g>
+</g>
+</g>
+<path id="Line_8" opacity="0.1" d="M375 514.934L375 854.934" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="Likes_8">
+<text id="LIKES" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="179.066" y="847.249">LIKES</tspan></text>
+<text id="%_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="40" letter-spacing="0px"><tspan x="284" y="752.734">%</tspan></text>
+<g id="36" filter="url(#filter2_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="100" font-weight="bold" letter-spacing="0px"><tspan x="151" y="787.684">36</tspan></text>
+</g>
+<g id="Chart_3">
+<path id="Oval_2" opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M213 664.934C254.421 664.934 288 631.355 288 589.934C288 548.513 254.421 514.934 213 514.934C171.579 514.934 138 548.513 138 589.934C138 631.355 171.579 664.934 213 664.934Z" fill="#FFBDB8"/>
+<g id="Line_9" filter="url(#filter3_d)">
+<path d="M273.791 633.869C282.73 621.521 288 606.343 288 589.934C288 548.513 254.421 514.934 213 514.934" stroke="#FFBDB8" stroke-width="10" stroke-linecap="square"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Next">
+<path id="Line_10" d="M671 295.687L682.314 307L671 318.314" stroke="white" stroke-width="6" stroke-linecap="square"/>
+</g>
+<g id="Month" filter="url(#filter4_d)">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="70" font-weight="bold" letter-spacing="-2px"><tspan x="50" y="330.275">Septembe</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="70" font-weight="bold" letter-spacing="0px"><tspan x="369.781" y="330.275">r</tspan></text>
+</g>
+<text id="2015" opacity="0.5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="55" y="378.315">2015</tspan></text>
+<g id="Tabs">
+<text id="YEAR" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="596.902" y="208.315">YEAR</tspan></text>
+<path id="Line_11" d="M331.388 225H413.247" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<text id="MONTH" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="333.742" y="208.315">MONTH</tspan></text>
+<text id="WEEK" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="92.5762" y="208.315">WEEK</tspan></text>
+</g>
+<g id="Nav">
+<path id="Bg_3" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="More">
+<g id="Group_8">
+<path id="Oval_3" fill-rule="evenodd" clip-rule="evenodd" d="M701 97C703.761 97 706 94.7614 706 92C706 89.2386 703.761 87 701 87C698.239 87 696 89.2386 696 92C696 94.7614 698.239 97 701 97Z" fill="white"/>
+<path id="Oval_4" fill-rule="evenodd" clip-rule="evenodd" d="M701 79C703.761 79 706 76.7614 706 74C706 71.2386 703.761 69 701 69C698.239 69 696 71.2386 696 74C696 76.7614 698.239 79 701 79Z" fill="white"/>
+</g>
+</g>
+<text id="Statistics" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="299.714" y="92.305">Statistics</tspan></text>
+<g id="Menu">
+<g id="Group_9">
+<rect id="Shape_3" x="30" y="89" width="38" height="6" fill="white"/>
+<rect id="Shape_4" x="30" y="71" width="28" height="6" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="448.7" y="710.734" width="194.142" height="147.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="435.096" y="489.934" width="222.905" height="240" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="115.4" y="711.734" width="193.607" height="147.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" x="168" y="489.934" width="165" height="210.917" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter4_d" x="14.5498" y="281.98" width="422.251" height="144.61" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="40"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="624.403" y1="916" x2="624.403" y2="1165.51" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="524.403" y1="916" x2="524.403" y2="1165.51" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="424.403" y1="916" x2="424.403" y2="1165.51" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="324.403" y1="916" x2="324.403" y2="1165.51" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="224.403" y1="916" x2="224.403" y2="1165.51" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint5_linear" x1="124.403" y1="916" x2="124.403" y2="1165.51" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>

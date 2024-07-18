@@ -1,0 +1,373 @@
+<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="375" height="812" fill="#F2F2F2"/>
+<g id="Demo #9 - Music Main Page">
+<g clip-path="url(#clip0)">
+<rect width="375" height="812" fill="white"/>
+<g id="Content">
+<g id="New Albums">
+<g id="Album 3">
+<g id="Text">
+<text id="Ancestral Recall" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="345" y="812.581">Ancestral Recall</tspan></text>
+</g>
+<g id="Image">
+<g id="Placeholder">
+<g id="Background">
+<rect id="Rectangle" x="345" y="637" width="150" height="150" rx="6" fill="#F4F4F4"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Album 2">
+<g id="Text_2">
+<text id="Inside the Rose" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="180" y="812.581">Inside the Rose</tspan></text>
+</g>
+<g id="Image_2">
+<g id="Placeholder_2">
+<g id="Background_2">
+<rect id="Rectangle_2" x="180" y="637" width="150" height="150" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon">
+<path id="Image_3" fill-rule="evenodd" clip-rule="evenodd" d="M267 696C267 698.209 265.209 700 263 700C260.791 700 259 698.209 259 696C259 693.791 260.791 692 263 692C265.209 692 267 693.791 267 696ZM245.495 702.587C245.176 702.222 244.876 702.251 244.646 702.678L231.531 727.015C231.189 727.65 231 728.377 231 729.098C231 730.701 232.299 732 233.902 732H275C277.209 732 279 730.209 279 728L268.197 713.596C267.534 712.712 266.283 712.538 265.4 713.202L259 718.011L245.495 702.587Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Button">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M303 776C311.837 776 319 768.837 319 760C319 751.163 311.837 744 303 744C294.163 744 287 751.163 287 760C287 768.837 294.163 776 303 776Z" fill="#FF7B00"/>
+<g id="Icon_2">
+<path id="Play" fill-rule="evenodd" clip-rule="evenodd" d="M299 755.766C299 754.989 299.848 754.509 300.514 754.909L307.571 759.143C308.218 759.531 308.218 760.469 307.571 760.857L300.514 765.091C299.848 765.491 299 765.011 299 764.234V755.766Z" fill="white"/>
+</g>
+</g>
+<g id="Icon_3">
+<path id="Dots" fill-rule="evenodd" clip-rule="evenodd" d="M296 656C296 657.381 294.881 658.5 293.5 658.5C292.119 658.5 291 657.381 291 656C291 654.619 292.119 653.5 293.5 653.5C294.881 653.5 296 654.619 296 656ZM303 658.5C304.381 658.5 305.5 657.381 305.5 656C305.5 654.619 304.381 653.5 303 653.5C301.619 653.5 300.5 654.619 300.5 656C300.5 657.381 301.619 658.5 303 658.5ZM312.5 658.5C313.881 658.5 315 657.381 315 656C315 654.619 313.881 653.5 312.5 653.5C311.119 653.5 310 654.619 310 656C310 657.381 311.119 658.5 312.5 658.5Z" fill="#434040"/>
+</g>
+</g>
+</g>
+<g id="Album 1">
+<g id="Text_3">
+<text id="Eraserland" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="15" y="812.581">Eraserland</tspan></text>
+</g>
+<g id="Image_4">
+<g id="Placeholder_3">
+<g id="Background_3">
+<rect id="Rectangle_3" x="15" y="637" width="150" height="150" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon_4">
+<path id="Image_5" fill-rule="evenodd" clip-rule="evenodd" d="M102 696C102 698.209 100.209 700 98 700C95.7909 700 94 698.209 94 696C94 693.791 95.7909 692 98 692C100.209 692 102 693.791 102 696ZM80.4953 702.587C80.176 702.222 79.8761 702.251 79.6462 702.678L66.5307 727.015C66.1888 727.65 66 728.377 66 729.098C66 730.701 67.2992 732 68.9018 732H110C112.209 732 114 730.209 114 728L103.197 713.596C102.534 712.712 101.283 712.538 100.4 713.202L94 718.011L80.4953 702.587Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Button_2">
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M138 776C146.837 776 154 768.837 154 760C154 751.163 146.837 744 138 744C129.163 744 122 751.163 122 760C122 768.837 129.163 776 138 776Z" fill="#FF7B00"/>
+<g id="Icon_5">
+<path id="Play_2" fill-rule="evenodd" clip-rule="evenodd" d="M134 755.766C134 754.989 134.848 754.509 135.514 754.909L142.571 759.143C143.218 759.531 143.218 760.469 142.571 760.857L135.514 765.091C134.848 765.491 134 765.011 134 764.234V755.766Z" fill="white"/>
+</g>
+</g>
+<g id="Icon_6">
+<path id="Dots_2" fill-rule="evenodd" clip-rule="evenodd" d="M131 656C131 657.381 129.881 658.5 128.5 658.5C127.119 658.5 126 657.381 126 656C126 654.619 127.119 653.5 128.5 653.5C129.881 653.5 131 654.619 131 656ZM138 658.5C139.381 658.5 140.5 657.381 140.5 656C140.5 654.619 139.381 653.5 138 653.5C136.619 653.5 135.5 654.619 135.5 656C135.5 657.381 136.619 658.5 138 658.5ZM147.5 658.5C148.881 658.5 150 657.381 150 656C150 654.619 148.881 653.5 147.5 653.5C146.119 653.5 145 654.619 145 656C145 657.381 146.119 658.5 147.5 658.5Z" fill="#434040"/>
+</g>
+</g>
+</g>
+<g id="Sub Header">
+<g id="Right">
+<text id="Link" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="304.883" y="614.581">See All</tspan></text>
+</g>
+<g id="Left">
+<text id="Text_4" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="15" y="614.581">New Albums</tspan></text>
+</g>
+</g>
+</g>
+<g id="New Releases">
+<g id="Artist 4">
+<g id="Background_4" filter="url(#filter0_i)">
+<rect x="330" y="515" width="330" height="68" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Left_2">
+<g id="Placeholder_4">
+<g id="Background_5">
+<rect id="Rectangle_4" x="345" y="530" width="38" height="38" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon_7">
+<path id="Avatar" fill-rule="evenodd" clip-rule="evenodd" d="M369 543C369 545.761 366.761 548 364 548C361.239 548 359 545.761 359 543C359 540.239 361.239 538 364 538C366.761 538 369 540.239 369 543ZM374 557C374 559 369 560 364 560C359 560 354 559 354 557C354 555 357 550 364 550C371 550 374 555 374 557Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Artist 3">
+<g id="Background_6" filter="url(#filter1_i)">
+<rect x="330" y="447" width="330" height="68" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Left_3">
+<g id="Placeholder_5">
+<g id="Background_7">
+<rect id="Rectangle_5" x="345" y="462" width="38" height="38" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon_8">
+<path id="Avatar_2" fill-rule="evenodd" clip-rule="evenodd" d="M369 475C369 477.761 366.761 480 364 480C361.239 480 359 477.761 359 475C359 472.239 361.239 470 364 470C366.761 470 369 472.239 369 475ZM374 489C374 491 369 492 364 492C359 492 354 491 354 489C354 487 357 482 364 482C371 482 374 487 374 489Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Artist 2">
+<g id="Background_8" filter="url(#filter2_i)">
+<rect y="515" width="330" height="68" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Right_2">
+<g id="Icon_9">
+<path id="Dots_3" fill-rule="evenodd" clip-rule="evenodd" d="M296 549C296 550.381 294.881 551.5 293.5 551.5C292.119 551.5 291 550.381 291 549C291 547.619 292.119 546.5 293.5 546.5C294.881 546.5 296 547.619 296 549ZM303 551.5C304.381 551.5 305.5 550.381 305.5 549C305.5 547.619 304.381 546.5 303 546.5C301.619 546.5 300.5 547.619 300.5 549C300.5 550.381 301.619 551.5 303 551.5ZM312.5 551.5C313.881 551.5 315 550.381 315 549C315 547.619 313.881 546.5 312.5 546.5C311.119 546.5 310 547.619 310 549C310 550.381 311.119 551.5 312.5 551.5Z" fill="#434040"/>
+</g>
+</g>
+<g id="Left_4">
+<text id="Link_2" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="65" y="563.563">Devin Townsend</tspan></text>
+<text id="Title" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="65" y="544.581">Spirits Will Collide</tspan></text>
+<g id="Placeholder_6">
+<g id="Background_9">
+<rect id="Rectangle_6" x="15" y="530" width="38" height="38" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon_10">
+<path id="Avatar_3" fill-rule="evenodd" clip-rule="evenodd" d="M39 543C39 545.761 36.7614 548 34 548C31.2386 548 29 545.761 29 543C29 540.239 31.2386 538 34 538C36.7614 538 39 540.239 39 543ZM44 557C44 559 39 560 34 560C29 560 24 559 24 557C24 555 27 550 34 550C41 550 44 555 44 557Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Artist 1">
+<g id="Background_10" filter="url(#filter3_i)">
+<rect y="447" width="330" height="68" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Right_3">
+<g id="Icon_11">
+<path id="Dots_4" fill-rule="evenodd" clip-rule="evenodd" d="M296 481C296 482.381 294.881 483.5 293.5 483.5C292.119 483.5 291 482.381 291 481C291 479.619 292.119 478.5 293.5 478.5C294.881 478.5 296 479.619 296 481ZM303 483.5C304.381 483.5 305.5 482.381 305.5 481C305.5 479.619 304.381 478.5 303 478.5C301.619 478.5 300.5 479.619 300.5 481C300.5 482.381 301.619 483.5 303 483.5ZM312.5 483.5C313.881 483.5 315 482.381 315 481C315 479.619 313.881 478.5 312.5 478.5C311.119 478.5 310 479.619 310 481C310 482.381 311.119 483.5 312.5 483.5Z" fill="#434040"/>
+</g>
+</g>
+<g id="Left_5">
+<text id="Link_3" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="65" y="495.563">Ela Orleans</tspan></text>
+<text id="Title_2" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="65" y="476.581">Movies for Ears</tspan></text>
+<g id="Placeholder_7">
+<g id="Background_11">
+<rect id="Rectangle_7" x="15" y="462" width="38" height="38" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon_12">
+<path id="Avatar_4" fill-rule="evenodd" clip-rule="evenodd" d="M39 475C39 477.761 36.7614 480 34 480C31.2386 480 29 477.761 29 475C29 472.239 31.2386 470 34 470C36.7614 470 39 472.239 39 475ZM44 489C44 491 39 492 34 492C29 492 24 491 24 489C24 487 27 482 34 482C41 482 44 487 44 489Z" fill="#DCDBDB"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Sub Header_2">
+<g id="Right_4">
+<text id="Link_4" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="304.883" y="434.581">See All</tspan></text>
+</g>
+<g id="Left_6">
+<text id="Text_5" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="15" y="434.581">New Releases</tspan></text>
+</g>
+</g>
+</g>
+<rect id="Rectangle_8" y="393" width="375" height="10" fill="#F4F4F4"/>
+<g id="Slider">
+<g id="Slide 2">
+<g id="Song">
+<g id="Background_12" filter="url(#filter4_i)">
+<rect x="330" y="325" width="330" height="68" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Left_7">
+<g id="Placeholder_8">
+<g id="Background_13">
+<path id="Oval_3" fill-rule="evenodd" clip-rule="evenodd" d="M364 378C374.493 378 383 369.493 383 359C383 348.507 374.493 340 364 340C353.507 340 345 348.507 345 359C345 369.493 353.507 378 364 378Z" fill="#FF7B00"/>
+</g>
+<g id="Icon_13">
+<path id="Play_3" fill-rule="evenodd" clip-rule="evenodd" d="M360 354.766C360 353.989 360.848 353.509 361.514 353.909L368.571 358.143C369.218 358.531 369.218 359.469 368.571 359.857L361.514 364.091C360.848 364.491 360 364.011 360 363.234V354.766Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Placeholder_9">
+<g id="Background_14">
+<rect id="Rectangle_9" x="345" y="175" width="315" height="150" rx="6" fill="#F4F4F4"/>
+</g>
+</g>
+<text id="Hot" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="360" y="197.563">Hot</tspan></text>
+</g>
+<g id="Slide 1">
+<g id="Song_2">
+<g id="Background_15" filter="url(#filter5_i)">
+<rect y="325" width="330" height="68" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Right_5">
+<text id="Text_6" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="279.915" y="362.563">04:45</tspan></text>
+</g>
+<g id="Left_8">
+<text id="Link_5" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="65" y="373.563">Ben Folds</tspan></text>
+<text id="Title_3" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="65" y="354.581">Live at My Space</tspan></text>
+<g id="Placeholder_10">
+<g id="Background_16">
+<path id="Oval_4" fill-rule="evenodd" clip-rule="evenodd" d="M34 378C44.4934 378 53 369.493 53 359C53 348.507 44.4934 340 34 340C23.5066 340 15 348.507 15 359C15 369.493 23.5066 378 34 378Z" fill="#FF7B00"/>
+</g>
+<g id="Icon_14">
+<path id="Play_4" fill-rule="evenodd" clip-rule="evenodd" d="M30 354.766C30 353.989 30.848 353.509 31.5145 353.909L38.5708 358.143C39.2182 358.531 39.2182 359.469 38.5708 359.857L31.5145 364.091C30.848 364.491 30 364.011 30 363.234V354.766Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Placeholder_11">
+<g id="Background_17">
+<rect id="Rectangle_10" x="15" y="175" width="315" height="150" rx="6" fill="#F4F4F4"/>
+</g>
+<g id="Icon_15">
+<path id="Image_6" fill-rule="evenodd" clip-rule="evenodd" d="M185 234C185 236.209 183.209 238 181 238C178.791 238 177 236.209 177 234C177 231.791 178.791 230 181 230C183.209 230 185 231.791 185 234ZM163.495 240.587C163.176 240.222 162.876 240.251 162.646 240.678L149.531 265.015C149.189 265.65 149 266.377 149 267.098C149 268.701 150.299 270 151.902 270H193C195.209 270 197 268.209 197 266L186.197 251.596C185.534 250.712 184.283 250.538 183.4 251.202L177 256.011L163.495 240.587Z" fill="#DCDBDB"/>
+</g>
+</g>
+<text id="Hot_2" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="30" y="197.563">Hot</tspan></text>
+</g>
+</g>
+</g>
+<g id="Tab Bar">
+<g id="Bar" filter="url(#filter6_i)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 812V729H375V812H0Z" fill="white"/>
+</g>
+<g id="Home Indicator">
+<rect id="Home Indicator_2" x="120.5" y="799" width="134" height="5" rx="2.5" fill="#434040"/>
+</g>
+<g id="Item 4">
+<text id="Label" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="12" letter-spacing="0.3px"><tspan x="298.833" y="776.054">Settings</tspan></text>
+<g id="Icon_16">
+<path id="Settings" fill-rule="evenodd" clip-rule="evenodd" d="M319.5 757.382C317.996 757.144 316.609 756.552 315.427 755.694L314.282 756.839C313.892 757.229 313.259 757.229 312.868 756.839L312.161 756.132C311.771 755.741 311.771 755.108 312.161 754.718L313.306 753.573C312.448 752.391 311.856 751.004 311.618 749.5H310C309.448 749.5 309 749.052 309 748.5V747.5C309 746.948 309.448 746.5 310 746.5H311.618C311.856 744.996 312.448 743.609 313.306 742.427L312.161 741.282C311.771 740.892 311.771 740.259 312.161 739.868L312.868 739.161C313.259 738.771 313.892 738.771 314.282 739.161L315.427 740.306C316.609 739.448 317.996 738.856 319.5 738.618V737C319.5 736.448 319.948 736 320.5 736H321.5C322.052 736 322.5 736.448 322.5 737V738.618C324.004 738.856 325.391 739.448 326.573 740.306L327.718 739.161C328.108 738.771 328.741 738.771 329.132 739.161L329.839 739.868C330.229 740.259 330.229 740.892 329.839 741.282L328.694 742.427C329.552 743.609 330.144 744.996 330.382 746.5H332C332.552 746.5 333 746.948 333 747.5V748.5C333 749.052 332.552 749.5 332 749.5H330.382C330.144 751.004 329.552 752.391 328.694 753.573L329.839 754.718C330.229 755.108 330.229 755.741 329.839 756.132L329.132 756.839C328.741 757.229 328.108 757.229 327.718 756.839L326.573 755.694C325.391 756.552 324.004 757.144 322.5 757.382V759C322.5 759.552 322.052 760 321.5 760H320.5C319.948 760 319.5 759.552 319.5 759V757.382ZM321 754.5C324.59 754.5 327.5 751.59 327.5 748C327.5 744.41 324.59 741.5 321 741.5C317.41 741.5 314.5 744.41 314.5 748C314.5 751.59 317.41 754.5 321 754.5ZM323 748C323 749.105 322.105 750 321 750C319.895 750 319 749.105 319 748C319 746.895 319.895 746 321 746C322.105 746 323 746.895 323 748Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Item 3">
+<text id="Label_2" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="12" letter-spacing="0.3px"><tspan x="213.994" y="776.054">Search</tspan></text>
+<g id="Icon_17">
+<path id="Search" fill-rule="evenodd" clip-rule="evenodd" d="M230 756C224.477 756 220 751.523 220 746C220 740.477 224.477 736 230 736C235.523 736 240 740.477 240 746C240 748.22 239.276 750.272 238.052 751.931L243.561 757.439C244.146 758.025 244.146 758.975 243.561 759.561C242.975 760.146 242.025 760.146 241.439 759.561L235.931 754.052C234.272 755.276 232.22 756 230 756ZM237 746C237 749.866 233.866 753 230 753C226.134 753 223 749.866 223 746C223 742.134 226.134 739 230 739C233.866 739 237 742.134 237 746Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Item 2">
+<text id="Label_3" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="12" letter-spacing="0.3px"><tspan x="125.092" y="776.054">Library</tspan></text>
+<g id="Icon_18">
+<path id="Bookmarks" fill-rule="evenodd" clip-rule="evenodd" d="M150 737H136C134.343 737 133 738.343 133 740V757.993C133 758.257 133.052 758.519 133.154 758.762C133.579 759.782 134.749 760.264 135.769 759.84L143 754.827L150.231 759.84C150.475 759.941 150.736 759.993 151 759.993C152.105 759.993 153 759.098 153 757.993V740C153 738.343 151.657 737 150 737ZM143 751.578L136 756.493V740H150V756.493L143 751.578Z" fill="#DCDBDB"/>
+</g>
+</g>
+<g id="Item 1">
+<text id="Label_4" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="12" letter-spacing="0.3px"><tspan x="38.2805" y="776.054">Home</tspan></text>
+<g id="Icon_19">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M64 749.915V757.5C64 758.982 62.6685 760 61.1923 760H46.8077C45.3315 760 44 758.982 44 757.5V749.915C43.4723 750.101 42.8614 749.983 42.4393 749.561C41.8536 748.975 41.8536 748.025 42.4393 747.439L53.2929 736.586C53.6834 736.195 54.3166 736.195 54.7071 736.586L65.5607 747.439C66.1464 748.025 66.1464 748.975 65.5607 749.561C65.1386 749.983 64.5277 750.101 64 749.915ZM47 747.121V757H61V747.121L54 740.121L47 747.121ZM56 748C56 749.105 55.1046 750 54 750C52.8954 750 52 749.105 52 748C52 746.895 52.8954 746 54 746C55.1046 746 56 746.895 56 748Z" fill="#FF7B00"/>
+</g>
+</g>
+</g>
+<g id="Navigation Bar">
+<g id="Background_18" filter="url(#filter7_i)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H375V160H0V0Z" fill="black" fill-opacity="0.01"/>
+</g>
+<g id="Placeholder_12">
+<g id="Background_19">
+<path id="Oval_5" fill-rule="evenodd" clip-rule="evenodd" d="M336 145C349.255 145 360 134.255 360 121C360 107.745 349.255 97 336 97C322.745 97 312 107.745 312 121C312 134.255 322.745 145 336 145Z" fill="#F4F4F4"/>
+</g>
+<g id="Icon_20">
+<path id="Avatar_5" fill-rule="evenodd" clip-rule="evenodd" d="M341 115C341 117.761 338.761 120 336 120C333.239 120 331 117.761 331 115C331 112.239 333.239 110 336 110C338.761 110 341 112.239 341 115ZM346 129C346 131 341 132 336 132C331 132 326 131 326 129C326 127 329 122 336 122C343 122 346 127 346 129Z" fill="#DCDBDB"/>
+</g>
+</g>
+<text id="Sub Header_3" fill="#918E8E" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="14" letter-spacing="0.4px"><tspan x="15" y="144.563">Energy of Live</tspan></text>
+<text id="Header" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="36" font-weight="bold" letter-spacing="0px"><tspan x="15" y="121.162">Music Box</tspan></text>
+<g id="Top Bar">
+<g id="Right_6">
+<g id="Icon 1">
+<path id="Search_2" fill-rule="evenodd" clip-rule="evenodd" d="M346 74C340.477 74 336 69.5228 336 64C336 58.4772 340.477 54 346 54C351.523 54 356 58.4772 356 64C356 66.2203 355.276 68.2716 354.052 69.9309L359.561 75.4393C360.146 76.0251 360.146 76.9749 359.561 77.5607C358.975 78.1464 358.025 78.1464 357.439 77.5607L351.931 72.0522C350.272 73.2764 348.22 74 346 74ZM353 64C353 67.866 349.866 71 346 71C342.134 71 339 67.866 339 64C339 60.134 342.134 57 346 57C349.866 57 353 60.134 353 64Z" fill="#FF7B00"/>
+</g>
+</g>
+<g id="Center">
+<text id="Title_4" fill="#434040" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" font-weight="bold" letter-spacing="0.4px"><tspan x="143.993" y="70.581">Main Page</tspan></text>
+</g>
+<g id="Left_9">
+<text id="Link_6" fill="#FF7B00" xml:space="preserve" style="white-space: pre" font-family="Hind" font-size="18" letter-spacing="0.4px"><tspan x="36" y="70.581">Back</tspan></text>
+<g id="Arrow">
+<path id="Arrow_2" fill-rule="evenodd" clip-rule="evenodd" d="M25.5371 75.5928L16.2922 66.6788C15.9026 66.3036 15.9026 65.6974 16.2922 65.3212L25.5371 56.4072C26.0995 55.8643 27.0144 55.8643 27.5777 56.4072C28.14 56.95 28.14 57.8311 27.5777 58.374L19.6691 66.0005L27.5777 73.6251C28.14 74.1689 28.14 75.05 27.5777 75.5928C27.0144 76.1357 26.0995 76.1357 25.5371 75.5928" fill="#FF7B00"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Status Bar">
+<g id="Battery">
+<rect id="Border" opacity="0.35" x="336.833" y="17.8334" width="21" height="10.3333" rx="2.16667" stroke="#434040"/>
+<path id="Cap" opacity="0.4" d="M359.333 21V25C360.138 24.6612 360.662 23.8731 360.662 23C360.662 22.1269 360.138 21.3388 359.333 21" fill="#434040"/>
+<rect id="Capacity" x="338.333" y="19.3334" width="18" height="7.33333" rx="1.33333" fill="#434040"/>
+</g>
+<path id="Wifi" fill-rule="evenodd" clip-rule="evenodd" d="M323.667 19.6152C325.892 19.6153 328.031 20.4694 329.644 22.001C329.765 22.1192 329.959 22.1177 330.079 21.9976L331.239 20.8273C331.3 20.7664 331.334 20.6839 331.333 20.598C331.333 20.5122 331.298 20.4301 331.237 20.3699C327.005 16.3176 320.329 16.3176 316.097 20.3699C316.035 20.43 316.001 20.5121 316 20.598C315.999 20.6838 316.033 20.7663 316.094 20.8273L317.255 21.9976C317.374 22.1179 317.568 22.1194 317.69 22.001C319.302 20.4693 321.442 19.6152 323.667 19.6152V19.6152ZM323.667 23.4227C324.889 23.4227 326.068 23.8766 326.974 24.6964C327.097 24.8127 327.29 24.8102 327.409 24.6907L328.569 23.5204C328.63 23.459 328.663 23.3757 328.663 23.2892C328.662 23.2027 328.626 23.1201 328.564 23.0599C325.805 20.4955 321.532 20.4955 318.773 23.0599C318.71 23.1201 318.675 23.2027 318.674 23.2893C318.673 23.3758 318.707 23.4591 318.768 23.5204L319.927 24.6907C320.047 24.8102 320.24 24.8127 320.362 24.6964C321.268 23.8772 322.446 23.4233 323.667 23.4227V23.4227ZM325.895 26.2158C325.957 26.155 325.991 26.0714 325.989 25.9846C325.988 25.8978 325.95 25.8156 325.886 25.7574C324.605 24.6751 322.729 24.6751 321.449 25.7574C321.384 25.8156 321.347 25.8977 321.345 25.9845C321.343 26.0713 321.377 26.155 321.439 26.2158L323.445 28.2378C323.503 28.2972 323.583 28.3307 323.667 28.3307C323.751 28.3307 323.831 28.2972 323.89 28.2378L325.895 26.2158Z" fill="#434040"/>
+<path id="Cellular Connection" fill-rule="evenodd" clip-rule="evenodd" d="M295 24.3333H296C296.552 24.3333 297 24.781 297 25.3333V27.3333C297 27.8856 296.552 28.3333 296 28.3333H295C294.448 28.3333 294 27.8856 294 27.3333V25.3333C294 24.781 294.448 24.3333 295 24.3333V24.3333ZM299.667 22.3333H300.667C301.219 22.3333 301.667 22.781 301.667 23.3333V27.3333C301.667 27.8856 301.219 28.3333 300.667 28.3333H299.667C299.114 28.3333 298.667 27.8856 298.667 27.3333V23.3333C298.667 22.781 299.114 22.3333 299.667 22.3333ZM304.333 20H305.333C305.886 20 306.333 20.4477 306.333 21V27.3333C306.333 27.8856 305.886 28.3333 305.333 28.3333H304.333C303.781 28.3333 303.333 27.8856 303.333 27.3333V21C303.333 20.4477 303.781 20 304.333 20ZM309 17.6666H310C310.552 17.6666 311 18.1143 311 18.6666V27.3333C311 27.8856 310.552 28.3333 310 28.3333H309C308.448 28.3333 308 27.8856 308 27.3333V18.6666C308 18.1143 308.448 17.6666 309 17.6666V17.6666Z" fill="#434040"/>
+<g id="Time Style">
+<path id="9:41" fill-rule="evenodd" clip-rule="evenodd" d="M37.2842 28.5863C35.3506 28.5863 33.8784 27.4437 33.5635 25.7079H35.4458C35.6875 26.5062 36.3906 27.0043 37.2988 27.0043C38.8442 27.0043 39.7598 25.5614 39.7598 23.1444H39.6353C39.1372 24.1478 38.1338 24.7264 36.896 24.7264C34.8818 24.7264 33.417 23.2469 33.417 21.2108C33.417 19.0428 35.043 17.4974 37.3428 17.4974C38.8882 17.4974 40.1113 18.2299 40.8218 19.5848C41.3125 20.4564 41.5688 21.5844 41.5688 22.9247C41.5688 26.4843 39.9722 28.5863 37.2842 28.5863ZM37.3501 23.225C38.5586 23.225 39.4448 22.3607 39.4448 21.1815C39.4448 19.9877 38.5366 19.0721 37.3574 19.0721C36.1782 19.0721 35.27 19.973 35.27 21.1522C35.27 22.3607 36.1343 23.225 37.3501 23.225ZM43.4148 26.0521C43.4148 26.7113 43.8982 27.2094 44.5867 27.2094C45.2825 27.2094 45.7586 26.7113 45.7586 26.0521C45.7586 25.3856 45.2825 24.8949 44.5867 24.8949C43.8982 24.8949 43.4148 25.3856 43.4148 26.0521ZM44.5867 21.7162C43.8982 21.7162 43.4148 21.2255 43.4148 20.5663C43.4148 19.8998 43.8982 19.4091 44.5867 19.4091C45.2825 19.4091 45.7586 19.8998 45.7586 20.5663C45.7586 21.2255 45.2825 21.7162 44.5867 21.7162ZM52.7608 26.3597V28.33H54.5699V26.3597H55.9981V24.7631H54.5699V17.7611H51.9039C50.0362 20.5736 48.5494 22.9247 47.5973 24.6752V26.3597H52.7608ZM49.3478 24.6971V24.807H52.7901V19.2992H52.6876C51.6769 20.7933 50.5782 22.5292 49.3478 24.6971ZM60.0268 19.6654V28.33H61.9164V17.7611H60.0341L57.2729 19.6947V21.5111L59.9022 19.6654H60.0268Z" fill="#434040"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_i" x="330" y="515" width="330" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter1_i" x="330" y="447" width="330" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter2_i" x="0" y="515" width="330" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter3_i" x="0" y="447" width="330" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter4_i" x="330" y="325" width="330" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter5_i" x="0" y="325" width="330" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter6_i" x="0" y="729" width="375" height="83" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="filter7_i" x="0" y="0" width="375" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.909804 0 0 0 0 0.905882 0 0 0 0 0.905882 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<clipPath id="clip0">
+<rect width="375" height="812" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,238 @@
+<svg width="720" height="1280" viewBox="0 0 720 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="720" height="1280" fill="#F2F2F2"/>
+<g id="12">
+<g clip-path="url(#clip0)">
+<rect width="720" height="1280" fill="white"/>
+<rect id="bg" width="720" height="1306.53" fill="#232C3D"/>
+<g id="Group 3">
+<g clip-path="url(#clip1)">
+<g id="Group 2">
+<g clip-path="url(#clip2)">
+<g id="app bar bg" filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M720 0H0V160H720V0Z" fill="#2F3A4F"/>
+</g>
+<path id="Background" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V48H720V0H0Z" fill="black" fill-opacity="0.126727"/>
+<text id="12:09" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="29" letter-spacing="0px"><tspan x="633.42" y="34.9121">12:09</tspan></text>
+<g id="Wifi">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M526 10C519.625 10 513.675 12.175 509 15.8L526 39L543 15.8C538.325 12.175 532.375 10 526 10V10Z" fill="white"/>
+</g>
+<g id="Network">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="554" y="11" width="28" height="28">
+<path id="Clip 36" fill-rule="evenodd" clip-rule="evenodd" d="M582 39V11L554 39H582" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Fill 35" fill-rule="evenodd" clip-rule="evenodd" d="M582 11L575 18V39H582V11" fill="white" fill-opacity="0.3"/>
+<path id="Fill 37" fill-rule="evenodd" clip-rule="evenodd" d="M575 18L568 25V39H575V18" fill="white" fill-opacity="0.3"/>
+<path id="Fill 38" fill-rule="evenodd" clip-rule="evenodd" d="M568 25L561 32V39H568V25" fill="#F7F7F7"/>
+<path id="Fill 39" fill-rule="evenodd" clip-rule="evenodd" d="M561 32L554 39H561V32" fill="#F7F7F7"/>
+</g>
+</g>
+<g id="Battery">
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="601" y="9" width="19" height="30">
+<path id="Clip 42" fill-rule="evenodd" clip-rule="evenodd" d="M617.625 11.3077H615.25V9H605.75V11.3077H603.375C602.064 11.3077 601 12.3415 601 13.6154V36.6923C601 37.9662 602.064 39 603.375 39H617.625C618.936 39 620 37.9662 620 36.6923V13.6154C620 12.3415 618.936 11.3077 617.625 11.3077" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<path id="Fill 41" fill-rule="evenodd" clip-rule="evenodd" d="M620 32H601V36.6667C601 37.9547 602.064 39 603.375 39H617.625C618.936 39 620 37.9547 620 36.6667V32" fill="#F7F7F7"/>
+<path id="Fill 43" fill-rule="evenodd" clip-rule="evenodd" d="M601 25H620V32H601V25Z" fill="#F7F7F7"/>
+<path id="Fill 44" fill-rule="evenodd" clip-rule="evenodd" d="M601 18H620V25H601V18Z" fill="white" fill-opacity="0.3"/>
+<path id="Fill 45" fill-rule="evenodd" clip-rule="evenodd" d="M617.625 11H603.375C602.064 11 601 12.0453 601 13.3333V18H620V13.3333C620 12.0453 618.936 11 617.625 11" fill="white" fill-opacity="0.3"/>
+<path id="Fill 46" fill-rule="evenodd" clip-rule="evenodd" d="M606 9H615V11H606V9Z" fill="white" fill-opacity="0.3"/>
+</g>
+</g>
+<text id="Last Practice Sessio" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="36" letter-spacing="0px"><tspan x="111" y="114.305">Last Practice Sessions</tspan></text>
+<path id="Shape Copy" fill-rule="evenodd" clip-rule="evenodd" d="M71 101H46.6L57.8 89.8L55 87L39 103L55 119L57.8 116.2L46.6 105H71V101V101Z" fill="white"/>
+<path id="Shape Copy_2" fill-rule="evenodd" clip-rule="evenodd" d="M680 101.714H666.286V88H661.714V101.714H648V106.286H661.714V120H666.286V106.286H680V101.714V101.714Z" fill="#64FF6C"/>
+</g>
+</g>
+<g id="Group 2_2">
+<g id="Group">
+<g id="Group 5">
+<g clip-path="url(#clip3)">
+<g id="secondary bar" filter="url(#filter1_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M720 160H0V256H720V160Z" fill="#293346"/>
+</g>
+<rect id="Rectangle 424" x="30" y="256" width="125" height="3" fill="#64FF6C"/>
+<text id="Practice" fill="#64FF6C" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="222.254">Practice</tspan></text>
+<text id="Messages" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="296" y="222.254">Messages</tspan></text>
+<text id="Activity" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="586" y="222.254">Activity</tspan></text>
+</g>
+</g>
+</g>
+<path id="Background_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V48H720V0H0Z" fill="black" fill-opacity="0.126727"/>
+</g>
+<text id="Classes today" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" font-weight="500" letter-spacing="0px"><tspan x="39" y="327.07">Classes today</tspan></text>
+<g id="Group_2">
+<g clip-path="url(#clip4)">
+<rect id="Rectangle" y="358" width="720" height="290" fill="#2F3A4F"/>
+<path id="shape" fill-rule="evenodd" clip-rule="evenodd" d="M679 408C681.2 408 683 406.2 683 404C683 401.8 681.2 400 679 400C676.8 400 675 401.8 675 404C675 406.2 676.8 408 679 408V408ZM679 412C676.8 412 675 413.8 675 416C675 418.2 676.8 420 679 420C681.2 420 683 418.2 683 416C683 413.8 681.2 412 679 412V412ZM679 424C676.8 424 675 425.8 675 428C675 430.2 676.8 432 679 432C681.2 432 683 430.2 683 428C683 425.8 681.2 424 679 424V424Z" fill="#525F78"/>
+<path id="Line" opacity="0.2" d="M0 550.5H720" stroke="#ACB4C4" stroke-linecap="square"/>
+<text id="Mark Attendance" fill="#64FF6C" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="215.164" y="606.887">Mark Attendance</tspan></text>
+<text id="Practice session" fill="#EB3E55" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="489.193" y="606.887">Practice session</tspan></text>
+<text id="Hint text Copy 24" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" letter-spacing="0px"><tspan x="147" y="457.887">Mon, Tue, Wed | 2pm - 3pm</tspan></text>
+<text id="Hint text Copy 24_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0px"><tspan x="147" y="498.203">4 students</tspan></text>
+<path id="mask" fill-rule="evenodd" clip-rule="evenodd" d="M79 469C101.091 469 119 451.091 119 429C119 406.909 101.091 389 79 389C56.9086 389 39 406.909 39 429C39 451.091 56.9086 469 79 469Z" fill="url(#paint0_linear)"/>
+<text id="Hint text Copy 24_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="147" y="421.254">Guitar Batch 2 </tspan></text>
+</g>
+</g>
+<g id="menu">
+<g id="menu bg" filter="url(#filter2_dd)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M376 377C374.895 377 374 377.895 374 379V728C374 729.105 374.895 730 376 730H700C701.105 730 702 729.105 702 728V379C702 377.895 701.105 377 700 377H376Z" fill="#525F78"/>
+</g>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="374" y="377" width="328" height="353">
+<path id="menu bg_2" fill-rule="evenodd" clip-rule="evenodd" d="M376 377C374.895 377 374 377.895 374 379V728C374 729.105 374.895 730 376 730H700C701.105 730 702 729.105 702 728V379C702 377.895 701.105 377 700 377H376Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<g id="item">
+<path id="highlight" opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M368 490V570H702V490H368Z" fill="#3D4A63"/>
+<text id="Billy Barnes" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="414" y="703.254">Billy Barnes</tspan></text>
+<text id="Sue Murray" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="414" y="623.254">Sue Murray</tspan></text>
+<text id="Ronnie Brewer" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="414" y="543.254">Ronnie Brewer</tspan></text>
+</g>
+<g id="item_2">
+<text id="Marcus Frank" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="414" y="448.254">Marcus Frank</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="toast multiline">
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="779" width="720" height="164">
+<path id="mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 779V943H720V779H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3)">
+<g id="toast bg" filter="url(#filter3_dd)">
+<mask id="path-49-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 943C0 943 0.8 943 2.2 943C42.4 943 677.4 943 717.8 943C719.2 943 720 943 720 943C720 943 720 941.4 720 940.4C720 931 720 783 720 783V783C720 783 719.2 783 717.8 783C677.6 783 42.6 783 2.2 783C0.8 783 0 783 0 783V783C0 783 0 930.8 0 940.4C0 941.4 0 943 0 943V943Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 943C0 943 0.8 943 2.2 943C42.4 943 677.4 943 717.8 943C719.2 943 720 943 720 943C720 943 720 941.4 720 940.4C720 931 720 783 720 783V783C720 783 719.2 783 717.8 783C677.6 783 42.6 783 2.2 783C0.8 783 0 783 0 783V783C0 783 0 930.8 0 940.4C0 941.4 0 943 0 943V943Z" fill="#2F3A4F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 943C0 943 0.8 943 2.2 943C42.4 943 677.4 943 717.8 943C719.2 943 720 943 720 943C720 943 720 941.4 720 940.4C720 931 720 783 720 783V783C720 783 719.2 783 717.8 783C677.6 783 42.6 783 2.2 783C0.8 783 0 783 0 783V783C0 783 0 930.8 0 940.4C0 941.4 0 943 0 943V943Z" stroke="url(#paint1_linear)" stroke-width="2" mask="url(#path-49-inside-1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 943C0 943 0.8 943 2.2 943C42.4 943 677.4 943 717.8 943C719.2 943 720 943 720 943C720 943 720 941.4 720 940.4C720 931 720 783 720 783V783C720 783 719.2 783 717.8 783C677.6 783 42.6 783 2.2 783C0.8 783 0 783 0 783V783C0 783 0 930.8 0 940.4C0 941.4 0 943 0 943V943Z" stroke="url(#paint2_linear)" stroke-width="2" style="mix-blend-mode:soft-light" mask="url(#path-49-inside-1)"/>
+</g>
+<text id="This item already ha" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" letter-spacing="0px"><tspan x="50" y="845.887">This item already has the label &#x201c;travel&#x201d;. You can add a </tspan><tspan x="50" y="881.887">new label.</tspan></text>
+</g>
+</g>
+<g id="toast action">
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="962" width="720" height="116">
+<path id="mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M0 962V1078H720V962H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask4)">
+<g id="toast bg_2" filter="url(#filter4_dd)">
+<mask id="path-52-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.2 1078C42.4 1078 677.4 1078 717.8 1078C719.2 1078 720 1078 720 1078C720 1078 720 1076.4 720 1075C720 1063.6 720 966 720 966C720 966 719.2 966 717.8 966C677.6 966 42.6 966 2.2 966C0.8 966 0 966 0 966C0 966 0 1063.6 0 1075C0 1076.4 0 1078 0 1078C0 1078 0.8 1078 2.2 1078Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.2 1078C42.4 1078 677.4 1078 717.8 1078C719.2 1078 720 1078 720 1078C720 1078 720 1076.4 720 1075C720 1063.6 720 966 720 966C720 966 719.2 966 717.8 966C677.6 966 42.6 966 2.2 966C0.8 966 0 966 0 966C0 966 0 1063.6 0 1075C0 1076.4 0 1078 0 1078C0 1078 0.8 1078 2.2 1078Z" fill="#2F3A4F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.2 1078C42.4 1078 677.4 1078 717.8 1078C719.2 1078 720 1078 720 1078C720 1078 720 1076.4 720 1075C720 1063.6 720 966 720 966C720 966 719.2 966 717.8 966C677.6 966 42.6 966 2.2 966C0.8 966 0 966 0 966C0 966 0 1063.6 0 1075C0 1076.4 0 1078 0 1078C0 1078 0.8 1078 2.2 1078Z" stroke="url(#paint3_linear)" stroke-width="2" mask="url(#path-52-inside-2)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.2 1078C42.4 1078 677.4 1078 717.8 1078C719.2 1078 720 1078 720 1078C720 1078 720 1076.4 720 1075C720 1063.6 720 966 720 966C720 966 719.2 966 717.8 966C677.6 966 42.6 966 2.2 966C0.8 966 0 966 0 966C0 966 0 1063.6 0 1075C0 1076.4 0 1078 0 1078C0 1078 0.8 1078 2.2 1078Z" stroke="url(#paint4_linear)" stroke-width="2" style="mix-blend-mode:soft-light" mask="url(#path-52-inside-2)"/>
+</g>
+<text id="Action" fill="#64FF6C" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="604.488" y="1030.89">Action</tspan></text>
+<text id="Single-Line Snackbar" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="50" y="1032.25">Single-Line Snackbar</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="-8" y="-8" width="736" height="176" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="-8" y="152" width="736" height="112" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_dd" x="366" y="369" width="344" height="377" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="8"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_dd" x="-2" y="781" width="724" height="166" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<filter id="filter4_dd" x="-2" y="964" width="724" height="118" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="1.32701" y1="429.776" x2="79.7757" y2="508.224" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D4F123"/>
+<stop offset="1" stop-color="#37F8A2"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="0" y1="783" x2="0" y2="943" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.01"/>
+<stop offset="0.95" stop-opacity="0.02"/>
+<stop offset="0.986408" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="0" y1="783" x2="0" y2="943" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.2"/>
+<stop offset="0.0490476" stop-color="white" stop-opacity="0.1"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="0" y1="966" x2="0" y2="1078" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.01"/>
+<stop offset="0.95" stop-opacity="0.02"/>
+<stop offset="0.986408" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="0" y1="966" x2="0" y2="1078" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.2"/>
+<stop offset="0.0490476" stop-color="white" stop-opacity="0.1"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="720" height="1280" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="720" height="730" fill="white"/>
+</clipPath>
+<clipPath id="clip2">
+<rect width="720" height="160" fill="white"/>
+</clipPath>
+<clipPath id="clip3">
+<rect y="160" width="720" height="99" fill="white"/>
+</clipPath>
+<clipPath id="clip4">
+<rect y="358" width="720" height="290" fill="white"/>
+</clipPath>
+</defs>
+</svg>

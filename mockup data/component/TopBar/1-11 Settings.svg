@@ -1,0 +1,128 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="1-11 Settings">
+<rect width="750" height="1334" fill="#007AFF"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#00A0FF"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M0 43L750 793H0V43Z" fill="black"/>
+<rect id="Shape_2" y="478" width="750" height="856" fill="black"/>
+</g>
+</g>
+<g id="Form">
+<rect id="Bg_2" x="50" y="178" width="650" height="1156" fill="white"/>
+<rect id="Bg_3" x="50" y="936" width="650" height="398" fill="#00A0FF"/>
+<g id="Group">
+<g id="Switch">
+<g id="Bg_4" filter="url(#filter0_d)">
+<rect x="559" y="1216" width="80" height="40" rx="20" fill="black"/>
+</g>
+<rect id="On" x="604" y="1221" width="30" height="30" rx="15" fill="#FFBDB8" stroke="black" stroke-width="10"/>
+</g>
+<text id="Notification sound" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="1244.81">Notification sound</tspan></text>
+</g>
+<g id="Group_2">
+<g id="Switch_2">
+<g id="Bg_5" filter="url(#filter1_d)">
+<rect x="558" y="1116" width="80" height="40" rx="20" fill="black"/>
+</g>
+<rect id="On_2" x="563" y="1121" width="30" height="30" rx="15" fill="#00A0FF" stroke="black" stroke-width="10"/>
+</g>
+<text id="Email notification" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="1144.81">Email notification</tspan></text>
+</g>
+<g id="Group_3">
+<g id="Switch_3">
+<g id="Bg_6" filter="url(#filter2_d)">
+<rect x="559" y="1016" width="80" height="40" rx="20" fill="black"/>
+</g>
+<rect id="On_3" x="604" y="1021" width="30" height="30" rx="15" fill="#FFBDB8" stroke="black" stroke-width="10"/>
+</g>
+<text id="Push notifications" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="1044.81">Push notifications</tspan></text>
+</g>
+<g id="Password">
+<path id="Line" opacity="0.1" d="M130 854.198H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;">
+<path id=" 8" fill-rule="evenodd" clip-rule="evenodd" d="M275 821.135C277.761 821.135 280 818.892 280 816.126C280 813.359 277.761 811.116 275 811.116C272.239 811.116 270 813.359 270 816.126C270 818.892 272.239 821.135 275 821.135Z" fill="black"/>
+<path id=" 7" fill-rule="evenodd" clip-rule="evenodd" d="M255 821.135C257.761 821.135 260 818.892 260 816.126C260 813.359 257.761 811.116 255 811.116C252.239 811.116 250 813.359 250 816.126C250 818.892 252.239 821.135 255 821.135Z" fill="black"/>
+<path id="6" fill-rule="evenodd" clip-rule="evenodd" d="M235 821.135C237.761 821.135 240 818.892 240 816.126C240 813.359 237.761 811.116 235 811.116C232.239 811.116 230 813.359 230 816.126C230 818.892 232.239 821.135 235 821.135Z" fill="black"/>
+<path id="5" fill-rule="evenodd" clip-rule="evenodd" d="M215 821.135C217.761 821.135 220 818.892 220 816.126C220 813.359 217.761 811.116 215 811.116C212.239 811.116 210 813.359 210 816.126C210 818.892 212.239 821.135 215 821.135Z" fill="black"/>
+<path id="4" fill-rule="evenodd" clip-rule="evenodd" d="M195 821.135C197.761 821.135 200 818.892 200 816.126C200 813.359 197.761 811.116 195 811.116C192.239 811.116 190 813.359 190 816.126C190 818.892 192.239 821.135 195 821.135Z" fill="black"/>
+<path id="3" fill-rule="evenodd" clip-rule="evenodd" d="M175 821.135C177.761 821.135 180 818.892 180 816.126C180 813.359 177.761 811.116 175 811.116C172.239 811.116 170 813.359 170 816.126C170 818.892 172.239 821.135 175 821.135Z" fill="black"/>
+<path id="2" fill-rule="evenodd" clip-rule="evenodd" d="M155 821.135C157.761 821.135 160 818.892 160 816.126C160 813.359 157.761 811.116 155 811.116C152.239 811.116 150 813.359 150 816.126C150 818.892 152.239 821.135 155 821.135Z" fill="black"/>
+<path id="1" fill-rule="evenodd" clip-rule="evenodd" d="M135 821.135C137.761 821.135 140 818.892 140 816.126C140 813.359 137.761 811.116 135 811.116C132.239 811.116 130 813.359 130 816.126C130 818.892 132.239 821.135 135 821.135Z" fill="black"/>
+</g>
+<text id="PASSWORD" fill="#AD807D" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="768.15">PASSWORD</tspan></text>
+</g>
+<g id="Email">
+<path id="Line_2" opacity="0.1" d="M130 688.198H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<text id="andrea@app.com" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="654.896">andrea@app.com</tspan></text>
+<text id="EMAIL" fill="#AD807D" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="602.15">EMAIL</tspan></text>
+</g>
+<g id="Name">
+<path id="Line_3" opacity="0.1" d="M130 522.198H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<text id="NAME Copy" fill="#AD807D" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="436.15">NAME</tspan></text>
+<text id="Andrea Jameson" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="488.896">Andrea Jameson</tspan></text>
+</g>
+</g>
+<g id="UPDATE PHOTO">
+<path id="Line_4" d="M454.516 275H614.989" stroke="#00A0FF" stroke-width="2" stroke-linecap="square"/>
+<text id="UPDATE PHOTO_2" fill="#00A0FF" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="454" y="259.15">UPDATE PHOTO</tspan></text>
+</g>
+<g id="Avatar">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M50 178V338H210V178H50Z" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="50" y="178" width="160" height="160">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M50 178V338H210V178H50Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect id="Img" opacity="0.9" x="37.8916" y="167.622" width="178.162" height="179.892"/>
+</g>
+</g>
+<g id="Nav">
+<path id="Bg_7" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="Logout">
+<g id="Group_4">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M719 83.0055C719 92.9466 710.941 101.006 701 101.006C691.059 101.006 683 92.9466 683 83.0055C683 74.0865 689.487 66.6826 698 65.2544V68.4093V83.3439V86.7477H704V83.3439V68.4093V65.2544C712.513 66.6826 719 74.0865 719 83.0055Z" fill="white"/>
+</g>
+</g>
+<text id="Settings" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="309.791" y="92.555">Settings</tspan></text>
+<g id="Menu">
+<g id="Group_5">
+<rect id="Shape_3" x="30" y="88.3203" width="38" height="6" fill="white"/>
+<rect id="Shape_4" x="30" y="70.3203" width="28" height="6" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="529" y="1206" width="140" height="100" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="528" y="1106" width="140" height="100" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="529" y="1006" width="140" height="100" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

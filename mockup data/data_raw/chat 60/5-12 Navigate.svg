@@ -1,0 +1,85 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="5-12 Navigate">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#00A0FF"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect id="Shape" opacity="0.05" y="793" width="750" height="540" fill="black"/>
+<path id="Shape_2" opacity="0.05" fill-rule="evenodd" clip-rule="evenodd" d="M750 43L0 793H750V43Z" fill="black"/>
+</g>
+</g>
+<g id="Logout">
+<path id="Bg_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 1194V1334H750V1194H0Z" fill="black"/>
+<text id="Logout_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="333.004" y="1272.65">Logout</tspan></text>
+</g>
+<text id="Settings" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="210" y="1089.48">Settings</tspan></text>
+<g id="Settings_2">
+<g id="Group">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M115 1063L105 1080L115 1097H135L145 1080L135 1063H115ZM130 1080C130 1082.76 127.761 1085 125 1085C122.239 1085 120 1082.76 120 1080C120 1077.24 122.239 1075 125 1075C127.761 1075 130 1077.24 130 1080Z" fill="#F9EB59"/>
+</g>
+</g>
+<text id="Stats" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="210" y="949.475">Stats</tspan></text>
+<g id="Stats_2">
+<g id="Group_2">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M107 941C107 950.941 115.059 959 125 959C134.941 959 143 950.941 143 941C143 931.059 134.941 923 125 923V941.029L107 941Z" fill="#F9EB59"/>
+</g>
+</g>
+<text id="Capture" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="210" y="809.475">Capture</tspan></text>
+<g id="Capture_2">
+<g id="Group_3">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M118 783H132V787H145V817H105V787H118V783ZM131 802C131 805.314 128.314 808 125 808C121.686 808 119 805.314 119 802C119 798.686 121.686 796 125 796C128.314 796 131 798.686 131 802Z" fill="#F9EB59"/>
+</g>
+</g>
+<text id="Gallery" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="210" y="669.475">Gallery</tspan></text>
+<g id="Gallery_2">
+<g id="Shape_6">
+<rect id="Shape_7" x="128" y="663" width="12" height="12" fill="#F9EB59"/>
+<rect id="Shape_8" x="110" y="663" width="12" height="12" fill="#F9EB59"/>
+<rect id="Shape_9" x="128" y="645" width="12" height="12" fill="#F9EB59"/>
+<rect id="Shape_10" x="110" y="645" width="12" height="12" fill="#F9EB59"/>
+</g>
+</g>
+<text id="Compose" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="210" y="529.475">Compose</tspan></text>
+<g id="Compose_2">
+<g id="Group_4">
+<path id="Shape_11" fill-rule="evenodd" clip-rule="evenodd" d="M109.151 535.849L109.858 525.243L133.9 501.201L143.799 511.101L119.758 535.142L109.151 535.849Z" fill="#F9EB59"/>
+</g>
+</g>
+<text id="Profile" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="210" y="389.475">Profile</tspan></text>
+<g id="Profile_2">
+<g id="Group_5">
+<path id="Shape_12" fill-rule="evenodd" clip-rule="evenodd" d="M141 395C141 386.9 130.4 383 125 383C119.6 383 109 386.9 109 395H141Z" fill="#F9EB59"/>
+<path id="Shape_13" fill-rule="evenodd" clip-rule="evenodd" d="M125 379C128.85 379 132 375.85 132 372C132 368.15 128.85 365 125 365C121.15 365 118 368.15 118 372C118 375.85 121.15 379 125 379Z" fill="#F9EB59"/>
+</g>
+</g>
+<g id="Home">
+<rect id="Active" y="170" width="750" height="140" fill="#F9EB59"/>
+<text id="Home_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-weight="bold" letter-spacing="0px"><tspan x="210" y="249.475">Home</tspan></text>
+<g id="Home_3">
+<g id="Group_6">
+<rect id="Shape_14" x="109" y="223" width="6" height="34" fill="black"/>
+<path id="Shape_15" fill-rule="evenodd" clip-rule="evenodd" d="M114 223H141L132 234L141 245H114V223Z" fill="black"/>
+</g>
+</g>
+</g>
+<g id="Avatar">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M701 58C687.193 58 676 69.1929 676 83C676 96.8071 687.193 108 701 108C714.807 108 726 96.8071 726 83C726 69.1929 714.807 58 701 58Z" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="676" y="58" width="50" height="50">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M701 58C687.193 58 676 69.1929 676 83C676 96.8071 687.193 108 701 108C714.807 108 726 96.8071 726 83C726 69.1929 714.807 58 701 58Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect id="Img" x="730.688" y="115.125" width="56.5" height="60.75" transform="rotate(-180 730.688 115.125)"/>
+</g>
+</g>
+<g id="Close">
+<g id="Group_7">
+<rect id="Shape_16" x="61.4561" y="74.2426" width="30" height="6" transform="rotate(135 61.4561 74.2426)" fill="white"/>
+<rect id="Shape_17" x="40.2422" y="70" width="30" height="6" transform="rotate(45 40.2422 70)" fill="white"/>
+</g>
+</g>
+</g>
+</svg>

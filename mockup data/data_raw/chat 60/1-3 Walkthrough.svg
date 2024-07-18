@@ -1,0 +1,64 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="1-3 Walkthrough">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#00A0FF"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M0 43L750 793H0V43Z" fill="black"/>
+<rect id="Shape_2" opacity="0.1" y="793" width="750" height="540" fill="black"/>
+</g>
+</g>
+<g id="Phone">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M125 -199V691H625V-199H125Z" fill="white"/>
+<g id="Shape_4">
+<mask id="path-7-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M170 -339C125.817 -339 90 -303.183 90 -259V752C90 796.183 125.817 832 170 832H580C624.183 832 660 796.183 660 752V-259C660 -303.183 624.183 -339 580 -339H170Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M170 -339C125.817 -339 90 -303.183 90 -259V752C90 796.183 125.817 832 170 832H580C624.183 832 660 796.183 660 752V-259C660 -303.183 624.183 -339 580 -339H170Z" stroke="white" stroke-width="4" mask="url(#path-7-inside-1)"/>
+</g>
+<rect id="Oval" x="335" y="723" width="77" height="77" rx="38.5" fill="#FFBDB8"/>
+<rect id="Img" x="125" y="-10" width="500" height="701"/>
+</g>
+<g id="Next">
+<g id="Next_2">
+<path id="Line" d="M617 1241H667" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path id="Shape_5" d="M662 1233.93L669.071 1241L662 1248.07" stroke="white" stroke-width="2" stroke-linecap="square"/>
+</g>
+<text id="Next_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="519.461" y="1246.65">Next</tspan></text>
+</g>
+<g id="Title" filter="url(#filter0_d)">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="70" font-weight="bold" letter-spacing="-2px"><tspan x="80" y="1015.78">Minimal &#38; </tspan><tspan x="80" y="1095.77">Intuitive&#10;</tspan><tspan x="80" y="1175.77">Interfac</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="70" font-weight="bold" letter-spacing="0px"><tspan x="326.363" y="1175.77">e</tspan></text>
+</g>
+<g id="Nav">
+<path id="Bg_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<text id="Walkthrough" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="274.896" y="92.305">Walkthrough</tspan></text>
+<g id="Close">
+<g id="Group">
+<rect id="Shape_6" x="61.4558" y="74.2427" width="30" height="6" transform="rotate(135 61.4558 74.2427)" fill="white"/>
+<rect id="Shape_7" x="40.2427" y="70" width="30" height="6" transform="rotate(45 40.2427 70)" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="46.51" y="955.66" width="418.281" height="290.82" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

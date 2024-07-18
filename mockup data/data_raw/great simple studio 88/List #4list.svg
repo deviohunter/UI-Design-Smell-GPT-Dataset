@@ -1,0 +1,64 @@
+<svg width="360" height="168" viewBox="0 0 360 168" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="360" height="168" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-661" y="-932" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Lists">
+<g id="List #4">
+<path id="Bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H360V168H0V0Z" fill="white"/>
+<g id="Row">
+<text id="List item three" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="143.844">List item three</tspan></text>
+<g id="Bitmap">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="16" y="120" width="40" height="40">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M36 160C47.0457 160 56 151.046 56 140C56 128.954 47.0457 120 36 120C24.9543 120 16 128.954 16 140C16 151.046 24.9543 160 36 160Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M36 160C47.0457 160 56 151.046 56 140C56 128.954 47.0457 120 36 120C24.9543 120 16 128.954 16 140C16 151.046 24.9543 160 36 160Z" fill="#D1D3D4"/>
+<rect id="Bitmap_2" x="16" y="120" width="40" height="40" fill="url(#pattern0)"/>
+</g>
+</g>
+</g>
+<g id="Row_2">
+<text id="List item two" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="87.8438">List item two</tspan></text>
+<g id="Bitmap_3">
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="16" y="64" width="40" height="40">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M36 104C47.0457 104 56 95.0457 56 84C56 72.9543 47.0457 64 36 64C24.9543 64 16 72.9543 16 84C16 95.0457 24.9543 104 36 104Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M36 104C47.0457 104 56 95.0457 56 84C56 72.9543 47.0457 64 36 64C24.9543 64 16 72.9543 16 84C16 95.0457 24.9543 104 36 104Z" fill="#D1D3D4"/>
+<rect id="Bitmap_4" x="16" y="64" width="40" height="40" fill="url(#pattern1)"/>
+</g>
+</g>
+</g>
+<g id="Row_3">
+<text id="List item one" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="31.8438">List item one</tspan></text>
+<g id="Bitmap_5">
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="16" y="8" width="40" height="40">
+<path id="Mask_5" fill-rule="evenodd" clip-rule="evenodd" d="M36 48C47.0457 48 56 39.0457 56 28C56 16.9543 47.0457 8 36 8C24.9543 8 16 16.9543 16 28C16 39.0457 24.9543 48 36 48Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<path id="Mask_6" fill-rule="evenodd" clip-rule="evenodd" d="M36 48C47.0457 48 56 39.0457 56 28C56 16.9543 47.0457 8 36 8C24.9543 8 16 16.9543 16 28C16 39.0457 24.9543 48 36 48Z" fill="#D1D3D4"/>
+<rect id="Bitmap_6" x="16" y="8" width="40" height="40" fill="url(#pattern2)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.025)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.025)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.025)"/>
+</pattern>
+<clipPath id="clip0">
+<rect x="-661" y="-932" width="2660" height="3455" fill="white"/>
+</clipPath>
+<image id="image0" width="40" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAvhJREFUWAnVWT1vE0EQ3VknICRLNMhIbpPK8mFLpHLnX0CCgijTI6igJoEaOkRPiUBE/AJ3roJkc44raB1hESSkkxAkvmHf+fZ08fd97BLc3GVv37y3s18zExIpf0dH7sbaFb5DQt5m4rJgKhOJMswxi4EgHhDTgIX/6fwPfdzacr6moaIkoG63W2JafyjEaIeIqkmwzNwTonBIfPaqVqsNV8WuJLDVahVvlEqPfZ+fKMPFVY3P6edJSS++D4cvm82mN6dP1LxUYKfj3iXJrwXJmxEqjxf2v7FPD+p158Mic3LeRzUl5B4f78s1+T53cSBVA4ZtcIBrno6ZH9rt9rVi8fobtfjvzQPm2a420zvP+7nXaDR+Tdqd8iBGY1McBMERAecMT04J7PX7T215Lu4tcII73ob3C1OMDYF1sWhNTBrI8291dLF/7u/GN07kQRwl2K3/ShwGCm5ogBY98Eggzjkju1UzrfpUuzvQEvYPphg3hJAFXEWR8lXtGernCX+0gRsn8KBy7KNLJA5jLo6vVCHCKaZtQ57IYHa0AzAhKlm/Sl8yWDIGPfvNmxIhkzGGjIahTSKey2jHGBzapDrBgyDTGEsGw9AmEQlnsGEWqrRJHaabZUpnHdpwzHA6uBUUS5XgnFihSkECbRLZVwqsHYjSJpEa2mFLzgJtEnlrcqgdBLRJJNV26JKzQFsQbnU+u27SRDw5XTKECl579VuOE0YzhcNkcBu9x5oCgShHKMqlWb4NWSGHF2oax4NB5KrKERYFLKRCaUTXb8IpFgK1EqHKEQuRNj4qDYGWkOv/STshGPmouqCf2XDULA5wx3Ni9LngQTQgN3Xd/lvb1QXUZxynch/JO3ToX7QGdQM6oJADgG4z/QRXwDkhDrxTHtRi4MmgTsNiH++6Pc8nnIFprVYqzyc9p3mWEl/aAqYeARbtj9PTTXU2Hai2PA5zlIAPYHNyQ2jO+HOpB+Odx0V0VCFoW01JNf5t2btaJj1jRfRZ5Lb+DfEXYIRNnSj4RjMAAAAASUVORK5CYII="/>
+</defs>
+</svg>

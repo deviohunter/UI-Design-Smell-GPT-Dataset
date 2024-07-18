@@ -1,0 +1,102 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="3-11 Settings">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Bg_2" width="750" height="1334" fill="#7EEFCC"/>
+<rect id="Bg_3" y="298" width="750" height="1036" fill="black"/>
+</g>
+<g id="Add New">
+<rect id="Bg_4" x="70" y="1154" width="610" height="110" fill="#B8A6E4"/>
+<text id="Add New_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="321.54" y="1217.65">Add New</tspan></text>
+</g>
+<g id="Group">
+<path id="Line" opacity="0.2" d="M230 1096.2H680" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<g id="Switch">
+<rect id="Bg_5" x="590" y="1003" width="80" height="40" rx="20" fill="#7EEFCC"/>
+<rect id="On" x="635" y="1008" width="30" height="30" rx="15" fill="black" stroke="#7EEFCC" stroke-width="10"/>
+</g>
+<text id="PINTEREST" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="230" y="1030.15">PINTEREST</tspan></text>
+<g id="Pinterest">
+<g id="Group_2">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M95.6957 1002C84.6879 1002 79 1010.17 79 1017.3C79 1021.1 80.546 1024.77 83.1739 1027.04C84.4057 1026.36 84.893 1026.14 84.5652 1025.65C85.1604 1025.12 85.4198 1024.05 85.9565 1024.26C85.6947 1023.01 85.6329 1022.8 84.5652 1021.48C84.2381 1021.14 83.6271 1019.66 83.1739 1017.3C83.6271 1011.52 88.1164 1006.09 95.6957 1006.17C101.693 1006.09 105.196 1010.03 105.435 1014.52C105.196 1022.19 102.166 1028.03 98.4783 1027.04C95.1847 1028.03 93.3253 1025.95 94.3043 1022.87C94.6349 1020.37 96.0173 1017.09 95.6957 1014.52C96.0173 1012.94 94.9744 1011.3 92.913 1011.74C90.2761 1011.3 88.2364 1013.95 88.7391 1017.3C88.2364 1019.77 88.9936 1021.3 88.7391 1021.48C88.9936 1021.3 86.3951 1032.42 85.9565 1034C85.0322 1038.24 85.8032 1043 85.9565 1043.74C85.9065 1043.76 86.2687 1043.83 85.9565 1043.74C86.6668 1043.3 89.6911 1039.53 91.5217 1035.39C91.01 1034.7 92.3892 1029.18 91.5217 1028.43C93.2144 1030.77 95.6252 1032.17 98.4783 1032.61C105.822 1032.17 111 1025.14 111 1015.91C111 1008.62 105.035 1002 95.6957 1002Z" fill="#B8A6E4"/>
+</g>
+</g>
+</g>
+<g id="Group_3">
+<path id="Line_2" opacity="0.2" d="M230 936.198H680" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<g id="Switch_2">
+<rect id="Bg_6" x="590" y="843" width="80" height="40" rx="20" fill="#7EEFCC"/>
+<rect id="On_2" x="635" y="848" width="30" height="30" rx="15" fill="black" stroke="#7EEFCC" stroke-width="10"/>
+</g>
+<text id="LINKEDIN" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="230" y="870.15">LINKEDIN</tspan></text>
+<g id="LinkedIn">
+<g id="Group_4">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M85.1 880.1H77.7364V858.009H85.1V880.1ZM81.4182 853.836C78.9636 853.836 77 851.873 77 849.418C77 846.964 78.9636 845 81.4182 845C83.8727 845 85.8364 846.964 85.8364 849.418C85.8364 851.873 83.8727 853.836 81.4182 853.836ZM112.1 880.1H104.736V867.091C104.736 865.127 103.018 863.409 101.055 863.409C99.0909 863.409 97.3727 865.127 97.3727 867.091V880.1H90.0091V858.009H97.3727V860.955C98.6 858.991 101.3 857.518 103.509 857.518C108.173 857.518 112.1 861.445 112.1 866.109V880.1Z" fill="#B8A6E4"/>
+</g>
+</g>
+</g>
+<g id="Group_5">
+<path id="Line_3" opacity="0.2" d="M230 776.198H680" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<g id="Switch_3">
+<rect id="Bg_7" opacity="0.5" x="590" y="678" width="80" height="40" rx="20" fill="white"/>
+<g id="On_3">
+<rect x="590" y="678" width="40" height="40" rx="20" fill="black"/>
+<rect x="595" y="683" width="30" height="30" rx="15" stroke="white" stroke-opacity="0.5" stroke-width="10"/>
+</g>
+</g>
+<text id="FACEBOOK" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="230" y="710.15">FACEBOOK</tspan></text>
+<g id="Facebook">
+<g id="Group_6">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M110.873 685H78.9787C77.8858 685 77 685.886 77 686.979V718.873C77 719.966 77.8858 720.851 78.9787 720.851H96.1493V706.968H91.4772V701.557H96.1493V697.567C96.1493 692.936 98.9776 690.415 103.108 690.415C105.087 690.415 106.788 690.562 107.283 690.628V695.467L104.418 695.469C102.172 695.469 101.737 696.536 101.737 698.103V701.557H107.095L106.397 706.968H101.737V720.851H110.873C111.966 720.851 112.851 719.966 112.851 718.873V686.979C112.851 685.886 111.966 685 110.873 685Z" fill="#B8A6E4"/>
+</g>
+</g>
+</g>
+<g id="Group_7">
+<path id="Line_4" opacity="0.2" d="M230 616.198H680" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<g id="Switch_4">
+<rect id="Bg_8" opacity="0.5" x="590" y="518" width="80" height="40" rx="20" fill="white"/>
+<g id="On_4">
+<rect x="590" y="518" width="40" height="40" rx="20" fill="black"/>
+<rect x="595" y="523" width="30" height="30" rx="15" stroke="white" stroke-opacity="0.5" stroke-width="10"/>
+</g>
+</g>
+<text id="TWITTER" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="230" y="550.15">TWITTER</tspan></text>
+<g id="Twitter">
+<g id="Group_8">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M109.906 534.605C109.625 547.809 101.469 556.994 89.0938 557.569C84.0312 557.856 80.375 556.133 77 554.124C80.6562 554.698 85.4375 553.263 87.9688 550.967C84.3125 550.679 82.0625 548.67 80.9375 545.513C82.0625 545.8 83.1875 545.513 84.0312 545.513C80.6562 544.364 78.4062 542.355 78.125 537.762C78.9688 538.336 80.0938 538.624 81.2188 538.624C78.6875 537.188 77 531.734 78.9688 528.29C82.625 532.308 87.125 535.753 94.4375 536.327C92.4688 528.29 103.156 523.984 107.375 529.438C109.344 529.151 110.75 528.29 112.156 527.716C111.594 529.725 110.469 530.873 109.062 532.021C110.469 531.734 111.875 531.447 113 530.873C112.719 532.308 111.312 533.457 109.906 534.605Z" fill="#B8A6E4"/>
+</g>
+</g>
+</g>
+<g id="Group_9">
+<path id="Line_5" opacity="0.2" d="M230 456.198H680" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<g id="Switch_5">
+<rect id="Bg_9" x="590" y="363" width="80" height="40" rx="20" fill="#7EEFCC"/>
+<rect id="On_5" x="635" y="368" width="30" height="30" rx="15" fill="black" stroke="#7EEFCC" stroke-width="10"/>
+</g>
+<text id="INSTAGRAM" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="230" y="390.15">INSTAGRAM</tspan></text>
+<g id="Instagram">
+<g id="Group_10">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M109.4 365H80.6C78.62 365 77 366.62 77 368.6V397.4C77 399.38 78.62 401 80.6 401H109.4C111.38 401 113 399.38 113 397.4V368.6C113 366.62 111.38 365 109.4 365ZM95 375.8C98.96 375.8 102.2 379.04 102.2 383C102.2 386.96 98.96 390.2 95 390.2C91.04 390.2 87.8 386.96 87.8 383C87.8 379.04 91.04 375.8 95 375.8ZM81.5 397.4C80.96 397.4 80.6 397.04 80.6 396.5V381.2H84.38C84.2 381.74 84.2 382.46 84.2 383C84.2 388.94 89.06 393.8 95 393.8C100.94 393.8 105.8 388.94 105.8 383C105.8 382.46 105.8 381.74 105.62 381.2H109.4V396.5C109.4 397.04 109.04 397.4 108.5 397.4H81.5ZM109.4 373.1C109.4 373.64 109.04 374 108.5 374H104.9C104.36 374 104 373.64 104 373.1V369.5C104 368.96 104.36 368.6 104.9 368.6H108.5C109.04 368.6 109.4 368.96 109.4 369.5V373.1Z" fill="#B8A6E4"/>
+</g>
+</g>
+</g>
+<text id="Social" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="469" y="232.95">Social</tspan></text>
+<text id="General" opacity="0.2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="99" y="232.95">General</tspan></text>
+<g id="Nav">
+<path id="Bg_10" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="Logout">
+<g id="Group_11">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M719 83.0055C719 92.9466 710.941 101.006 701 101.006C691.059 101.006 683 92.9466 683 83.0055C683 74.0865 689.487 66.6826 698 65.2544V68.4093V83.3439V86.7477H704V83.3439V68.4093V65.2544C712.513 66.6826 719 74.0865 719 83.0055Z" fill="white"/>
+</g>
+</g>
+<text id="Settings" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="309.791" y="92.555">Settings</tspan></text>
+<g id="Menu">
+<g id="Group_12">
+<rect id="Shape_6" x="30" y="88.3203" width="38" height="6" fill="white"/>
+<rect id="Shape_7" x="30" y="70.3203" width="28" height="6" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

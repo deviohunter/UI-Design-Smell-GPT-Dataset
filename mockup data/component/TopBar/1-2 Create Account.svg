@@ -1,0 +1,91 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="1-2 Create Account">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" y="50" width="750" height="1334" fill="#00A0FF"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="50" width="750" height="1334">
+<rect id="Mask_2" y="50" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect id="Img" x="-7" y="-28" width="757" height="608"/>
+<rect id="Shape" y="550" width="750" height="833" fill="black"/>
+<path id="Shape_2" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M0 93L750 843H0V93Z" fill="black"/>
+</g>
+</g>
+<g id="Form">
+<rect id="Bg_2" x="50" y="400" width="650" height="934" fill="white"/>
+<g id="Next Step">
+<rect id="Bg_3" x="50" y="1164" width="650" height="170" fill="#00A0FF"/>
+<g id="Pagination">
+<path id="Oval" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M608 1220C612.418 1220 616 1216.42 616 1212C616 1207.58 612.418 1204 608 1204C603.582 1204 600 1207.58 600 1212C600 1216.42 603.582 1220 608 1220Z" fill="white"/>
+<path id="Oval_2" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M582 1220C586.418 1220 590 1216.42 590 1212C590 1207.58 586.418 1204 582 1204C577.582 1204 574 1207.58 574 1212C574 1216.42 577.582 1220 582 1220Z" fill="white"/>
+<path id="Oval_3" fill-rule="evenodd" clip-rule="evenodd" d="M556 1220C560.418 1220 564 1216.42 564 1212C564 1207.58 560.418 1204 556 1204C551.582 1204 548 1207.58 548 1212C548 1216.42 551.582 1220 556 1220Z" fill="#FFBDB8"/>
+</g>
+<g id="1 of 3" opacity="0.2">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="100" font-weight="bold" letter-spacing="-4px"><tspan x="120" y="1333.75">1 of </tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="100" font-weight="bold" letter-spacing="0px"><tspan x="279.59" y="1333.75">3</tspan></text>
+</g>
+<text id="Next Step_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="130" y="1217.15">Next Step</tspan></text>
+</g>
+<g id="Phone">
+<path id="Line" opacity="0.1" d="M130 1081.4H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<text id="123 &#226;&#128;&#147; 456 &#226;&#128;&#147; 7890" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="1048.1">123 &#x2013; 456 &#x2013; 7890</tspan></text>
+<text id="PHONE" fill="#AD807D" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="995.35">PHONE</tspan></text>
+</g>
+<g id="Password">
+<path id="Line_2" opacity="0.1" d="M130 916.198H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;">
+<path id=" 8" fill-rule="evenodd" clip-rule="evenodd" d="M275 883.135C277.761 883.135 280 880.892 280 878.126C280 875.359 277.761 873.116 275 873.116C272.239 873.116 270 875.359 270 878.126C270 880.892 272.239 883.135 275 883.135Z" fill="black"/>
+<path id=" 7" fill-rule="evenodd" clip-rule="evenodd" d="M255 883.135C257.761 883.135 260 880.892 260 878.126C260 875.359 257.761 873.116 255 873.116C252.239 873.116 250 875.359 250 878.126C250 880.892 252.239 883.135 255 883.135Z" fill="black"/>
+<path id="6" fill-rule="evenodd" clip-rule="evenodd" d="M235 883.135C237.761 883.135 240 880.892 240 878.126C240 875.359 237.761 873.116 235 873.116C232.239 873.116 230 875.359 230 878.126C230 880.892 232.239 883.135 235 883.135Z" fill="black"/>
+<path id="5" fill-rule="evenodd" clip-rule="evenodd" d="M215 883.135C217.761 883.135 220 880.892 220 878.126C220 875.359 217.761 873.116 215 873.116C212.239 873.116 210 875.359 210 878.126C210 880.892 212.239 883.135 215 883.135Z" fill="black"/>
+<path id="4" fill-rule="evenodd" clip-rule="evenodd" d="M195 883.135C197.761 883.135 200 880.892 200 878.126C200 875.359 197.761 873.116 195 873.116C192.239 873.116 190 875.359 190 878.126C190 880.892 192.239 883.135 195 883.135Z" fill="black"/>
+<path id="3" fill-rule="evenodd" clip-rule="evenodd" d="M175 883.135C177.761 883.135 180 880.892 180 878.126C180 875.359 177.761 873.116 175 873.116C172.239 873.116 170 875.359 170 878.126C170 880.892 172.239 883.135 175 883.135Z" fill="black"/>
+<path id="2" fill-rule="evenodd" clip-rule="evenodd" d="M155 883.135C157.761 883.135 160 880.892 160 878.126C160 875.359 157.761 873.116 155 873.116C152.239 873.116 150 875.359 150 878.126C150 880.892 152.239 883.135 155 883.135Z" fill="black"/>
+<path id="1" fill-rule="evenodd" clip-rule="evenodd" d="M135 883.135C137.761 883.135 140 880.892 140 878.126C140 875.359 137.761 873.116 135 873.116C132.239 873.116 130 875.359 130 878.126C130 880.892 132.239 883.135 135 883.135Z" fill="black"/>
+</g>
+<text id="PASSWORD" fill="#AD807D" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="830.15">PASSWORD</tspan></text>
+</g>
+<g id="Email">
+<path id="Line_3" opacity="0.1" d="M130 750.198H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<text id="andrea@app.com" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="716.896">andrea@app.com</tspan></text>
+<text id="EMAIL" fill="#AD807D" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="664.15">EMAIL</tspan></text>
+</g>
+<g id="Name">
+<path id="Line_4" opacity="0.1" d="M130 584.198H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<text id="Andrea Jameson" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="550.896">Andrea Jameson</tspan></text>
+<text id="NAME" fill="#AD807D" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="498.15">NAME</tspan></text>
+</g>
+</g>
+<g id="Nav">
+<path id="Bg_4" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<text id="New Account" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="275.243" y="92.305">New Account</tspan></text>
+<g id="Back">
+<g id="Group">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M54 93L40 83L54 73V93Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Month" filter="url(#filter0_d)">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="70" font-weight="bold" letter-spacing="-2px"><tspan x="50" y="282.275">Sign U</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="70" font-weight="bold" letter-spacing="0px"><tspan x="255.998" y="282.275">p</tspan></text>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="14.55" y="222.16" width="320.858" height="147.41" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

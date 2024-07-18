@@ -1,0 +1,30 @@
+<svg width="361" height="216" viewBox="0 0 361 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="361" height="216" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-661" y="-686" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Lists">
+<g id="List #3">
+<path id="Bg" fill-rule="evenodd" clip-rule="evenodd" d="M1 0H361V216H1V0Z" fill="white"/>
+<g id="Row">
+<text id="Secondary text" fill="black" fill-opacity="0.543846" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="16" y="195.988">Secondary text</tspan></text>
+<text id="List item three" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="16" y="174.844">List item three</tspan></text>
+</g>
+<g id="Row_2">
+<text id="Secondary text_2" fill="black" fill-opacity="0.543846" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="16" y="123.988">Secondary text</tspan></text>
+<text id="List item two" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="16" y="102.844">List item two</tspan></text>
+</g>
+<g id="Row_3">
+<text id="Secondary text_3" fill="black" fill-opacity="0.543846" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="16" y="51.9883">Secondary text</tspan></text>
+<text id="List item one" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="16" y="30.8438">List item one</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect x="-661" y="-686" width="2660" height="3455" fill="white"/>
+</clipPath>
+</defs>
+</svg>

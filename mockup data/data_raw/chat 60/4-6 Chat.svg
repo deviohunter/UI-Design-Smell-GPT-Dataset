@@ -1,0 +1,147 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="4-6 Chat">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#E1B5A2"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect id="Img" x="-27" width="803" height="1331"/>
+<path id="Overlay" fill-rule="evenodd" clip-rule="evenodd" d="M0 1134V1334H750V1134H0Z" fill="url(#paint0_linear)"/>
+<path id="Overlay_2" fill-rule="evenodd" clip-rule="evenodd" d="M750 1334L750 0H0L0 1334H750Z" fill="url(#paint1_linear)"/>
+</g>
+</g>
+<text id="Send" fill="#FCBAB5" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="643.231" y="1287.65">Send</tspan></text>
+<g id="Add">
+<g id="Group">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M574 1281C574 1283.76 576.239 1286 579 1286C581.761 1286 584 1283.76 584 1281C584 1278.24 581.761 1276 579 1276C576.239 1276 574 1278.24 574 1281Z" fill="white"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M592 1281C592 1283.76 594.239 1286 597 1286C599.761 1286 602 1283.76 602 1281C602 1278.24 599.761 1276 597 1276C594.239 1276 592 1278.24 592 1281Z" fill="white"/>
+</g>
+</g>
+<g id="Group_2">
+<g id="Message">
+<g id="Avatar" filter="url(#filter0_d)">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M60 928V1008H140V928H60Z" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="60" y="928" width="80" height="80">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M60 928V1008H140V928H60Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect id="Img_2" x="53" y="922" width="98" height="94"/>
+</g>
+</g>
+</g>
+<g id="Message_2">
+<g id="Bg_2" filter="url(#filter1_d)">
+<rect x="229" y="679" width="421" height="199" fill="white"/>
+</g>
+<text id="1 minute ago" fill="#B59390" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="279" y="823.15">1 minute ago</tspan></text>
+<text id="Message_3" fill="#050706" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" letter-spacing="0px"><tspan x="279" y="765.975">Thanks for invitation!</tspan></text>
+<g id="Avatar_2" filter="url(#filter2_d)">
+<path id="Mask_5" fill-rule="evenodd" clip-rule="evenodd" d="M610 639V719H690V639H610Z" fill="black"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="610" y="639" width="80" height="80">
+<path id="Mask_6" fill-rule="evenodd" clip-rule="evenodd" d="M610 639V719H690V639H610Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<rect id="Img_3" x="601" y="630" width="98" height="93"/>
+</g>
+</g>
+</g>
+<g id="Message_4">
+<g id="Bg_3" filter="url(#filter3_d)">
+<rect x="100.063" y="298" width="590.937" height="291" fill="white"/>
+</g>
+<text id="5 minutes ago" fill="#B59390" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="0px"><tspan x="190.207" y="534.15">5 minutes ago</tspan></text>
+<text id="Message_5" fill="#050706" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" letter-spacing="0px"><tspan x="190.207" y="380.975">Hi Todd, thank you for attending </tspan><tspan x="190.207" y="426.975">the conference it was nice </tspan><tspan x="190.207" y="472.975">seeing you again!</tspan></text>
+<g id="Avatar_3" filter="url(#filter4_d)">
+<path id="Mask_7" fill-rule="evenodd" clip-rule="evenodd" d="M60 258V338H140V258H60Z" fill="black"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="60" y="258" width="80" height="80">
+<path id="Mask_8" fill-rule="evenodd" clip-rule="evenodd" d="M60 258V338H140V258H60Z" fill="white"/>
+</mask>
+<g mask="url(#mask3)">
+<rect id="Img_4" x="44" y="257" width="96" height="83"/>
+</g>
+</g>
+</g>
+<g id="Time Copy">
+<text id="Today 8:30pm" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="513.974" y="219.645">Today 8:30pm</tspan></text>
+<g id="Time">
+<g id="Group_3">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M484 213C484 222.39 476.387 230 467 230C457.609 230 450 222.39 450 213C450 203.61 457.609 196 467 196C476.387 196 484 203.61 484 213ZM475 212V216H468H464V212V205H468V212H475Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Nav">
+<path id="Bg_4" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="More">
+<g id="Group_4">
+<path id="Oval_3" fill-rule="evenodd" clip-rule="evenodd" d="M701 97C703.761 97 706 94.7614 706 92C706 89.2386 703.761 87 701 87C698.239 87 696 89.2386 696 92C696 94.7614 698.239 97 701 97Z" fill="white"/>
+<path id="Oval_4" fill-rule="evenodd" clip-rule="evenodd" d="M701 79C703.761 79 706 76.7614 706 74C706 71.2386 703.761 69 701 69C698.239 69 696 71.2386 696 74C696 76.7614 698.239 79 701 79Z" fill="white"/>
+</g>
+</g>
+<text id="Rebecca, Victoria" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="242.87" y="92.305">Rebecca, Victoria</tspan></text>
+<g id="Back">
+<g id="Group_5">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M54 93L40 83L54 73V93Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="20" y="918" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="179" y="669" width="521" height="299" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="40"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="570" y="629" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" x="50.0635" y="288" width="690.937" height="391" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="40"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter4_d" x="20" y="248" width="160" height="160" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="787.062" y1="1334" x2="787.062" y2="1134" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="0" y2="1334" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFBDB8"/>
+<stop offset="1" stop-color="#FFBDB8" stop-opacity="0.01"/>
+</linearGradient>
+</defs>
+</svg>

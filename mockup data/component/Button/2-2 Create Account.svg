@@ -1,0 +1,104 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="2-2 Create Account">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#CEB9FE"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M750 414L-170 1334H750V414Z" fill="black"/>
+</g>
+</g>
+<g id="Form">
+<g id="Bg_2" filter="url(#filter0_d)">
+<rect x="50" y="253" width="650" height="934" fill="white"/>
+</g>
+<g id="Next Step">
+<rect id="Button" x="50" y="1067" width="650" height="120" fill="#FFEC57"/>
+<text id="Next Step_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="315.426" y="1134.65">Next Step</tspan></text>
+</g>
+<g id="Gender">
+<path id="Line" opacity="0.5" d="M130 904.198H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<text id="Female" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="332" y="870.81">Female</tspan></text>
+<g id="Oval">
+<mask id="path-10-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M302 873C307.523 873 312 868.523 312 863C312 857.477 307.523 853 302 853C296.477 853 292 857.477 292 863C292 868.523 296.477 873 302 873Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M302 873C307.523 873 312 868.523 312 863C312 857.477 307.523 853 302 853C296.477 853 292 857.477 292 863C292 868.523 296.477 873 302 873Z" stroke="black" stroke-width="8" mask="url(#path-10-inside-1)"/>
+</g>
+<text id="Male" opacity="0.3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="170" y="870.81">Male</tspan></text>
+<g id="Oval_2" opacity="0.2">
+<mask id="path-12-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M140 873C145.523 873 150 868.523 150 863C150 857.477 145.523 853 140 853C134.477 853 130 857.477 130 863C130 868.523 134.477 873 140 873Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M140 873C145.523 873 150 868.523 150 863C150 857.477 145.523 853 140 853C134.477 853 130 857.477 130 863C130 868.523 134.477 873 140 873Z" stroke="black" stroke-width="8" mask="url(#path-12-inside-2)"/>
+</g>
+<text id="GENDER" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="818.15">GENDER</tspan></text>
+</g>
+<g id="Birthday">
+<path id="Line_2" opacity="0.5" d="M130 737.698H620" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<text id="January" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="130" y="704.396">January</tspan></text>
+<text id="15," fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="252" y="704.396">15,</tspan></text>
+<text id="1984" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="302" y="704.396">1984</tspan></text>
+<text id="BIRTHDAY" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="130" y="651.65">BIRTHDAY</tspan></text>
+</g>
+<g id="Upload Photo">
+<path id="Line_3" d="M431.003 404H594.513" stroke="#AC9BD5" stroke-width="2" stroke-linecap="square"/>
+<text id="Upload Photo_2" fill="#AD9CD6" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="430.904" y="385.645">Upload Photo</tspan></text>
+</g>
+<g id="Avatar">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M130 353V553H330V353H130Z" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="130" y="353" width="200" height="200">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M130 353V553H330V353H130Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect id="Img" x="112.75" y="345" width="223.429" height="209.376"/>
+</g>
+</g>
+</g>
+<g id="Profile" filter="url(#filter1_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="140" font-weight="bold" letter-spacing="-7px"><tspan x="359.148" y="276.55">Profile</tspan></text>
+</g>
+<g id="Nav">
+<path id="Bg_3" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<text id="New Account" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="275.243" y="92.305">New Account</tspan></text>
+<g id="Back">
+<g id="Group">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M54 93L40 83L54 73V93Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Pagination">
+<path id="Oval_3" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M407 1274C411.418 1274 415 1270.42 415 1266C415 1261.58 411.418 1258 407 1258C402.582 1258 399 1261.58 399 1266C399 1270.42 402.582 1274 407 1274Z" fill="black"/>
+<path id="Oval_4" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M375 1274C379.418 1274 383 1270.42 383 1266C383 1261.58 379.418 1258 375 1258C370.582 1258 367 1261.58 367 1266C367 1270.42 370.582 1274 375 1274Z" fill="black"/>
+<path id="Oval_5" fill-rule="evenodd" clip-rule="evenodd" d="M343 1274C347.418 1274 351 1270.42 351 1266C351 1261.58 347.418 1258 343 1258C338.582 1258 335 1261.58 335 1266C335 1270.42 338.582 1274 343 1274Z" fill="black"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="-50" y="213" width="850" height="1134" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="60"/>
+<feGaussianBlur stdDeviation="50"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="311.748" y="177.32" width="491.493" height="221.64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="60"/>
+<feGaussianBlur stdDeviation="30"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,66 @@
+<svg width="260" height="812" viewBox="0 0 260 812" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="260" height="812" fill="#F2F2F2"/>
+<g id="Menu">
+<rect width="260" height="812" fill="white"/>
+<g id="Side menu">
+<rect id="Rectangle 7" width="260" height="812" fill="#151515"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="260" height="812">
+<rect id="Rectangle 7_2" width="260" height="812" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<g id="Section">
+<g id="Options">
+<g id="Group 5">
+<g clip-path="url(#clip0)">
+<text id="Security" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="34" y="456.6">Security</tspan></text>
+</g>
+</g>
+<g id="Group 5 Copy">
+<g clip-path="url(#clip1)">
+<text id="Cryptocurrencies" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="34" y="236.6">Cryptocurrencies</tspan></text>
+</g>
+</g>
+<g id="Group 5 Copy 2">
+<text id="Piggybank" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="34" y="284.6">Piggybank</tspan></text>
+<text id="Credit card" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="34" y="332.6">Credit card</tspan></text>
+</g>
+<g id="Group 5 Copy 3">
+<text id="Terms of use" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="33.6121" y="407">Terms of use</tspan></text>
+</g>
+<g id="Group 5 Copy 4">
+<g clip-path="url(#clip2)">
+<text id="Upgrade" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="34" y="188.6">Upgrade</tspan></text>
+</g>
+</g>
+<g id="Group 5 Copy 5">
+<text id="About" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="33" y="505.6">About</tspan></text>
+</g>
+<g id="Group 5 Copy 6">
+<g clip-path="url(#clip3)">
+<text id="Log out" fill="white" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="300" letter-spacing="0px"><tspan x="33.6121" y="673">Log out</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="navBars">
+<rect id="Rectangle" x="22.6967" y="70.4896" width="16" height="1" rx="0.5" transform="rotate(45 22.6967 70.4896)" fill="white"/>
+<rect id="Rectangle Copy" x="21.9896" y="81.8033" width="16" height="1" rx="0.5" transform="rotate(-45 21.9896 81.8033)" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect x="34" y="443" width="168" height="16" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect x="34" y="223" width="232" height="16" fill="white"/>
+</clipPath>
+<clipPath id="clip2">
+<rect x="34" y="175" width="192" height="16" fill="white"/>
+</clipPath>
+<clipPath id="clip3">
+<rect x="33" y="659" width="193" height="17" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,87 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="3-2 Create Account">
+<rect width="750" height="1334" fill="white"/>
+<rect id="Bg" width="750" height="1334" fill="#7EEFCC"/>
+<g id="Form">
+<g id="Bg_2">
+<rect id="Bg_3" y="298" width="750" height="1036" fill="black"/>
+</g>
+<g id="Next">
+<rect id="Bg_4" x="70" y="1108" width="610" height="110" fill="#B8A6E4"/>
+<text id="Next_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="346.461" y="1171.65">Next</tspan></text>
+</g>
+<g id="Group">
+<path id="Line" opacity="0.2" d="M230 1026.2H680" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<text id="123 &#226;&#128;&#147; 456 &#226;&#128;&#147; 7890" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="230" y="992.896">123 &#x2013; 456 &#x2013; 7890</tspan></text>
+<text id="PHONE" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="230" y="940.15">PHONE</tspan></text>
+</g>
+<g id="Phone">
+<g id="Group_2">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M83.8995 947.506L74 937.607L84.6066 927L94.5061 936.9L83.8995 947.506Z" fill="#B8A6E4"/>
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M96.1422 960.092C96.1422 960.092 90.5213 954.471 87.6569 951.607C85.8072 949.757 82.0001 945.95 82.0001 945.95L86.9498 941L101.092 955.142L96.1422 960.092Z" fill="#B8A6E4"/>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M104.9 968.506L95 958.607L105.607 948L115.506 957.9L104.9 968.506Z" fill="#B8A6E4"/>
+</g>
+</g>
+<g id="Group_3">
+<path id="Line_2" opacity="0.2" d="M230 860.198H680" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<g id="&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;">
+<path id=" 8" fill-rule="evenodd" clip-rule="evenodd" d="M375 827.135C377.761 827.135 380 824.892 380 822.126C380 819.359 377.761 817.116 375 817.116C372.239 817.116 370 819.359 370 822.126C370 824.892 372.239 827.135 375 827.135Z" fill="white"/>
+<path id=" 7" fill-rule="evenodd" clip-rule="evenodd" d="M355 827.135C357.761 827.135 360 824.892 360 822.126C360 819.359 357.761 817.116 355 817.116C352.239 817.116 350 819.359 350 822.126C350 824.892 352.239 827.135 355 827.135Z" fill="white"/>
+<path id="6" fill-rule="evenodd" clip-rule="evenodd" d="M335 827.135C337.761 827.135 340 824.892 340 822.126C340 819.359 337.761 817.116 335 817.116C332.239 817.116 330 819.359 330 822.126C330 824.892 332.239 827.135 335 827.135Z" fill="white"/>
+<path id="5" fill-rule="evenodd" clip-rule="evenodd" d="M315 827.135C317.761 827.135 320 824.892 320 822.126C320 819.359 317.761 817.116 315 817.116C312.239 817.116 310 819.359 310 822.126C310 824.892 312.239 827.135 315 827.135Z" fill="white"/>
+<path id="4" fill-rule="evenodd" clip-rule="evenodd" d="M295 827.135C297.761 827.135 300 824.892 300 822.126C300 819.359 297.761 817.116 295 817.116C292.239 817.116 290 819.359 290 822.126C290 824.892 292.239 827.135 295 827.135Z" fill="white"/>
+<path id="3" fill-rule="evenodd" clip-rule="evenodd" d="M275 827.135C277.761 827.135 280 824.892 280 822.126C280 819.359 277.761 817.116 275 817.116C272.239 817.116 270 819.359 270 822.126C270 824.892 272.239 827.135 275 827.135Z" fill="white"/>
+<path id="2" fill-rule="evenodd" clip-rule="evenodd" d="M255 827.135C257.761 827.135 260 824.892 260 822.126C260 819.359 257.761 817.116 255 817.116C252.239 817.116 250 819.359 250 822.126C250 824.892 252.239 827.135 255 827.135Z" fill="white"/>
+<path id="1" fill-rule="evenodd" clip-rule="evenodd" d="M235 827.135C237.761 827.135 240 824.892 240 822.126C240 819.359 237.761 817.116 235 817.116C232.239 817.116 230 819.359 230 822.126C230 824.892 232.239 827.135 235 827.135Z" fill="white"/>
+</g>
+<text id="PASSWORD" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="230" y="774.15">PASSWORD</tspan></text>
+</g>
+<g id="Password">
+<g id="Group_4">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M110 778H80V800H110V778ZM99 789C99 791.209 97.2091 793 95 793C92.7909 793 91 791.209 91 789C91 786.791 92.7909 785 95 785C97.2091 785 99 786.791 99 789Z" fill="#B8A6E4"/>
+<path id="Shape_5" d="M83 791V779C83 772.207 88.3832 767 95 767C101.617 767 107 772.207 107 779V791" stroke="#B8A6E4" stroke-width="6"/>
+</g>
+</g>
+<g id="Group_5">
+<path id="Line_3" opacity="0.2" d="M230 694.198H680" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<text id="olivia@app.com" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="230" y="660.896">olivia@app.com</tspan></text>
+<text id="EMAIL" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="230" y="608.15">EMAIL</tspan></text>
+</g>
+<g id="Email">
+<g id="Group_6">
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M111.342 597H78.4001L94.0318 610.026L111.342 597ZM78 603.684L92.2838 615.711L94.1578 617.21L96.0318 615.711L112 602.637V627H78V603.684Z" fill="#B8A6E4"/>
+</g>
+</g>
+<g id="Group_7">
+<path id="Line_4" opacity="0.2" d="M230 528.198H680" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<text id="Olivia Robinson" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="230" y="494.896">Olivia Robinson</tspan></text>
+<text id="NAME" fill="#B8A6E4" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="230" y="442.15">NAME</tspan></text>
+</g>
+<g id="Name">
+<g id="Group_8">
+<path id="Line_5" d="M111 458H79" stroke="#B8A6E4" stroke-width="6" stroke-linecap="square"/>
+<path id="LIne" d="M101 440H79" stroke="#B8A6E4" stroke-width="6" stroke-linecap="square"/>
+</g>
+</g>
+</g>
+<g id="Nav">
+<path id="Bg_5" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<text id="New Account" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="275.243" y="92.305">New Account</tspan></text>
+<g id="Back">
+<g id="Group_9">
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M54 93L40 83L54 73V93Z" fill="white"/>
+</g>
+</g>
+</g>
+<text id="1 of 3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="110" y="232.95">1 of 3</tspan></text>
+<g id="Avatar">
+<path id="Bg_6" fill-rule="evenodd" clip-rule="evenodd" d="M500 198V378H680V198H500Z" fill="white"/>
+<g id="Photo">
+<g id="Group_10">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M583 271H597V276H610V306H570V276H583V271ZM596 291C596 294.314 593.314 297 590 297C586.686 297 584 294.314 584 291C584 287.686 586.686 285 590 285C593.314 285 596 287.686 596 291Z" fill="#B8A6E4"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

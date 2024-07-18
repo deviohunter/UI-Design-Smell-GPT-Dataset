@@ -1,0 +1,106 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Alerts #4" clip-path="url(#clip0_0_2165)">
+<rect width="360" height="640" fill="#F5F5F5"/>
+<g id="Background">
+<rect id="Bitmap" width="360" height="640" fill="url(#pattern0)"/>
+<path id="Scrim" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H360V640H0V0Z" fill="black" fill-opacity="0.38"/>
+</g>
+<g id="Sheet">
+<g id="sheet bg" filter="url(#filter0_dd_0_2165)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 255V592H360V255H0Z" fill="#FAFAFA"/>
+<path d="M359.5 591.5H0.5V255.5H359.5V591.5Z" stroke="url(#paint0_linear_0_2165)"/>
+<path d="M359.5 591.5H0.5V255.5H359.5V591.5Z" stroke="url(#paint1_linear_0_2165)" style="mix-blend-mode:soft-light"/>
+</g>
+<g id="Row">
+<text id="Make a copy" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="437.844">Make a copy</tspan></text>
+<g id="icon-copy">
+<path id="Shape" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M32 423H20C18.895 423 18 423.895 18 425V439H20V425H32V423V423ZM35 427H24C22.895 427 22 427.896 22 429V443C22 444.104 22.895 445 24 445H35C36.104 445 37 444.104 37 443V429C37 427.896 36.104 427 35 427V427ZM24 429H35V443H24V429Z" fill="black"/>
+</g>
+</g>
+<g id="Row_2">
+<text id="Get link" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="389.844">Get link</tspan></text>
+<g id="ic_link_black_24px">
+<g id="Group">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M19.9 386C19.9 384.29 21.29 382.9 23 382.9H27V381H23C20.24 381 18 383.24 18 386C18 388.76 20.24 391 23 391H27V389.1H23C21.29 389.1 19.9 387.71 19.9 386ZM24 387H32V385H24V387ZM33 381H29V382.9H33C34.71 382.9 36.1 384.29 36.1 386C36.1 387.71 34.71 389.1 33 389.1H29V391H33C35.76 391 38 388.76 38 386C38 383.24 35.76 381 33 381Z" fill="black" fill-opacity="0.54"/>
+</g>
+</g>
+</g>
+<g id="Row_3">
+<text id="Share" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="341.844">Share</tspan></text>
+<g id="ic_person_add_black_24px">
+<g id="Group_2">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M31 338C33.21 338 35 336.21 35 334C35 331.79 33.21 330 31 330C28.79 330 27 331.79 27 334C27 336.21 28.79 338 31 338ZM22 336V333H20V336H17V338H20V341H22V338H25V336H22ZM31 340C28.33 340 23 341.34 23 344V346H39V344C39 341.34 33.67 340 31 340Z" fill="black" fill-opacity="0.54"/>
+</g>
+</g>
+</g>
+<g id="Row_4">
+<text id="Preview" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="293.844">Preview</tspan></text>
+<g id="ic_remove_red_eye_black_24px">
+<g id="Group_3">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M28 282.5C23 282.5 18.73 285.61 17 290C18.73 294.39 23 297.5 28 297.5C33 297.5 37.27 294.39 39 290C37.27 285.61 33 282.5 28 282.5ZM28 295C25.24 295 23 292.76 23 290C23 287.24 25.24 285 28 285C30.76 285 33 287.24 33 290C33 292.76 30.76 295 28 295ZM28 287C26.34 287 25 288.34 25 290C25 291.66 26.34 293 28 293C29.66 293 31 291.66 31 290C31 288.34 29.66 287 28 287Z" fill="black" fill-opacity="0.54"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Bars/Navbar 360dp black">
+<path id="navbar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 592V640H360V592H0Z" fill="black"/>
+<g id="Group 3">
+<path id="recent" d="M274 622V610C274 609.448 274.448 609 275 609H287C287.552 609 288 609.448 288 610V622C288 622.552 287.552 623 287 623H275C274.448 623 274 622.552 274 622Z" stroke="white" stroke-width="2"/>
+</g>
+<g id="Group 4">
+<path id="home" d="M187 616C187 619.866 183.866 623 180 623C176.134 623 173 619.866 173 616C173 612.134 176.134 609 180 609C183.866 609 187 612.134 187 616Z" stroke="white" stroke-width="2"/>
+</g>
+<g id="Group 2">
+<path id="back" fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="status bar contents">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="316.48" y="15.9883">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M306 5.875V5L303 5V5.875H300V19H309V5.875H306Z" fill="white"/>
+</g>
+<g id="cellular">
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M277 19H291V5L277 19Z" fill="white"/>
+</g>
+<g id="wifi">
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M256.977 8.01593L266 19L275.023 8.01593C272.512 6.12256 269.387 5 266 5C262.613 5 259.488 6.12256 256.977 8.01593Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_0_2165" transform="scale(0.00277778 0.0015625)"/>
+</pattern>
+<filter id="filter0_dd_0_2165" x="-16" y="239" width="392" height="385" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="16"/>
+<feGaussianBlur stdDeviation="8"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_2165"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="8"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_0_2165" result="effect2_dropShadow_0_2165"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_0_2165" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_2165" x1="2.44658" y1="255" x2="2.44658" y2="587.419" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.01"/>
+<stop offset="0.95" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_2165" x1="0" y1="255" x2="0" y2="592" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.8"/>
+<stop offset="0.0490476" stop-color="white" stop-opacity="0.4"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0_0_2165">
+<rect width="360" height="640" fill="white"/>
+</clipPath>
+</defs>
+</svg>

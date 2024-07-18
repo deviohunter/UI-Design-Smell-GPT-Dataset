@@ -1,0 +1,170 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="4-10 Stats">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<rect id="Bg" width="750" height="1334" fill="#FDBBB6"/>
+<g id="Following">
+<g id="Bg_2" filter="url(#filter0_d)">
+<rect x="375" y="854" width="315" height="420" fill="white"/>
+</g>
+<g id="Chart">
+<path id="Oval" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M533 1074C574.421 1074 608 1040.42 608 999C608 957.579 574.421 924 533 924C491.579 924 458 957.579 458 999C458 1040.42 491.579 1074 533 1074Z" stroke="#979797" stroke-width="10" stroke-linecap="square"/>
+<g id="Line" filter="url(#filter1_d)">
+<path d="M593.791 1042.93C602.73 1030.59 608 1015.41 608 999C608 957.579 574.421 924 533 924" stroke="#FFBDB8" stroke-width="10" stroke-linecap="square"/>
+</g>
+</g>
+<path id="Up" fill-rule="evenodd" clip-rule="evenodd" d="M660 884L648 900L636 884H660Z" fill="black"/>
+<text id="36" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="80" font-weight="bold" letter-spacing="-2px"><tspan x="484.32" y="1177.6">36</tspan></text>
+<text id="FOLLOWING" fill="#B59390" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="469.365" y="1225.15">FOLLOWING</tspan></text>
+<text id="%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="40" letter-spacing="0px"><tspan x="591.5" y="1150.8">%</tspan></text>
+</g>
+<g id="Followers">
+<g id="Bg_3" filter="url(#filter2_d)">
+<rect x="60" y="854" width="315" height="420" fill="white"/>
+</g>
+<path id="Up_2" fill-rule="evenodd" clip-rule="evenodd" d="M321 900L333 884L345 900H321Z" fill="black"/>
+<text id="64" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="80" font-weight="bold" letter-spacing="-2px"><tspan x="170.414" y="1177.6">64</tspan></text>
+<g id="Chart_2">
+<path id="Oval_2" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M218 1074C259.421 1074 293 1040.42 293 999C293 957.579 259.421 924 218 924C176.579 924 143 957.579 143 999C143 1040.42 176.579 1074 218 1074Z" stroke="#979797" stroke-width="10" stroke-linecap="square"/>
+<g id="Line_2" filter="url(#filter3_d)">
+<path d="M162 1049.07C175.731 1064.37 195.663 1074 217.844 1074C259.265 1074 292.844 1040.42 292.844 999C292.844 957.579 259.265 924 217.844 924" stroke="black" stroke-width="10" stroke-linecap="square"/>
+</g>
+</g>
+<text id="FOLLOWERS" fill="#B59390" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="152.666" y="1225.15">FOLLOWERS</tspan></text>
+<text id="%_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="40" letter-spacing="0px"><tspan x="276.5" y="1150.8">%</tspan></text>
+</g>
+<g id="Chart_3">
+<g id="Bg_4" filter="url(#filter4_d)">
+<rect x="60" y="418" width="630" height="436" fill="white"/>
+</g>
+<g id="Group">
+<text id="1" fill="#B89593" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="131.068" y="798.315">1</tspan></text>
+<text id="5" fill="#B89593" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="208.598" y="798.315">5</tspan></text>
+<text id="10" fill="#B89593" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="283.107" y="798.315">10</tspan></text>
+<text id="15" fill="#B89593" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="363.666" y="798.315">15</tspan></text>
+<text id="20" fill="#B89593" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="440.379" y="798.315">20</tspan></text>
+<text id="25" fill="#B89593" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="520.938" y="798.315">25</tspan></text>
+<text id="30" fill="#B89593" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="600.196" y="798.315">30</tspan></text>
+</g>
+<g id="Group_2">
+<rect id="Followers_2" x="605" y="538" width="10" height="210" fill="black"/>
+<rect id="Following_2" x="615" y="574.989" width="10" height="173.011" fill="#FFBDB8"/>
+</g>
+<g id="Group_3">
+<rect id="Followers_3" x="525" y="468" width="10" height="280" fill="black"/>
+<rect id="Following_3" x="535" y="548.813" width="10" height="199.187" fill="#FFBDB8"/>
+</g>
+<g id="Group_4">
+<rect id="Followers_4" x="445" y="498" width="10" height="250" fill="black"/>
+<rect id="Following_4" x="455" y="557.028" width="10" height="190.972" fill="#FFBDB8"/>
+</g>
+<g id="Group_5">
+<rect id="Followers_5" x="365" y="518" width="10" height="230" fill="black"/>
+<rect id="Following_5" x="375" y="577.847" width="10" height="170.153" fill="#FFBDB8"/>
+</g>
+<g id="Group_6">
+<rect id="Followers_6" x="285" y="548" width="10" height="200" fill="black"/>
+<rect id="Following_6" x="295" y="645.59" width="10" height="102.41" fill="#FFBDB8"/>
+</g>
+<g id="Group_7">
+<rect id="Followers_7" x="205" y="578" width="10" height="170" fill="black"/>
+<rect id="Following_7" x="215" y="666.75" width="10" height="81.25" fill="#FFBDB8"/>
+</g>
+<g id="Group_8">
+<rect id="Followers_8" x="125" y="488" width="10" height="260" fill="black"/>
+<rect id="Following_8" x="135" y="615.699" width="10" height="132.301" fill="#FFBDB8"/>
+</g>
+</g>
+<g id="Picker">
+<g id="Bg_5" filter="url(#filter5_d)">
+<rect y="128" width="750" height="230" fill="black"/>
+</g>
+<rect id="Active" x="639" y="310" width="44" height="2" fill="#FDBBB6"/>
+<text id="AUG" fill="#F2B3AE" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="638" y="298.315">AUG</tspan></text>
+<text id="JUL" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="499" y="298.315">JUL</tspan></text>
+<text id="JUN" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="357" y="298.315">JUN</tspan></text>
+<text id="MAR" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="208" y="298.315">MAR</tspan></text>
+<text id="APR" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="2px"><tspan x="66" y="298.315">APR</tspan></text>
+<text id="Year" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="570" y="217.95">Year</tspan></text>
+<text id="Month" fill="#EFB0AC" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="288" y="217.95">Month</tspan></text>
+<text id="Day" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="60" font-weight="bold" letter-spacing="-2px"><tspan x="60" y="217.95">Day</tspan></text>
+</g>
+<g id="Nav">
+<path id="Bg_6" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="More">
+<g id="Group_9">
+<path id="Oval_3" fill-rule="evenodd" clip-rule="evenodd" d="M701 97C703.761 97 706 94.7614 706 92C706 89.2386 703.761 87 701 87C698.239 87 696 89.2386 696 92C696 94.7614 698.239 97 701 97Z" fill="white"/>
+<path id="Oval_4" fill-rule="evenodd" clip-rule="evenodd" d="M701 79C703.761 79 706 76.7614 706 74C706 71.2386 703.761 69 701 69C698.239 69 696 71.2386 696 74C696 76.7614 698.239 79 701 79Z" fill="white"/>
+</g>
+</g>
+<text id="Statistics" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="299.714" y="92.305">Statistics</tspan></text>
+<g id="Menu">
+<g id="Group_10">
+<rect id="Shape" x="30" y="89" width="38" height="6" fill="white"/>
+<rect id="Shape_2" x="30" y="71" width="28" height="6" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="345" y="824" width="435" height="540" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="30" dy="30"/>
+<feGaussianBlur stdDeviation="30"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="488" y="899" width="165" height="210.917" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="30" y="824" width="435" height="540" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="30" dy="30"/>
+<feGaussianBlur stdDeviation="30"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" x="114.939" y="899" width="222.905" height="240" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter4_d" x="30" y="388" width="750" height="556" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="30" dy="30"/>
+<feGaussianBlur stdDeviation="30"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter5_d" x="-60" y="98" width="870" height="350" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="30"/>
+<feGaussianBlur stdDeviation="30"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

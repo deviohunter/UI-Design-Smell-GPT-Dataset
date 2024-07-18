@@ -1,0 +1,149 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="640" fill="#F2F2F2"/>
+<g id="Dialog: Date Picker">
+<rect width="360" height="640" fill="#FAFAFA"/>
+<g id="Background">
+<rect id="Bitmap" width="360" height="640"/>
+<path id="Scrim" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H360V640H0V0Z" fill="black" fill-opacity="0.38"/>
+</g>
+<g id="Calendar Dialogue">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="54" y="104" width="252" height="432">
+<path id="Base" fill-rule="evenodd" clip-rule="evenodd" d="M56 104C54.8954 104 54 104.895 54 106V534C54 535.105 54.8954 536 56 536H304C305.105 536 306 535.105 306 534V106C306 104.895 305.105 104 304 104H56Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<g id="Base_2" filter="url(#filter0_dd)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56 104C54.8954 104 54 104.895 54 106V534C54 535.105 54.8954 536 56 536H304C305.105 536 306 535.105 306 534V106C306 104.895 305.105 104 304 104H56Z" fill="white"/>
+</g>
+<g id="buttons">
+<g id="accept">
+<text id="OK" fill="#0076BF" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="260.251" y="515.988">OK</tspan></text>
+</g>
+<g id="accept_2">
+<text id="CANCEL" fill="#0076BF" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="172.977" y="515.988">CANCEL</tspan></text>
+</g>
+</g>
+<g id="Calendar">
+<g id="Dates">
+<g id="Row">
+<text id="30" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="266.262" y="435.133">30</tspan></text>
+<text id="29" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="235.262" y="435.133">29</tspan></text>
+<text id="28" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="204.262" y="435.133">28</tspan></text>
+<text id="27" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="173.262" y="435.133">27</tspan></text>
+<text id="26" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="142.262" y="435.133">26</tspan></text>
+<text id="25" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="111.262" y="435.133">25</tspan></text>
+<text id="24" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="80.2617" y="435.133">24</tspan></text>
+</g>
+<g id="Row_2">
+<text id="23" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="266.262" y="401.133">23</tspan></text>
+<text id="22" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="235.262" y="401.133">22</tspan></text>
+<text id="21" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="204.262" y="401.133">21</tspan></text>
+<text id="20" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="173.262" y="401.133">20</tspan></text>
+<text id="19" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="142.262" y="401.133">19</tspan></text>
+<text id="18" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="111.262" y="401.133">18</tspan></text>
+<text id="17" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="80.2617" y="401.133">17</tspan></text>
+</g>
+<g id="Row_3">
+<text id="16" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="266.262" y="367.133">16</tspan></text>
+<text id="15" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="235.262" y="367.133">15</tspan></text>
+<text id="14" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="204.262" y="367.133">14</tspan></text>
+<text id="13" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="173.262" y="367.133">13</tspan></text>
+<text id="12" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="142.262" y="367.133">12</tspan></text>
+<text id="11" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="111.262" y="367.133">11</tspan></text>
+<text id="10" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="80.2617" y="367.133">10</tspan></text>
+</g>
+<g id="Row_4">
+<text id="9" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="269.631" y="333.133">9</tspan></text>
+<text id="8" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="238.631" y="333.133">8</tspan></text>
+<text id="7" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="207.631" y="333.133">7</tspan></text>
+<text id="6" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="176.631" y="333.133">6</tspan></text>
+<text id="5" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="145.631" y="333.133">5</tspan></text>
+<text id="4" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="114.631" y="333.133">4</tspan></text>
+<text id="3" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="83.6309" y="333.133">3</tspan></text>
+</g>
+<g id="Row_5">
+<text id="2" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="269.631" y="299.133">2</tspan></text>
+<text id="1" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="238.631" y="299.133">1</tspan></text>
+</g>
+<g id="Weekdays" opacity="0.4">
+<text id="S" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="269.438" y="265.133">S</tspan></text>
+<text id="F" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="238.684" y="265.133">F</tspan></text>
+<text id="T" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="207.42" y="265.133">T</tspan></text>
+<text id="W" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="174.674" y="265.133">W</tspan></text>
+<text id="T_2" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="145.42" y="265.133">T</tspan></text>
+<text id="M" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="112.762" y="265.133">M</tspan></text>
+<text id="S_2" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="83.4375" y="265.133">S</tspan></text>
+</g>
+<g id="Current Day">
+<path id="current day circle" fill-rule="evenodd" clip-rule="evenodd" d="M118 416C127.941 416 136 407.941 136 398C136 388.059 127.941 380 118 380C108.059 380 100 388.059 100 398C100 407.941 108.059 416 118 416Z" fill="#019AE8"/>
+<text id="Current day" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="111.262" y="401.133">18</tspan></text>
+</g>
+</g>
+<text id="April 2016" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="147.857" y="225.988">April 2016</tspan></text>
+<g id="chevron left">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M90.4 217.4L89 216L83 222L89 228L90.4 226.6L85.8 222L90.4 217.4Z" fill="black"/>
+</g>
+<g id="chevron right">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M269.6 217.4L271 216L277 222L271 228L269.6 226.6L274.2 222L269.6 217.4Z" fill="black"/>
+</g>
+</g>
+<g id="Header">
+<path id="Header Color" fill-rule="evenodd" clip-rule="evenodd" d="M54 103H306V191H54V103Z" fill="#019AE8"/>
+<text id="Mon, Apr 18" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="31" font-weight="bold" letter-spacing="0em"><tspan x="74" y="167.76">Mon, Apr 18</tspan></text>
+<text id="2016" opacity="0.7" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="75" y="131.988">2016</tspan></text>
+</g>
+</g>
+</g>
+<g id="Bars/Navbar 360dp black">
+<path id="navbar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 592V640H360V592H0Z" fill="black"/>
+<g id="Group 3">
+<g id="recent">
+<mask id="path-54-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z" stroke="white" stroke-width="4" mask="url(#path-54-inside-1)"/>
+</g>
+</g>
+<g id="Group 4">
+<g id="home">
+<mask id="path-55-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z" stroke="white" stroke-width="4" mask="url(#path-55-inside-2)"/>
+</g>
+</g>
+<g id="Group 2">
+<path id="back" fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="status bar contents">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="316.453" y="15.9883">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M306 5.875V5L303 5V5.875H300V19H309V5.875H306Z" fill="white"/>
+</g>
+<g id="cellular">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M277 19H291V5L277 19Z" fill="white"/>
+</g>
+<g id="wifi">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M256.977 8.01611L266 19L275.023 8.01611C272.512 6.12256 269.387 5 266 5C262.613 5 259.488 6.12256 256.977 8.01611Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd" x="30" y="80" width="300" height="504" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="24"/>
+<feGaussianBlur stdDeviation="12"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="12"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

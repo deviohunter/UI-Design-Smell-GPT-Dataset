@@ -1,0 +1,193 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="640" fill="#F2F2F2"/>
+<g id="Call">
+<g clip-path="url(#clip0)">
+<rect width="360" height="640" fill="#FAFAFA"/>
+<g id="Keyboard">
+<g id="Group 3">
+<g id="Base" filter="url(#filter0_dd)">
+<mask id="path-2-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 216H360V640H0V216Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 216H360V640H0V216Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 216H360V640H0V216Z" stroke="url(#paint0_linear)" mask="url(#path-2-inside-1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 216H360V640H0V216Z" stroke="url(#paint1_linear)" mask="url(#path-2-inside-1)"/>
+</g>
+<g id="Button">
+<g id="Group 2">
+<g id="Oval" filter="url(#filter1_dd)">
+<mask id="path-3-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M181 576C194.807 576 206 564.807 206 551C206 537.193 194.807 526 181 526C167.193 526 156 537.193 156 551C156 564.807 167.193 576 181 576Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M181 576C194.807 576 206 564.807 206 551C206 537.193 194.807 526 181 526C167.193 526 156 537.193 156 551C156 564.807 167.193 576 181 576Z" fill="#00C853"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M181 576C194.807 576 206 564.807 206 551C206 537.193 194.807 526 181 526C167.193 526 156 537.193 156 551C156 564.807 167.193 576 181 576Z" stroke="url(#paint2_linear)" mask="url(#path-3-inside-2)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M181 576C194.807 576 206 564.807 206 551C206 537.193 194.807 526 181 526C167.193 526 156 537.193 156 551C156 564.807 167.193 576 181 576Z" stroke="url(#paint3_linear)" mask="url(#path-3-inside-2)"/>
+</g>
+<g id="ic_call_black_24px">
+<g id="Group">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M175.62 549.79C177.06 552.62 179.38 554.93 182.21 556.38L184.41 554.18C184.68 553.91 185.08 553.82 185.43 553.94C186.55 554.31 187.76 554.51 189 554.51C189.55 554.51 190 554.96 190 555.51V559C190 559.55 189.55 560 189 560C179.61 560 172 552.39 172 543C172 542.45 172.45 542 173 542H176.5C177.05 542 177.5 542.45 177.5 543C177.5 544.25 177.7 545.45 178.07 546.57C178.18 546.92 178.1 547.31 177.82 547.59L175.62 549.79Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Numbers">
+<text id="#" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="22" letter-spacing="0em"><tspan x="277" y="493.41">#</tspan></text>
+<text id="*" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" font-weight="300" letter-spacing="0em"><tspan x="68.5" y="499.832">*</tspan></text>
+<text id="+" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="176.5" y="511.102">+</tspan></text>
+<text id="0" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="171" y="495.688">0</tspan></text>
+<text id="WXYZ" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="268.5" y="456.102">WXYZ</tspan></text>
+<text id="9" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="276" y="439.688">9</tspan></text>
+<text id="TUV" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="168.5" y="456.102">TUV</tspan></text>
+<text id="8" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="171" y="439.688">8</tspan></text>
+<text id="PQRS" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="59.5" y="456.102">PQRS</tspan></text>
+<text id="7" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="66" y="439.688">7</tspan></text>
+<text id="MNO" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="271" y="400.102">MNO</tspan></text>
+<text id="6" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="276" y="382.688">6</tspan></text>
+<text id="JKL" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="169.5" y="400.102">JKL</tspan></text>
+<text id="5" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="171" y="382.688">5</tspan></text>
+<text id="GHI" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="65" y="400.102">GHI</tspan></text>
+<text id="4" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="66" y="382.688">4</tspan></text>
+<text id="DEF" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="274" y="344.102">DEF</tspan></text>
+<text id="3" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="276" y="327.688">3</tspan></text>
+<text id="ABC" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="168" y="344.102">ABC</tspan></text>
+<text id="2" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="171" y="327.688">2</tspan></text>
+<g id="ic_voicemail_black_24px">
+<g id="Group_2">
+<path id="Shape_2" opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M79.875 335.5C77.595 335.5 75.75 337.345 75.75 339.625C75.75 340.622 76.1025 341.537 76.695 342.25H73.305C73.8975 341.537 74.25 340.622 74.25 339.625C74.25 337.345 72.405 335.5 70.125 335.5C67.845 335.5 66 337.345 66 339.625C66 341.905 67.845 343.75 70.125 343.75H79.875C82.155 343.75 84 341.905 84 339.625C84 337.345 82.155 335.5 79.875 335.5ZM70.125 342.25C68.6775 342.25 67.5 341.073 67.5 339.625C67.5 338.178 68.6775 337 70.125 337C71.5725 337 72.75 338.178 72.75 339.625C72.75 341.073 71.5725 342.25 70.125 342.25ZM79.875 342.25C78.4275 342.25 77.25 341.073 77.25 339.625C77.25 338.178 78.4275 337 79.875 337C81.3225 337 82.5 338.178 82.5 339.625C82.5 341.073 81.3225 342.25 79.875 342.25Z" fill="black"/>
+</g>
+</g>
+<text id="1" fill="#37474F" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" font-weight="300" letter-spacing="0em"><tspan x="66" y="327.688">1</tspan></text>
+</g>
+</g>
+<g id="Dividers/Light">
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M-1 279H359V280H-1V279Z" fill="black" fill-opacity="0.12"/>
+</g>
+<text id="8 999 839-32-95" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="34" letter-spacing="0em"><tspan x="54" y="259.543">8 999 839-32-95</tspan></text>
+<g id="Icons / Navigation 24px / Grey / More">
+<g id="More">
+<path id="Shape_3" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M22 244C23.1 244 24 243.1 24 242C24 240.9 23.1 240 22 240C20.9 240 20 240.9 20 242C20 243.1 20.9 244 22 244ZM22 246C20.9 246 20 246.9 20 248C20 249.1 20.9 250 22 250C23.1 250 24 249.1 24 248C24 246.9 23.1 246 22 246ZM22 252C20.9 252 20 252.9 20 254C20 255.1 20.9 256 22 256C23.1 256 24 255.1 24 254C24 252.9 23.1 252 22 252Z" fill="black"/>
+</g>
+</g>
+<path id="delete" opacity="0.6" fill-rule="evenodd" clip-rule="evenodd" d="M342 239H327.1C326.4 239 325.8 239.3 325.4 239.9L320 248L325.4 256.1C325.8 256.6 326.4 257 327.1 257H342C343.1 257 344 256.1 344 255V241C344 239.9 343.1 239 342 239ZM339 251.6L337.6 253L334 249.4L330.4 253L329 251.6L332.6 248L329 244.4L330.4 243L334 246.6L337.6 243L339 244.4L335.4 248L339 251.6Z" fill="#37474F"/>
+</g>
+<g id="Row">
+<text id="Send SMS" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="163.469">Send SMS</tspan></text>
+<g id="ic_message_black_24px">
+<g id="Group_3">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M36 148H20C18.9 148 18.01 148.9 18.01 150L18 168L22 164H36C37.1 164 38 163.1 38 162V150C38 148.9 37.1 148 36 148ZM34 160H22V158H34V160ZM34 157H22V155H34V157ZM34 154H22V152H34V154Z" fill="#2A56C6"/>
+</g>
+</g>
+</g>
+<g id="Row_2">
+<text id="Add to a contact" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="111.469">Add to a contact</tspan></text>
+<g id="ic_person_black_24px">
+<g id="Group_4">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M28 106C30.21 106 32 104.21 32 102C32 99.79 30.21 98 28 98C25.79 98 24 99.79 24 102C24 104.21 25.79 106 28 106ZM28 108C25.33 108 20 109.34 20 112V114H36V112C36 109.34 30.67 108 28 108Z" fill="#2A56C6"/>
+</g>
+</g>
+</g>
+<g id="Row_3">
+<text id="Create new account" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="59.4688">Create new account</tspan></text>
+<g id="ic_person_add_black_24px">
+<g id="Group_5">
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M31 54C33.21 54 35 52.21 35 50C35 47.79 33.21 46 31 46C28.79 46 27 47.79 27 50C27 52.21 28.79 54 31 54ZM22 52V49H20V52H17V54H20V57H22V54H25V52H22ZM31 56C28.33 56 23 57.34 23 60V62H39V60C39 57.34 33.67 56 31 56Z" fill="#2A56C6"/>
+</g>
+</g>
+</g>
+<g id="Bars/Navbar 360dp black">
+<path id="navbar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 592V640H360V592H0Z" fill="black"/>
+<g id="Group 3_2">
+<g id="recent">
+<mask id="path-38-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z" stroke="white" stroke-width="4" mask="url(#path-38-inside-3)"/>
+</g>
+</g>
+<g id="Group 4">
+<g id="home">
+<mask id="path-39-inside-4" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z" stroke="white" stroke-width="4" mask="url(#path-39-inside-4)"/>
+</g>
+</g>
+<g id="Group 2_2">
+<path id="back" fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="Status bar">
+<path id="Status bar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V24H360V0H0Z" fill="#1C3AA9"/>
+<g id="Status bar contents">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="316.453" y="15.9883">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M306 5.875V5L303 5V5.875H300V19H309V5.875H306Z" fill="white"/>
+</g>
+<g id="cellular">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M277 19H291V5L277 19Z" fill="white"/>
+</g>
+<g id="wifi">
+<path id="Shape_9" fill-rule="evenodd" clip-rule="evenodd" d="M256.977 8.01593L266 19L275.023 8.01593C272.512 6.12256 269.387 5 266 5C262.613 5 259.488 6.12256 256.977 8.01593Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd" x="-2" y="214" width="364" height="430" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_dd" x="148" y="518" width="66" height="74" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="8"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="0" y1="216" x2="0" y2="640" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.8"/>
+<stop offset="0.05" stop-color="white" stop-opacity="0.4"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="0" y1="216" x2="0" y2="640" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.01"/>
+<stop offset="0.950255" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="156.245" y1="526" x2="156.245" y2="575.511" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="156" y1="526" x2="156" y2="576" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.12"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.06"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="360" height="640" fill="white"/>
+</clipPath>
+</defs>
+</svg>

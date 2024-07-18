@@ -1,0 +1,26 @@
+Entertainment:35,9.43
+Communication:34,9.16
+Shopping:31,8.36
+Education:29,7.82
+Music & Audio:25,6.74
+Travel & Local:25,6.74
+Books & Reference:24,6.47
+Social:24,6.47
+Lifestyle:22,5.93
+Health & Fitness:19,5.12
+Finance:18,4.85
+Sports:17,4.58
+News & Magazines:11,2.96
+Food & Drink:9,2.43
+Maps & Navigation:9,2.43
+Business:9,2.43
+Video Players & Editors:9,2.43
+Medical:8,2.16
+Dating:4,1.08
+Auto & Vehicles:2,0.54
+House & Home:2,0.54
+Events:1,0.27
+Parenting:1,0.27
+Comics:1,0.27
+Weather:1,0.27
+Art & Design:1,0.27

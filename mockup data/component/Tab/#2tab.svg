@@ -1,0 +1,26 @@
+<svg width="360" height="48" viewBox="0 0 360 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="48" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-201" y="-1408" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Tabs">
+<g id="#2">
+<path id="Bounds" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V48H360V0H0Z" fill="#673AB7"/>
+<text id="FOUR" fill="white" fill-opacity="0.7" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="296.384" y="27.9883">FOUR</tspan></text>
+<text id="THREE" fill="white" fill-opacity="0.7" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="202.237" y="27.9883">THREE</tspan></text>
+<g id="TWO">
+<text fill="white" fill-opacity="0.7" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="119.201" y="27.9883">TW</tspan></text>
+<text fill="white" fill-opacity="0.7" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="141.133" y="27.9883">O</tspan></text>
+</g>
+<text id="ONE" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="30.4893" y="27.9883">ONE</tspan></text>
+<path id="Indicator" fill-rule="evenodd" clip-rule="evenodd" d="M0 46V48H90V46H0Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect x="-201" y="-1408" width="2660" height="3455" fill="white"/>
+</clipPath>
+</defs>
+</svg>

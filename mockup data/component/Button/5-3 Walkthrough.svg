@@ -1,0 +1,51 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="5-3 Walkthrough">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#F9EB59"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.05" fill-rule="evenodd" clip-rule="evenodd" d="M0 43L750 793H0V43Z" fill="black"/>
+<rect id="Shape_2" opacity="0.05" y="793" width="750" height="540" fill="black"/>
+</g>
+</g>
+<g id="Phone">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M170 398C125.817 398 90 433.817 90 478V1489C90 1533.18 125.817 1569 170 1569H580C624.183 1569 660 1533.18 660 1489V478C660 433.817 624.183 398 580 398H170Z" fill="black"/>
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M125 538V1428H625V538H125Z" fill="white"/>
+<rect id="Img" x="125" y="538" width="500" height="889.333"/>
+<g id="Group" opacity="0.2">
+<rect id="Shape_5" x="326" y="466" width="120" height="12" rx="6" fill="white"/>
+<rect id="Shape_6" x="304" y="466" width="12" height="12" rx="6" fill="white"/>
+</g>
+</g>
+<g id="Navigation">
+<path id="Bg_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 1194V1334H750V1194H0Z" fill="#00A0FF"/>
+<g id="Next">
+<path id="Line" d="M597 1264H647" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path id="Shape_7" d="M642 1256.93L649.071 1264L642 1271.07" stroke="white" stroke-width="2" stroke-linecap="square"/>
+</g>
+<text id="Skip" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="347.032" y="1271.65">Skip</tspan></text>
+<g id="Back">
+<path id="Line_2" d="M103 1264H153" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path id="Shape_8" d="M108 1271.07L100.929 1264L108 1256.93" stroke="white" stroke-width="2" stroke-linecap="square"/>
+</g>
+</g>
+<text id="Paragraph" fill="#050706" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" font-style="italic" letter-spacing="0px"><tspan x="154.805" y="284.975">Categorize all of your conversations</tspan></text>
+<text id="Title" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="50" font-weight="bold" letter-spacing="-2px"><tspan x="250.746" y="223.625">Full control</tspan></text>
+<g id="Pagination">
+<path id="Oval" opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M411 92C414.314 92 417 89.3137 417 86C417 82.6863 414.314 80 411 80C407.686 80 405 82.6863 405 86C405 89.3137 407.686 92 411 92Z" fill="black"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M375 92C378.314 92 381 89.3137 381 86C381 82.6863 378.314 80 375 80C371.686 80 369 82.6863 369 86C369 89.3137 371.686 92 375 92Z" fill="black"/>
+<path id="Oval_3" opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M339 92C342.314 92 345 89.3137 345 86C345 82.6863 342.314 80 339 80C335.686 80 333 82.6863 333 86C333 89.3137 335.686 92 339 92Z" fill="black"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

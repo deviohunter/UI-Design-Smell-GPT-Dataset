@@ -1,0 +1,123 @@
+<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="375" height="812" fill="#F2F2F2"/>
+<g id="09.01 Notifications">
+<g clip-path="url(#clip0)">
+<rect width="375" height="812" fill="#D8D8D8"/>
+<rect id="bg" width="375" height="106" fill="url(#paint0_linear)"/>
+<g id="Rectangle" filter="url(#filter0_d)">
+<path d="M0 105C0 101.686 2.68629 99 6 99H369C372.314 99 375 101.686 375 105V812H0V105Z" fill="white"/>
+</g>
+<g id="Menu / Exchange">
+<g id="Group 4">
+<rect id="Rectangle Copy 3" opacity="0.3" x="30" y="750" width="315" height="1" fill="black"/>
+<g id="Group 3">
+<g id="Combined Shape" filter="url(#filter1_d)">
+<mask id="path-6-outside-1" maskUnits="userSpaceOnUse" x="-1" y="707" width="377" height="106" fill="black">
+<rect fill="white" x="-1" y="707" width="377" height="106"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M211.686 719C206 712.272 197.499 708 188 708C178.501 708 170 712.272 164.314 719H0V812H375V719H211.686Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M211.686 719C206 712.272 197.499 708 188 708C178.501 708 170 712.272 164.314 719H0V812H375V719H211.686Z" fill="white"/>
+<path d="M211.686 719L210.923 719.646L211.222 720H211.686V719ZM164.314 719V720H164.778L165.077 719.646L164.314 719ZM0 719V718H-1V719H0ZM0 812H-1V813H0V812ZM375 812V813H376V812H375ZM375 719H376V718H375V719ZM212.45 718.354C206.582 711.412 197.806 707 188 707V709C197.192 709 205.418 713.133 210.923 719.646L212.45 718.354ZM188 707C178.194 707 169.418 711.412 163.55 718.354L165.077 719.646C170.582 713.133 178.808 709 188 709V707ZM0 720H164.314V718H0V720ZM1 812V719H-1V812H1ZM375 811H0V813H375V811ZM374 719V812H376V719H374ZM211.686 720H375V718H211.686V720Z" fill="#A9A9A9" fill-opacity="0.3" mask="url(#path-6-outside-1)"/>
+</g>
+<g id="Home Indicator">
+<rect id="Rectangle 24" x="121" y="798" width="134" height="5" rx="2.5" fill="black"/>
+</g>
+<g id="Group">
+<text id="Portfolios" fill="#999999" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="26.3594" y="774.864">Portfolios</tspan></text>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M44 742C44 747.523 48.477 752 54 752C59.523 752 64 747.523 64 742C64 736.477 59.523 732 54 732C48.477 732 44 736.477 44 742ZM53 748V746H50V738H53V736H55V738H56C56.9469 738 57.8126 738.535 58.2361 739.382C58.6595 740.229 58.5682 741.242 58 742C58.5682 742.758 58.6595 743.771 58.2361 744.618C57.8126 745.465 56.9469 746 56 746H55V748H53ZM56 743C56.2761 743 56.5 743.224 56.5 743.5C56.5 743.776 56.2761 744 56 744H52V743H56ZM56 740H52V741H56C56.2761 741 56.5 740.776 56.5 740.5C56.5 740.224 56.2761 740 56 740Z" fill="#999999"/>
+</g>
+<g id="Group Copy 2">
+<text id="Home" fill="#999999" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="170.771" y="774.864">Home</tspan></text>
+</g>
+<g id="Group Copy">
+<text id="Wallet" fill="#999999" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="103.209" y="774.864">Wallet</tspan></text>
+</g>
+<g id="Group Copy 3">
+<text id="Notificat" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="230.301" y="774.864">Notificat</tspan></text>
+</g>
+<g id="Group Copy 4" opacity="0.4">
+<text id="More" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" letter-spacing="0px"><tspan x="306.957" y="774.864">More</tspan></text>
+</g>
+<g id="menu-2-line (2)">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M313 734H331V736H313V734ZM313 741H325V743H313V741ZM331 748H313V750H331V748Z" fill="#999999"/>
+</g>
+</g>
+<g id="wallet-3-fill">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M131 736H124C120.686 736 118 738.686 118 742C118 745.314 120.686 748 124 748H131V750C131 750.552 130.552 751 130 751H112C111.448 751 111 750.552 111 750V734C111 733.448 111.448 733 112 733H130C130.552 733 131 733.448 131 734V736ZM124 738H132V746H124C121.791 746 120 744.209 120 742C120 739.791 121.791 738 124 738ZM127 743H124V741H127V743Z" fill="#999999"/>
+</g>
+<g id="bit-coin-fill">
+<path id="Oval Copy" fill-rule="evenodd" clip-rule="evenodd" d="M188 759C199.046 759 208 750.046 208 739C208 727.954 199.046 719 188 719C176.954 719 168 727.954 168 739C168 750.046 176.954 759 188 759Z" fill="#999999"/>
+<g id="home-6-fill">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M196 748C196.552 748 197 747.552 197 747V736.49C197 736.181 196.858 735.89 196.614 735.7L188.614 729.478C188.253 729.197 187.747 729.197 187.386 729.478L179.386 735.7C179.142 735.89 179 736.181 179 736.49V747C179 747.552 179.448 748 180 748H196ZM183 744V742H193V744H183Z" fill="white"/>
+</g>
+</g>
+<g id="notification-3-fill (1)">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M265 747H263V740C263 735.582 259.418 732 255 732C250.582 732 247 735.582 247 740V747H245V749H265V747ZM258 753V751H252V753H258Z" fill="#0073F7"/>
+</g>
+</g>
+<rect id="Rectangle_2" x="267" y="762" width="12" height="15" fill="url(#paint1_linear)"/>
+</g>
+<rect id="Rectangle Copy 4" x="20" y="207" width="335" height="1" fill="#E2E2E2"/>
+<rect id="Rectangle Copy 5" x="20" y="316" width="335" height="1" fill="#E2E2E2"/>
+<text id="You can start tradin" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="63" y="134.318">You can start trading RCX</tspan></text>
+<text id="New Message" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="63" y="243.318">New Message</tspan></text>
+<text id="You can start tradin_2" fill="#7E7E7E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="62" y="159.091">You can start trading RCX on our platform.</tspan></text>
+<text id="Max Bill sent a new" fill="#7E7E7E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="62" y="268.091">Max Bill sent a new message about money </tspan><tspan x="62" y="290.091">management.</tspan></text>
+<g id="Status Bar">
+<g id="iPhone X/Status Bars/Status Bar (Black)">
+<g id="Battery">
+<rect id="Border" opacity="0.35" x="336.5" y="17.8333" width="21" height="10.3333" rx="2.16667" stroke="white"/>
+<path id="Cap" opacity="0.4" d="M359 21V25C359.805 24.6612 360.328 23.8731 360.328 23C360.328 22.1269 359.805 21.3388 359 21" fill="white"/>
+<rect id="Capacity" x="338" y="19.3333" width="18" height="7.33333" rx="1.33333" fill="white"/>
+</g>
+<path id="Wifi" fill-rule="evenodd" clip-rule="evenodd" d="M323.33 19.608C325.546 19.6081 327.678 20.4596 329.283 21.9863C329.404 22.1042 329.598 22.1027 329.717 21.983L330.873 20.8163C330.933 20.7556 330.967 20.6734 330.966 20.5878C330.966 20.5022 330.931 20.4204 330.87 20.3603C326.655 16.3208 320.005 16.3208 315.79 20.3603C315.729 20.4203 315.694 20.5021 315.694 20.5877C315.693 20.6733 315.727 20.7556 315.787 20.8163L316.943 21.983C317.062 22.1029 317.256 22.1044 317.377 21.9863C318.983 20.4595 321.114 19.608 323.33 19.608ZM323.33 23.4037C324.548 23.4036 325.722 23.8561 326.624 24.6733C326.747 24.7893 326.939 24.7868 327.058 24.6677L328.212 23.501C328.273 23.4398 328.307 23.3568 328.306 23.2705C328.305 23.1843 328.27 23.102 328.208 23.042C325.46 20.4856 321.204 20.4856 318.455 23.042C318.393 23.102 318.358 23.1843 318.357 23.2706C318.356 23.3569 318.39 23.4399 318.451 23.501L319.605 24.6677C319.724 24.7868 319.917 24.7893 320.039 24.6733C320.941 23.8567 322.114 23.4042 323.33 23.4037ZM325.643 25.9575C325.645 26.044 325.611 26.1274 325.549 26.188L323.552 28.2037C323.494 28.2629 323.414 28.2963 323.33 28.2963C323.247 28.2963 323.167 28.2629 323.109 28.2037L321.111 26.188C321.049 26.1274 321.015 26.0439 321.017 25.9574C321.019 25.8709 321.057 25.789 321.121 25.731C322.396 24.6521 324.265 24.6521 325.54 25.731C325.604 25.789 325.642 25.871 325.643 25.9575Z" fill="white"/>
+<path id="Cellular Connection" fill-rule="evenodd" clip-rule="evenodd" d="M309.667 17.6667H308.667C308.114 17.6667 307.667 18.1144 307.667 18.6667V27.3334C307.667 27.8856 308.114 28.3334 308.667 28.3334H309.667C310.219 28.3334 310.667 27.8856 310.667 27.3334V18.6667C310.667 18.1144 310.219 17.6667 309.667 17.6667ZM304 20H305C305.552 20 306 20.4477 306 21V27.3334C306 27.8856 305.552 28.3334 305 28.3334H304C303.448 28.3334 303 27.8856 303 27.3334V21C303 20.4477 303.448 20 304 20ZM300.333 22.3334H299.333C298.781 22.3334 298.333 22.7811 298.333 23.3334V27.3334C298.333 27.8856 298.781 28.3334 299.333 28.3334H300.333C300.886 28.3334 301.333 27.8856 301.333 27.3334V23.3334C301.333 22.7811 300.886 22.3334 300.333 22.3334ZM295.667 24.3334H294.667C294.114 24.3334 293.667 24.7811 293.667 25.3334V27.3334C293.667 27.8856 294.114 28.3334 294.667 28.3334H295.667C296.219 28.3334 296.667 27.8856 296.667 27.3334V25.3334C296.667 24.7811 296.219 24.3334 295.667 24.3334Z" fill="white"/>
+</g>
+</g>
+<text id="Notifications" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="139.008" y="69.8182">Notifications</tspan></text>
+<g id="Group_2">
+<path id="Oval" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M35 149C43.2843 149 50 142.284 50 134C50 125.716 43.2843 119 35 119C26.7157 119 20 125.716 20 134C20 142.284 26.7157 149 35 149Z" fill="#FD7028"/>
+<g id="arrow-up-fill">
+<path id="Path" d="M35.5833 134V138.667H34.4166V134H30.3333L34.9999 129.333L39.6666 134H35.5833Z" fill="#FD7028"/>
+</g>
+</g>
+<g id="Group Copy_2">
+<path id="Oval_2" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M35 258C43.2843 258 50 251.284 50 243C50 234.716 43.2843 228 35 228C26.7157 228 20 234.716 20 243C20 251.284 26.7157 258 35 258Z" fill="#FD7028"/>
+<g id="message-fill">
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M29.1667 249.125L31.7655 247.083H40.2501C40.5722 247.083 40.8334 246.822 40.8334 246.5V238.333C40.8334 238.011 40.5722 237.75 40.2501 237.75H29.7501C29.4279 237.75 29.1667 238.011 29.1667 238.333V249.125ZM32.6667 243V241.833H37.3334V243H32.6667Z" fill="#FD7028"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="-14" y="77" width="403" height="741" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="-8"/>
+<feGaussianBlur stdDeviation="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="-9" y="697" width="393" height="122" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="523.073" y1="50.0143" x2="471.853" y2="-131.19" gradientUnits="userSpaceOnUse">
+<stop stop-color="#02072F"/>
+<stop offset="1" stop-color="#091361"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="279" y1="762" x2="267" y2="762" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="375" height="812" fill="white"/>
+</clipPath>
+</defs>
+</svg>

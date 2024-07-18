@@ -1,0 +1,135 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="2-4 Profile">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#CEB9FE"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" d="M750 43L0 793H750V43Z" fill="black"/>
+<rect id="Shape_2" opacity="0.1" y="793" width="750" height="540" fill="black"/>
+</g>
+</g>
+<g id="Card">
+<g id="Bg_2" filter="url(#filter0_d)">
+<rect x="50" y="177" width="650" height="1107" fill="white"/>
+</g>
+<g id="Follow">
+<rect id="Bg_3" x="50" y="1164" width="650" height="120" fill="#FFEC57"/>
+<text id="Follow_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="376.335" y="1231.65">Follow</tspan></text>
+<g id="Add">
+<g id="Group">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M345 1239.98C345 1231.88 334.4 1227.98 329 1227.98C323.6 1227.98 313 1231.88 313 1239.98H345Z" fill="black"/>
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M329 1223.98C332.85 1223.98 336 1220.83 336 1216.98C336 1213.13 332.85 1209.98 329 1209.98C325.15 1209.98 322 1213.13 322 1216.98C322 1220.83 325.15 1223.98 329 1223.98Z" fill="black"/>
+<rect id="Shape_5" x="316" y="1223.84" width="20" height="6" transform="rotate(-180 316 1223.84)" fill="black"/>
+<rect id="Shape_6" x="303" y="1210.84" width="6" height="20" fill="black"/>
+</g>
+</g>
+</g>
+<g id="Image">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M500 914V1164H750V914H500Z" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="500" y="914" width="250" height="250">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M500 914V1164H750V914H500Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect id="Img" opacity="0.9" x="492" y="911" width="275" height="261"/>
+</g>
+</g>
+<g id="Image_2">
+<path id="Mask_5" fill-rule="evenodd" clip-rule="evenodd" d="M500 664V914H750V664H500Z" fill="black"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="500" y="664" width="250" height="250">
+<path id="Mask_6" fill-rule="evenodd" clip-rule="evenodd" d="M500 664V914H750V664H500Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<rect id="Img_2" opacity="0.9" x="488" y="659" width="279" height="265"/>
+</g>
+</g>
+<g id="Image_3">
+<path id="Mask_7" fill-rule="evenodd" clip-rule="evenodd" d="M0 664V1164H500V664H0Z" fill="black"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="664" width="500" height="500">
+<path id="Mask_8" fill-rule="evenodd" clip-rule="evenodd" d="M0 664V1164H500V664H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3)">
+<rect id="Img_3" opacity="0.9" x="-7.5" y="656" width="517" height="517"/>
+</g>
+</g>
+<g id="Stats">
+<rect id="Bg_4" x="50" y="484" width="650" height="180" fill="#F2F2F2"/>
+<g id="Following">
+<text id="56k" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="40" font-weight="bold" letter-spacing="0px"><tspan x="526" y="604.3">56k</tspan></text>
+<text id="FOLLOWING" fill="#B09FDB" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="526" y="552.15">FOLLOWING</tspan></text>
+</g>
+<g id="Followers">
+<text id="145k" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="40" font-weight="bold" letter-spacing="0px"><tspan x="307" y="604.3">145k</tspan></text>
+<text id="FOLLOWERS" fill="#B09FDB" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2.34667px"><tspan x="307" y="552.15">FOLLOWERS</tspan></text>
+</g>
+<g id="Likes">
+<text id="1,345" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="40" font-weight="bold" letter-spacing="0px"><tspan x="109" y="604.3">1,345</tspan></text>
+<text id="LIKES" fill="#B09FDB" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="109" y="552.15">LIKES</tspan></text>
+</g>
+</g>
+<g id="More">
+<g id="Shape_7">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M645.556 275C647.761 275 650 272.761 650 270.556C650 267.239 647.761 265 645.556 265C642.239 265 640 267.239 640 270.556C640 272.761 642.239 275 645.556 275Z" fill="black"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M645.556 257C647.761 257 650 254.761 650 252.556C650 249.239 647.761 247 645.556 247C642.239 247 640 249.239 640 252.556C640 254.761 642.239 257 645.556 257Z" fill="black"/>
+</g>
+</g>
+<text id="Place" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="310" y="425.81">New York</tspan></text>
+<text id="Role" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="310" y="382.81">Product Designer</tspan></text>
+<g id="Name" filter="url(#filter1_d)">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="50" font-weight="bold" letter-spacing="-1px"><tspan x="310" y="268.625">Sienna&#10;</tspan><tspan x="310" y="318.625">Cardoso</tspan></text>
+</g>
+<g id="Avatar">
+<path id="Mask_9" fill-rule="evenodd" clip-rule="evenodd" d="M110 237V377H250V237H110Z" fill="black"/>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="110" y="237" width="140" height="140">
+<path id="Mask_10" fill-rule="evenodd" clip-rule="evenodd" d="M110 237V377H250V237H110Z" fill="white"/>
+</mask>
+<g mask="url(#mask4)">
+<rect id="Img_4" x="97.925" y="231.4" width="156.4" height="146.564"/>
+</g>
+</g>
+</g>
+<g id="Nav">
+<path id="Bg_5" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V128H750V0H0Z" fill="black"/>
+<g id="Settings">
+<g id="Group_2">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M691 66L681 83L691 100H711L721 83L711 66H691ZM706 83C706 85.7614 703.761 88 701 88C698.239 88 696 85.7614 696 83C696 80.2386 698.239 78 701 78C703.761 78 706 80.2386 706 83Z" fill="white"/>
+</g>
+</g>
+<text id="Profile" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="34" letter-spacing="0px"><tspan x="325.911" y="92.305">Profile</tspan></text>
+<g id="Menu">
+<g id="Group_3">
+<rect id="Shape_9" x="30" y="89" width="38" height="6" fill="white"/>
+<rect id="Shape_10" x="30" y="71" width="28" height="6" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="-50" y="137" width="850" height="1307" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="60"/>
+<feGaussianBlur stdDeviation="50"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="272.35" y="233.4" width="264.69" height="166.3" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="40"/>
+<feGaussianBlur stdDeviation="20"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

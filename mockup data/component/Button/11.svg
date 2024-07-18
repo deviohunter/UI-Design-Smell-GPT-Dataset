@@ -1,0 +1,153 @@
+<svg width="720" height="1280" viewBox="0 0 720 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="720" height="1280" fill="#F2F2F2"/>
+<g id="11">
+<g clip-path="url(#clip0)">
+<rect width="720" height="1280" fill="white"/>
+<rect id="bg" width="720" height="1306.53" fill="#232C3D"/>
+<g id="Group 4">
+<g clip-path="url(#clip1)">
+<g id="Rectangle" filter="url(#filter0_d)">
+<rect y="1130" width="720" height="100" fill="#2F3A4F"/>
+</g>
+<text id="Grade this" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" letter-spacing="0px"><tspan x="561" y="1192.07">Grade this</tspan></text>
+<g id="Group 3">
+<path id="Path 31" fill-rule="evenodd" clip-rule="evenodd" d="M514 1166C512.895 1166 512 1166.9 512 1168V1196C512 1197.1 512.895 1198 514 1198H542C543.105 1198 544 1197.1 544 1196V1168C544 1166.9 543.105 1166 542 1166H514Z" fill="#525F78" stroke="#8790A1" stroke-width="2"/>
+</g>
+<g id="camera">
+<rect id="cont" opacity="0.01" x="38" y="1160" width="44" height="44" fill="#181818"/>
+<path id="Path 31_2" d="M47 1169L47 1170L48 1170V1169H47ZM43 1169L43 1170H43L43 1169ZM53 1169H52V1170H53V1169ZM48 1169C48 1168.45 48.4477 1168 49 1168V1166C47.3431 1166 46 1167.34 46 1169H48ZM47 1168L43 1168L43 1170L47 1170L47 1168ZM43 1168C41.3431 1168 40 1169.34 40 1171H42C42 1170.45 42.4477 1170 43 1170V1168ZM40 1171V1195H42V1171H40ZM40 1195C40 1196.66 41.3431 1198 43 1198V1196C42.4477 1196 42 1195.55 42 1195H40ZM43 1198H77V1196H43V1198ZM77 1198C78.6569 1198 80 1196.66 80 1195H78C78 1195.55 77.5523 1196 77 1196V1198ZM80 1195V1171H78V1195H80ZM80 1171C80 1169.34 78.6569 1168 77 1168V1170C77.5523 1170 78 1170.45 78 1171H80ZM77 1168H53V1170H77V1168ZM51 1168C51.5523 1168 52 1168.45 52 1169H54C54 1167.34 52.6569 1166 51 1166V1168ZM49 1168H51V1166H49V1168Z" fill="#64FF6C"/>
+<path id="Oval 14" fill-rule="evenodd" clip-rule="evenodd" d="M65 1191C69.4183 1191 73 1187.42 73 1183C73 1178.58 69.4183 1175 65 1175C60.5817 1175 57 1178.58 57 1183C57 1187.42 60.5817 1191 65 1191Z" stroke="#64FF6C" stroke-width="2"/>
+<path id="Oval 14 Copy" d="M65 1179C62.7909 1179 61 1180.79 61 1183" stroke="#64FF6C" stroke-width="2" stroke-linecap="round"/>
+<path id="Path 36 Copy" d="M47 1173H53" stroke="#64FF6C" stroke-width="2" stroke-linecap="round"/>
+<path id="Path 36" d="M47 1173H53" stroke="#64FF6C" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g id="mic">
+<rect id="cont_2" opacity="0.01" x="232" y="1159" width="44" height="44" fill="#181818"/>
+<path id="Oval 39" d="M246 1181V1169H244V1181H246ZM254 1159C248.477 1159 244 1163.48 244 1169H246C246 1164.58 249.582 1161 254 1161V1159ZM264 1169C264 1163.48 259.523 1159 254 1159V1161C258.418 1161 262 1164.58 262 1169H264ZM262 1169V1181H264V1169H262ZM254 1191C259.523 1191 264 1186.52 264 1181H262C262 1185.42 258.418 1189 254 1189V1191ZM244 1181C244 1186.52 248.477 1191 254 1191V1189C249.582 1189 246 1185.42 246 1181H244Z" fill="#64FF6C"/>
+<path id="Oval 41" d="M241 1181C241 1188.18 246.82 1194 254 1194V1194C261.18 1194 267 1188.18 267 1181" stroke="#64FF6C" stroke-width="2" stroke-linecap="round"/>
+<path id="Path 131" d="M254 1194V1202" stroke="#64FF6C" stroke-width="2"/>
+<path id="Path 132" d="M246 1202H262" stroke="#64FF6C" stroke-width="2" stroke-linecap="round"/>
+<path id="Path 149" d="M245 1169H249" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 149 Copy" d="M245 1173H249" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 149 Copy 2" d="M259 1169H263" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 149 Copy 3" d="M259 1173H263" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="blank">
+<rect id="cont_3" opacity="0.01" x="321" y="1160" width="44" height="44" fill="#181818"/>
+<path id="Rectangle 34 Copy" fill-rule="evenodd" clip-rule="evenodd" d="M347 1163L357 1173V1201H329L329 1163H347Z" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 76" d="M335 1173H341" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 76 Copy 2" d="M335 1179H351" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 76 Copy 3" d="M335 1185H351" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 76 Copy 4" d="M335 1191H351" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 133" d="M347 1164V1173H356" stroke="#64FF6C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="user_card">
+<path id="Path 31_3" fill-rule="evenodd" clip-rule="evenodd" d="M143 1169C141.895 1169 141 1169.9 141 1171V1195C141 1196.1 141.895 1197 143 1197H177C178.105 1197 179 1196.1 179 1195V1171C179 1169.9 178.105 1169 177 1169H143Z" stroke="#64FF6C" stroke-width="2"/>
+<path id="Path 221" d="M142.327 1195.26C141.919 1195.63 141.889 1196.26 142.26 1196.67C142.632 1197.08 143.264 1197.11 143.673 1196.74L142.327 1195.26ZM154 1186L154.385 1185.08C154.026 1184.93 153.614 1185 153.327 1185.26L154 1186ZM166 1191L165.615 1191.92C165.962 1192.07 166.36 1192.01 166.646 1191.76L166 1191ZM179.646 1180.76C180.068 1180.41 180.12 1179.78 179.763 1179.35C179.407 1178.93 178.776 1178.88 178.354 1179.24L179.646 1180.76ZM143.673 1196.74L154.673 1186.74L153.327 1185.26L142.327 1195.26L143.673 1196.74ZM153.615 1186.92L165.615 1191.92L166.385 1190.08L154.385 1185.08L153.615 1186.92ZM166.646 1191.76L179.646 1180.76L178.354 1179.24L165.354 1190.24L166.646 1191.76ZM150 1181C152.209 1181 154 1179.21 154 1177H152C152 1178.1 151.105 1179 150 1179V1181ZM154 1177C154 1174.79 152.209 1173 150 1173V1175C151.105 1175 152 1175.9 152 1177H154ZM150 1173C147.791 1173 146 1174.79 146 1177H148C148 1175.9 148.895 1175 150 1175V1173ZM146 1177C146 1179.21 147.791 1181 150 1181V1179C148.895 1179 148 1178.1 148 1177H146Z" fill="#64FF6C"/>
+</g>
+</g>
+</g>
+<g id="Group">
+<g id="Group 4_2">
+<rect id="Rectangle_2" y="48" width="720" height="102" fill="#2F3A4F"/>
+<text id="Hint text Copy 24" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="112.254">Nothing else matters solo</tspan></text>
+<text id="Hint text Copy 24_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0px"><tspan x="594.594" y="114.203">15 mins</tspan></text>
+</g>
+<g id="Group 4_3">
+<rect id="Rectangle_3" y="151" width="720" height="102" fill="#2F3A4F"/>
+<text id="Hint text Copy 24_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="215.254">Spider Finger excercise</tspan></text>
+<text id="Hint text Copy 24_4" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0px"><tspan x="594.594" y="217.203">15 mins</tspan></text>
+</g>
+<g id="Group 4_4">
+<rect id="Rectangle_4" y="254" width="720" height="204" fill="#2F3A4F"/>
+<text id="Hint text Copy 24_5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="318.254">Student assigned</tspan></text>
+<g id="Group 2">
+<path id="mask" fill-rule="evenodd" clip-rule="evenodd" d="M80 427C102.091 427 120 409.091 120 387C120 364.909 102.091 347 80 347C57.9086 347 40 364.909 40 387C40 409.091 57.9086 427 80 427Z" fill="#525F78"/>
+<g id="Group_2">
+<path id="Oval 2" fill-rule="evenodd" clip-rule="evenodd" d="M114 379C122.837 379 130 371.837 130 363C130 354.163 122.837 347 114 347C105.163 347 98 354.163 98 363C98 371.837 105.163 379 114 379Z" fill="#64FF6C" stroke="#2F3A4F" stroke-width="2"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M109.364 367.866L104.591 363.164L103 364.731L109.364 371L123 357.567L121.409 356L109.364 367.866Z" fill="white"/>
+</g>
+</g>
+<g id="Group 2_2">
+<path id="mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M180 427C202.091 427 220 409.091 220 387C220 364.909 202.091 347 180 347C157.909 347 140 364.909 140 387C140 409.091 157.909 427 180 427Z" fill="#525F78"/>
+<g id="Group_3">
+<path id="Oval 2_2" fill-rule="evenodd" clip-rule="evenodd" d="M214 379C222.837 379 230 371.837 230 363C230 354.163 222.837 347 214 347C205.163 347 198 354.163 198 363C198 371.837 205.163 379 214 379Z" fill="#64FF6C" stroke="#2F3A4F" stroke-width="2"/>
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M209.364 367.866L204.591 363.164L203 364.731L209.364 371L223 357.567L221.409 356L209.364 367.866Z" fill="white"/>
+</g>
+</g>
+<g id="Group 2_3">
+<path id="mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M280 427C302.091 427 320 409.091 320 387C320 364.909 302.091 347 280 347C257.909 347 240 364.909 240 387C240 409.091 257.909 427 280 427Z" fill="#525F78"/>
+<text id="Hint text Copy 24_6" fill="#64FF6C" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="500" letter-spacing="0px"><tspan x="558.598" y="400.887">+21 more</tspan></text>
+<g id="Group_4">
+<path id="Oval 2_3" fill-rule="evenodd" clip-rule="evenodd" d="M314 379C322.837 379 330 371.837 330 363C330 354.163 322.837 347 314 347C305.163 347 298 354.163 298 363C298 371.837 305.163 379 314 379Z" fill="#F71976" stroke="#2F3A4F" stroke-width="2"/>
+<path id="Shape Copy" fill-rule="evenodd" clip-rule="evenodd" d="M318.849 356.535L314 361.384L309.151 356.535L307.535 358.151L312.384 363L307.535 367.849L309.151 369.465L314 364.616L318.849 369.465L320.465 367.849L315.616 363L320.465 358.151L318.849 356.535V356.535Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Group 3_2">
+<g id="Group 4 Copy">
+<rect id="Rectangle_5" y="689" width="720" height="204" fill="#2F3A4F"/>
+<g id="chip">
+<path id="chip bg" opacity="0.6" fill-rule="evenodd" clip-rule="evenodd" d="M358 822C358 844 341.461 862 321.246 862H77.7536C57.5391 862 41 844 41 822V822C41 800 57.5391 782 77.7536 782H321.246C341.691 782 358 800 358 822V822V822Z" fill="#525F78" fill-opacity="0.455984"/>
+<g id="Avatar">
+<path id="mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M81 862C103.091 862 121 844.091 121 822C121 799.909 103.091 782 81 782C58.9086 782 41 799.909 41 822C41 844.091 58.9086 862 81 862Z" fill="#525F78"/>
+<g id="Group_5">
+<path id="Oval 2_4" fill-rule="evenodd" clip-rule="evenodd" d="M114 821C122.837 821 130 813.837 130 805C130 796.163 122.837 789 114 789C105.163 789 98 796.163 98 805C98 813.837 105.163 821 114 821Z" fill="#64FF6C" stroke="#2F3A4F" stroke-width="2"/>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M109.364 809.866L104.591 805.164L103 806.731L109.364 813L123 799.567L121.409 798L109.364 809.866Z" fill="white"/>
+</g>
+</g>
+<text id="Trevor Hansen" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" letter-spacing="0px"><tspan x="148" y="831.887">Trevor Hansen</tspan></text>
+</g>
+<g id="chip_2">
+<path id="chip bg_2" opacity="0.6" fill-rule="evenodd" clip-rule="evenodd" d="M695 822C695 844 678.461 862 658.246 862H414.754C394.539 862 378 844 378 822V822C378 800 394.539 782 414.754 782H658.246C678.691 782 695 800 695 822V822V822Z" fill="#525F78" fill-opacity="0.455984"/>
+<g id="Avatar_2">
+<path id="mask_5" fill-rule="evenodd" clip-rule="evenodd" d="M418 862C440.091 862 458 844.091 458 822C458 799.909 440.091 782 418 782C395.909 782 378 799.909 378 822C378 844.091 395.909 862 418 862Z" fill="#525F78"/>
+<g id="Group_6">
+<path id="Oval 2_5" fill-rule="evenodd" clip-rule="evenodd" d="M451 821C459.837 821 467 813.837 467 805C467 796.163 459.837 789 451 789C442.163 789 435 796.163 435 805C435 813.837 442.163 821 451 821Z" fill="#64FF6C" stroke="#2F3A4F" stroke-width="2"/>
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M446.364 809.866L441.591 805.164L440 806.731L446.364 813L460 799.567L458.409 798L446.364 809.866Z" fill="white"/>
+</g>
+</g>
+<text id="Cole Woods" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" letter-spacing="0px"><tspan x="485" y="831.887">Cole Woods</tspan></text>
+</g>
+<text id="Hint text Copy 24_7" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="753.254">Student assigned</tspan></text>
+</g>
+<g id="Group 4_5">
+<rect id="Rectangle_6" y="585" width="720" height="102" fill="#2F3A4F"/>
+<text id="Hint text Copy 24_8" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="649.254">Spider Finger excercise</tspan></text>
+<text id="Hint text Copy 24_9" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0px"><tspan x="594.594" y="651.203">15 mins</tspan></text>
+</g>
+<g id="Group 4_6">
+<rect id="Rectangle_7" y="481" width="720" height="102" fill="#2F3A4F"/>
+<text id="Hint text Copy 24_10" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="545.254">Spider Finger excercise</tspan></text>
+<text id="Hint text Copy 24_11" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0px"><tspan x="594.594" y="547.203">15 mins</tspan></text>
+</g>
+</g>
+</g>
+<g id="Group 4_7">
+<rect id="Rectangle_8" y="924" width="720" height="173" fill="#2F3A4F"/>
+<g id="Group_7">
+<path id="line" opacity="0.5" d="M40 1044H680" stroke="#ACB4C4"/>
+<text id="Hint text" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" letter-spacing="0px"><tspan x="38" y="1026.57">Select Program</tspan></text>
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M669.01 1025.57L660.41 1016.52C659.863 1015.94 659.863 1015.01 660.41 1014.43C660.957 1013.86 661.844 1013.86 662.391 1014.43L670 1022.44L677.609 1014.43C678.156 1013.86 679.043 1013.86 679.59 1014.43C680.137 1015.01 680.137 1015.94 679.59 1016.52L670.99 1025.57C670.717 1025.86 670.358 1026 670 1026C669.642 1026 669.283 1025.86 669.01 1025.57V1025.57Z" fill="#2F3A4F"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="-2" y="1128" width="724" height="104" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="720" height="1280" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect y="1130" width="720" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>

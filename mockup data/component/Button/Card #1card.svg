@@ -1,0 +1,72 @@
+<svg width="348" height="310" viewBox="0 0 348 310" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="348" height="310" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-1910" y="-2248" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Dialogs &#38; Cards">
+<g id="Card #1">
+<g id="Card bg" filter="url(#filter0_dd)">
+<mask id="path-2-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V304C2 305.105 2.89543 306 4 306H344C345.105 306 346 305.105 346 304V4C346 2.89543 345.105 2 344 2H4Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V304C2 305.105 2.89543 306 4 306H344C345.105 306 346 305.105 346 304V4C346 2.89543 345.105 2 344 2H4Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V304C2 305.105 2.89543 306 4 306H344C345.105 306 346 305.105 346 304V4C346 2.89543 345.105 2 344 2H4Z" stroke="url(#paint0_linear)" mask="url(#path-2-inside-1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V304C2 305.105 2.89543 306 4 306H344C345.105 306 346 305.105 346 304V4C346 2.89543 345.105 2 344 2H4Z" stroke="url(#paint1_linear)" mask="url(#path-2-inside-1)"/>
+</g>
+<g id="Button">
+<text id="ACTION" fill="#FF5722" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="93.4121" y="285.988">ACTION</tspan></text>
+</g>
+<g id="Button_2">
+<text id="ACTION_2" fill="#FF5722" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="18.4121" y="285.988">ACTION</tspan></text>
+</g>
+<text id="Caption example" fill="black" fill-opacity="0.543846" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="18" y="233.988">Caption example</tspan></text>
+<text id="Headline Example" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0em"><tspan x="18" y="210.266">Headline Example</tspan></text>
+<g id="Image">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="344" height="164">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V166H346V4C346 2.89543 345.105 2 344 2H4Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V166H346V4C346 2.89543 345.105 2 344 2H4Z" fill="#D1D3D4"/>
+<rect id="Bitmap" x="2" y="2" width="344" height="164" fill="url(#pattern0)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd" x="0" y="0" width="348" height="310" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.00290698 0.00609756)"/>
+</pattern>
+<linearGradient id="paint0_linear" x1="2" y1="2" x2="2" y2="306" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.8"/>
+<stop offset="0.05" stop-color="white" stop-opacity="0.4"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="2" y1="2" x2="2" y2="306" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.01"/>
+<stop offset="0.950255" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect x="-1910" y="-2248" width="2660" height="3455" fill="white"/>
+</clipPath>
+<image id="image0" width="344" height="164" xlink:href="data:image/png;base64,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"/>
+</defs>
+</svg>

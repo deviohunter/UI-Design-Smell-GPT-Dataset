@@ -1,0 +1,75 @@
+<svg width="348" height="190" viewBox="0 0 348 190" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="348" height="190" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-1910" y="-2602" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Dialogs &#38; Cards">
+<g id="Card #10">
+<g id="Card bg" filter="url(#filter0_dd)">
+<mask id="path-2-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V184C2 185.105 2.89543 186 4 186H344C345.105 186 346 185.105 346 184V4C346 2.89543 345.105 2 344 2H4Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V184C2 185.105 2.89543 186 4 186H344C345.105 186 346 185.105 346 184V4C346 2.89543 345.105 2 344 2H4Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V184C2 185.105 2.89543 186 4 186H344C345.105 186 346 185.105 346 184V4C346 2.89543 345.105 2 344 2H4Z" stroke="url(#paint0_linear)" mask="url(#path-2-inside-1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 2C2.89543 2 2 2.89543 2 4V184C2 185.105 2.89543 186 4 186H344C345.105 186 346 185.105 346 184V4C346 2.89543 345.105 2 344 2H4Z" stroke="url(#paint1_linear)" mask="url(#path-2-inside-1)"/>
+</g>
+<g id="Bitmap">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="258" y="58" width="72" height="72">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M258 58H330V130H258V58Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M258 58H330V130H258V58Z" fill="#D1D3D4"/>
+<rect id="Bitmap_2" x="258" y="58" width="72" height="72" fill="url(#pattern0)"/>
+</g>
+</g>
+<text id="Lorem ipsum dolor si" fill="black" fill-opacity="0.543846" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="18" y="117.785">Lorem ipsum dolor sit amet, </tspan><tspan x="18" y="137.785">consectetur adipiscing elit, sed do </tspan><tspan x="18" y="157.785">eiusmod tempor incididunt</tspan></text>
+<text id="Long Two Line Item H" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="18" y="74.4688">Long Two Line Item Headline </tspan><tspan x="18" y="94.4688">Example</tspan></text>
+<g id="Icons / Navigation 24px / Grey / More">
+<g id="More">
+<path id="Shape" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M326 28C327.1 28 328 27.1 328 26C328 24.9 327.1 24 326 24C324.9 24 324 24.9 324 26C324 27.1 324.9 28 326 28ZM326 30C324.9 30 324 30.9 324 32C324 33.1 324.9 34 326 34C327.1 34 328 33.1 328 32C328 30.9 327.1 30 326 30ZM326 36C324.9 36 324 36.9 324 38C324 39.1 324.9 40 326 40C327.1 40 328 39.1 328 38C328 36.9 327.1 36 326 36Z" fill="black"/>
+</g>
+</g>
+<text id="Option" fill="black" fill-opacity="0.539261" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="50" y="34.1328">Option</tspan></text>
+<g id="Icons/Blank/24px">
+<path id="Icon 24px" fill-rule="evenodd" clip-rule="evenodd" d="M30 42C36.6274 42 42 36.6274 42 30C42 23.3726 36.6274 18 30 18C23.3726 18 18 23.3726 18 30C18 36.6274 23.3726 42 30 42Z" fill="#D1D3D4"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd" x="0" y="0" width="348" height="190" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.0138889)"/>
+</pattern>
+<linearGradient id="paint0_linear" x1="2" y1="2" x2="2" y2="186" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.8"/>
+<stop offset="0.05" stop-color="white" stop-opacity="0.4"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="2" y1="2" x2="2" y2="186" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.01"/>
+<stop offset="0.950255" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect x="-1910" y="-2602" width="2660" height="3455" fill="white"/>
+</clipPath>
+<image id="image0" width="72" height="72" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAAAXNSR0IArs4c6QAAAOJJREFUeAHt0rENwCAAA0Fg/+Uisk+Q0qNf4Nx+d/J89vsNuwqsaxF+AUBxBECAQiCyBwEKgcgeBCgEInsQoBCI7EGAQiCyBwEKgcgeBCgEInsQoBCI7EGAQiCyBwEKgcgeBCgEInsQoBCI7EGAQiCyBwEKgcgeBCgEInsQoBCI7EGAQiCyBwEKgcgeBCgEInsQoBCI7EGAQiCyBwEKgcgeBCgEInsQoBCI7EGAQiCyBwEKgcgeBCgEInsQoBCI7EGAQiCyBwEKgcgeBCgEInsQoBCI7EGAQiCyBwEKgcgeFEAH1uEEBz0u0Z8AAAAASUVORK5CYII="/>
+</defs>
+</svg>

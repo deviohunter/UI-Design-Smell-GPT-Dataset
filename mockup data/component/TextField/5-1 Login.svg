@@ -1,0 +1,78 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="5-1 Login">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#F9EB59"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Shape" opacity="0.05" fill-rule="evenodd" clip-rule="evenodd" d="M0 40L1294 1334H0V40Z" fill="black"/>
+</g>
+</g>
+<g id="Group">
+<rect id="Bg_2" y="1194" width="750" height="140" fill="black"/>
+<text id="Forgot Password" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-style="italic" font-weight="bold" letter-spacing="0px"><tspan x="494.023" y="1270.32">Forgot Password</tspan></text>
+<path id="Line" d="M388 1242L363 1285.3" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<text id="Create Account" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-style="italic" font-weight="bold" letter-spacing="0px"><tspan x="100" y="1270.32">Create Account</tspan></text>
+</g>
+<g id="Form">
+<g id="Get Started">
+<rect id="Bg_3" y="1054" width="750" height="140" fill="#00A0FF"/>
+<g id="Next">
+<path id="Line_2" d="M597 1124H647" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path id="Shape_2" d="M642.071 1117L649.142 1124.07L642.071 1131.14" stroke="white" stroke-width="2" stroke-linecap="square"/>
+</g>
+<text id="Get Started_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="100" y="1131.65">Get Started</tspan></text>
+</g>
+<g id="Password">
+<g id="Group_2">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M630 881H600V903H630V881ZM618.467 891.733C618.467 893.795 616.795 895.467 614.733 895.467C612.671 895.467 611 893.795 611 891.733C611 889.671 612.671 888 614.733 888C616.795 888 618.467 889.671 618.467 891.733Z" fill="black"/>
+<path id="Shape_4" d="M603 894V882C603 875.207 608.383 870 615 870C621.617 870 627 875.207 627 882V894" stroke="black" stroke-width="6"/>
+</g>
+</g>
+<g id="Group_3">
+<path id="Line_3" opacity="0.5" d="M100 963H650" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<g id="&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;&#226;&#128;&#162;">
+<path id=" 8" fill-rule="evenodd" clip-rule="evenodd" d="M245 930C247.761 930 250 927.761 250 925C250 922.239 247.761 920 245 920C242.239 920 240 922.239 240 925C240 927.761 242.239 930 245 930Z" fill="black"/>
+<path id=" 7" fill-rule="evenodd" clip-rule="evenodd" d="M225 930C227.761 930 230 927.761 230 925C230 922.239 227.761 920 225 920C222.239 920 220 922.239 220 925C220 927.761 222.239 930 225 930Z" fill="black"/>
+<path id="6" fill-rule="evenodd" clip-rule="evenodd" d="M205 930C207.761 930 210 927.761 210 925C210 922.239 207.761 920 205 920C202.239 920 200 922.239 200 925C200 927.761 202.239 930 205 930Z" fill="black"/>
+<path id="5" fill-rule="evenodd" clip-rule="evenodd" d="M185 930C187.761 930 190 927.761 190 925C190 922.239 187.761 920 185 920C182.239 920 180 922.239 180 925C180 927.761 182.239 930 185 930Z" fill="black"/>
+<path id="4" fill-rule="evenodd" clip-rule="evenodd" d="M165 930C167.761 930 170 927.761 170 925C170 922.239 167.761 920 165 920C162.239 920 160 922.239 160 925C160 927.761 162.239 930 165 930Z" fill="black"/>
+<path id="3" fill-rule="evenodd" clip-rule="evenodd" d="M145 930C147.761 930 150 927.761 150 925C150 922.239 147.761 920 145 920C142.239 920 140 922.239 140 925C140 927.761 142.239 930 145 930Z" fill="black"/>
+<path id="2" fill-rule="evenodd" clip-rule="evenodd" d="M125 930C127.761 930 130 927.761 130 925C130 922.239 127.761 920 125 920C122.239 920 120 922.239 120 925C120 927.761 122.239 930 125 930Z" fill="black"/>
+<path id="1" fill-rule="evenodd" clip-rule="evenodd" d="M105 930C107.761 930 110 927.761 110 925C110 922.239 107.761 920 105 920C102.239 920 100 922.239 100 925C100 927.761 102.239 930 105 930Z" fill="black"/>
+</g>
+<text id="PASSWORD" opacity="0.5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="100" y="877.15">PASSWORD</tspan></text>
+</g>
+<g id="Username">
+<g id="Group_4">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M631 734C631 725.9 620.4 722 615 722C609.6 722 599 725.9 599 734H631Z" fill="black"/>
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M615 718C618.85 718 622 714.85 622 711C622 707.15 618.85 704 615 704C611.15 704 608 707.15 608 711C608 714.85 611.15 718 615 718Z" fill="black"/>
+</g>
+</g>
+<g id="Group_5">
+<path id="Line_4" opacity="0.5" d="M100 798H650" stroke="black" stroke-width="2" stroke-linecap="square"/>
+<text id="isabel@app.com" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="28" letter-spacing="0px"><tspan x="100" y="764.81">isabel@app.com</tspan></text>
+<text id="USERNAME" opacity="0.5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="20" font-weight="bold" letter-spacing="2px"><tspan x="100" y="712.15">USERNAME</tspan></text>
+</g>
+</g>
+<g id="Mark">
+<g id="Shadow" filter="url(#filter0_f)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M375 500C430.228 500 475 493.284 475 485C475 476.716 430.228 470 375 470C319.772 470 275 476.716 275 485C275 493.284 319.772 500 375 500Z" fill="black"/>
+</g>
+<path id="Shape_7" opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M325 459L275 409H325V459Z" fill="black"/>
+<path id="Shape_8" d="M275 230C275 218.954 283.954 210 295 210H455C466.046 210 475 218.954 475 230V389C475 400.046 466.046 409 455 409H275V230Z" fill="black"/>
+<rect id="Rectangle" x="315" y="321" width="60" height="16" fill="white"/>
+<rect id="Rectangle_2" x="315" y="282" width="120" height="16" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f" x="139.086" y="334.086" width="471.828" height="301.828" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="67.957" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>

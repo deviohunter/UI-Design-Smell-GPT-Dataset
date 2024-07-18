@@ -1,0 +1,64 @@
+<svg width="376" height="80" viewBox="0 0 376 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="376" height="80" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-192" y="-3138" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Bottom navigation">
+<g id="Alternative of 5-level destination bottom nav">
+<g id="Bottom nav">
+<g id="Row bg" filter="url(#filter0_dd)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 8H368V64H8V8Z" fill="#673AB7"/>
+</g>
+<g id="Frame">
+<g id="Profile">
+<g id="Icons/Blank/24px" opacity="0.54">
+<path id="Icon 24px" fill-rule="evenodd" clip-rule="evenodd" d="M336 48C342.627 48 348 42.6274 348 36C348 29.3726 342.627 24 336 24C329.373 24 324 29.3726 324 36C324 42.6274 329.373 48 336 48Z" fill="#D1D3D4"/>
+</g>
+</g>
+<g id="Event">
+<g id="Icons/Blank/24px_2" opacity="0.54">
+<path id="Icon 24px_2" fill-rule="evenodd" clip-rule="evenodd" d="M272 48C278.627 48 284 42.6274 284 36C284 29.3726 278.627 24 272 24C265.373 24 260 29.3726 260 36C260 42.6274 265.373 48 272 48Z" fill="#D1D3D4"/>
+</g>
+</g>
+<g id="Bookmarks">
+<text id="Item" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="174" y="53.7852">Item</tspan></text>
+<g id="Icons/Blank/24px_3">
+<path id="Icon 24px_3" fill-rule="evenodd" clip-rule="evenodd" d="M188 40C194.627 40 200 34.6274 200 28C200 21.3726 194.627 16 188 16C181.373 16 176 21.3726 176 28C176 34.6274 181.373 40 188 40Z" fill="white"/>
+</g>
+</g>
+<g id="Search">
+<g id="Icons/Blank/24px_4" opacity="0.54">
+<path id="Icon 24px_4" fill-rule="evenodd" clip-rule="evenodd" d="M104 48C110.627 48 116 42.6274 116 36C116 29.3726 110.627 24 104 24C97.3726 24 92 29.3726 92 36C92 42.6274 97.3726 48 104 48Z" fill="#D1D3D4"/>
+</g>
+</g>
+<g id="Explore">
+<g id="Icons/Blank/24px_5" opacity="0.54">
+<path id="Icon 24px_5" fill-rule="evenodd" clip-rule="evenodd" d="M40 48C46.6274 48 52 42.6274 52 36C52 29.3726 46.6274 24 40 24C33.3726 24 28 29.3726 28 36C28 42.6274 33.3726 48 40 48Z" fill="#D1D3D4"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd" x="0" y="0" width="376" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="8"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect x="-192" y="-3138" width="2660" height="3455" fill="white"/>
+</clipPath>
+</defs>
+</svg>

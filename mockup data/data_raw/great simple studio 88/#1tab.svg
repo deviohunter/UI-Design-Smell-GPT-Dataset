@@ -1,0 +1,25 @@
+<svg width="360" height="48" viewBox="0 0 360 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="48" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-201" y="-1330" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Tabs">
+<g id="#1">
+<path id="Bounds" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V48H360V0H0Z" fill="#673AB7"/>
+<g id="#2">
+<text id="ITEM TWO" fill="white" fill-opacity="0.7" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="234.948" y="27.9883">ITEM TWO</tspan></text>
+</g>
+<g id="#1_2">
+<text id="ITEM ONE" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="56.2812" y="27.9883">ITEM ONE</tspan></text>
+<path id="Indicator" fill-rule="evenodd" clip-rule="evenodd" d="M0 46V48H180V46H0Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect x="-201" y="-1330" width="2660" height="3455" fill="white"/>
+</clipPath>
+</defs>
+</svg>

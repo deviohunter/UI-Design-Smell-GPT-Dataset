@@ -1,0 +1,237 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Calendar overlap" clip-path="url(#clip0_5686_572)">
+<rect width="360" height="640" fill="#FAFAFA"/>
+<g id="#3">
+<g id="Card">
+<g id="Background">
+<g id="Object">
+<mask id="mask0_5686_572" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="74" y="511" width="270" height="104">
+<path id="Base" fill-rule="evenodd" clip-rule="evenodd" d="M74 513C74 511.895 74.8954 511 76 511H342C343.105 511 344 511.895 344 513V613C344 614.105 343.105 615 342 615H76C74.8954 615 74 614.105 74 613V513Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_5686_572)">
+<path id="Base_2" fill-rule="evenodd" clip-rule="evenodd" d="M74 513C74 511.895 74.8954 511 76 511H342C343.105 511 344 511.895 344 513V613C344 614.105 343.105 615 342 615H76C74.8954 615 74 614.105 74 613V513Z" fill="#F6BF26"/>
+<rect id="Bitmap" y="441" width="360" height="202.5" fill="url(#pattern0)"/>
+</g>
+</g>
+<mask id="mask1_5686_572" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="74" y="511" width="270" height="104">
+<path id="scrim" fill-rule="evenodd" clip-rule="evenodd" d="M74 513C74 511.895 74.8954 511 76 511H342C343.105 511 344 511.895 344 513V613C344 614.105 343.105 615 342 615H76C74.8954 615 74 614.105 74 613V513Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_5686_572)">
+<path id="scrim_2" fill-rule="evenodd" clip-rule="evenodd" d="M74 513C74 511.895 74.8954 511 76 511H342C343.105 511 344 511.895 344 513V613C344 614.105 343.105 615 342 615H76C74.8954 615 74 614.105 74 613V513Z" fill="black" fill-opacity="0.5"/>
+</g>
+</g>
+<text id="8 &#226;&#128;&#147; 9 PM" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="84" y="601.785">8 &#x2013; 9 PM</tspan></text>
+<text id="Play tennis" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="101" y="585.785">Play tennis</tspan></text>
+<g id="ic_flag_black_18px">
+<g id="Group">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M92.3998 577.5L92.1665 576.333H86.9165V586.25H88.0832V582.167H91.3498L91.5832 583.333H95.6665V577.5H92.3998Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Day">
+<text id="20" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" letter-spacing="0em"><tspan x="20" y="536.977">20</tspan></text>
+<text id="Wed" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="20" y="552.785">Wed</tspan></text>
+</g>
+</g>
+<g id="#2">
+<g id="Card_2">
+<g id="Background_2">
+<g id="Object_2">
+<mask id="mask2_5686_572" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="74" y="373" width="270" height="104">
+<path id="Base_3" fill-rule="evenodd" clip-rule="evenodd" d="M74 375C74 373.895 74.8954 373 76 373H342C343.105 373 344 373.895 344 375V475C344 476.105 343.105 477 342 477H76C74.8954 477 74 476.105 74 475V375Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_5686_572)">
+<path id="Base_4" fill-rule="evenodd" clip-rule="evenodd" d="M74 375C74 373.895 74.8954 373 76 373H342C343.105 373 344 373.895 344 375V475C344 476.105 343.105 477 342 477H76C74.8954 477 74 476.105 74 475V375Z" fill="#F6BF26"/>
+<rect id="Bitmap_2" y="303" width="360" height="202.5" fill="url(#pattern1)"/>
+</g>
+</g>
+<mask id="mask3_5686_572" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="74" y="373" width="270" height="104">
+<path id="scrim_3" fill-rule="evenodd" clip-rule="evenodd" d="M74 375C74 373.895 74.8954 373 76 373H342C343.105 373 344 373.895 344 375V475C344 476.105 343.105 477 342 477H76C74.8954 477 74 476.105 74 475V375Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_5686_572)">
+<path id="scrim_4" fill-rule="evenodd" clip-rule="evenodd" d="M74 375C74 373.895 74.8954 373 76 373H342C343.105 373 344 373.895 344 375V475C344 476.105 343.105 477 342 477H76C74.8954 477 74 476.105 74 475V375Z" fill="black" fill-opacity="0.5"/>
+</g>
+</g>
+<text id="8 &#226;&#128;&#147; 9 PM_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="84" y="463.785">8 &#x2013; 9 PM</tspan></text>
+<text id="Play tennis_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="101" y="447.785">Play tennis</tspan></text>
+<g id="ic_flag_black_18px_2">
+<g id="Group_2">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M92.3998 439.5L92.1665 438.333H86.9165V448.25H88.0832V444.167H91.3498L91.5832 445.333H95.6665V439.5H92.3998Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Day_2">
+<text id="18" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" letter-spacing="0em"><tspan x="20" y="398.977">18</tspan></text>
+<text id="Wed_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="20" y="414.785">Wed</tspan></text>
+</g>
+</g>
+<g id="#1">
+<g id="Row">
+<path id="Base_5" fill-rule="evenodd" clip-rule="evenodd" d="M74 289C74 287.895 74.8954 287 76 287H342C343.105 287 344 287.895 344 289V337C344 338.105 343.105 339 342 339H76C74.8954 339 74 338.105 74 337V289Z" fill="#F6BF26"/>
+<text id="8 &#226;&#128;&#147; 9 PM_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="84" y="325.785">8 &#x2013; 9 PM</tspan></text>
+<text id="Hi and welcome" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="84" y="309.785">Hi and welcome</tspan></text>
+</g>
+<g id="Row_2">
+<path id="Base_6" fill-rule="evenodd" clip-rule="evenodd" d="M74 229C74 227.895 74.8954 227 76 227H342C343.105 227 344 227.895 344 229V277C344 278.105 343.105 279 342 279H76C74.8954 279 74 278.105 74 277V229Z" fill="#3F51B5"/>
+<text id="7:00 &#226;&#128;&#147; 9:25 PM" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="84" y="265.785">7:00 &#x2013; 9:25 PM</tspan></text>
+<text id="(No title)" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="84" y="249.785">(No title)</tspan></text>
+</g>
+<g id="Row_3">
+<path id="Base_7" fill-rule="evenodd" clip-rule="evenodd" d="M74 169C74 167.895 74.8954 167 76 167H342C343.105 167 344 167.895 344 169V217C344 218.105 343.105 219 342 219H76C74.8954 219 74 218.105 74 217V169Z" fill="#039BE5"/>
+<text id="6 &#226;&#128;&#147; 7 PM" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="84" y="205.785">6 &#x2013; 7 PM</tspan></text>
+<text id="The best" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="84" y="189.785">The best</tspan></text>
+</g>
+<g id="Row_4">
+<path id="Base_8" fill-rule="evenodd" clip-rule="evenodd" d="M74 109C74 107.895 74.8954 107 76 107H342C343.105 107 344 107.895 344 109V157C344 158.105 343.105 159 342 159H76C74.8954 159 74 158.105 74 157V109Z" fill="#039BE5"/>
+<text id="5:30 &#226;&#128;&#147; 6:30 PM" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="84" y="145.785">5:30 &#x2013; 6:30 PM</tspan></text>
+<text id="Chips at least" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="84" y="129.785">Chips at least</tspan></text>
+</g>
+<g id="Line">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M67 101C69.7614 101 72 98.7614 72 96C72 93.2386 69.7614 91 67 91C64.2386 91 62 93.2386 62 96C62 98.7614 64.2386 101 67 101Z" fill="#4285F4"/>
+<path id="Divider" d="M70 96H344" stroke="#4285F4" stroke-linecap="square"/>
+</g>
+<g id="Day_3">
+<text id="17" fill="#4285F4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" letter-spacing="0em"><tspan x="19" y="116.977">17</tspan></text>
+<text id="Tue" fill="#4285F4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="19" y="132.785">Tue</tspan></text>
+</g>
+</g>
+<g id="Button">
+<g id="Oval_2" filter="url(#filter0_dd_5686_572)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M316 576C331.464 576 344 563.464 344 548C344 532.536 331.464 520 316 520C300.536 520 288 532.536 288 548C288 563.464 300.536 576 316 576Z" fill="#FF5722"/>
+<path d="M343.75 548C343.75 563.326 331.326 575.75 316 575.75C300.674 575.75 288.25 563.326 288.25 548C288.25 532.674 300.674 520.25 316 520.25C331.326 520.25 343.75 532.674 343.75 548Z" stroke="url(#paint0_linear_5686_572)" stroke-width="0.5"/>
+<path d="M343.75 548C343.75 563.326 331.326 575.75 316 575.75C300.674 575.75 288.25 563.326 288.25 548C288.25 532.674 300.674 520.25 316 520.25C331.326 520.25 343.75 532.674 343.75 548Z" stroke="url(#paint1_linear_5686_572)" stroke-width="0.5"/>
+</g>
+<g id="add">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M315 541V547H309V549H315V555H317V549H323V547H317V541H315Z" fill="white"/>
+</g>
+</g>
+<g id="Bars/Navbar 360dp black">
+<path id="navbar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 592V640H360V592H0Z" fill="black"/>
+<g id="Group 3">
+<path id="recent" d="M274 622V610C274 609.448 274.448 609 275 609H287C287.552 609 288 609.448 288 610V622C288 622.552 287.552 623 287 623H275C274.448 623 274 622.552 274 622Z" stroke="white" stroke-width="2"/>
+</g>
+<g id="Group 4">
+<path id="home" d="M187 616C187 619.866 183.866 623 180 623C176.134 623 173 619.866 173 616C173 612.134 176.134 609 180 609C183.866 609 187 612.134 187 616Z" stroke="white" stroke-width="2"/>
+</g>
+<g id="Group 2">
+<path id="back" fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="Tool bar">
+<g id="app bar bg" filter="url(#filter1_dd_5686_572)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M360 0H0V80H360V0Z" fill="#019AE8"/>
+</g>
+<g id="app bar contents">
+<g id="Icons / Navigation 24px / White / More">
+<g id="More">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M338 48C339.1 48 340 47.1 340 46C340 44.9 339.1 44 338 44C336.9 44 336 44.9 336 46C336 47.1 336.9 48 338 48V48ZM338 50C336.9 50 336 50.9 336 52C336 53.1 336.9 54 338 54C339.1 54 340 53.1 340 52C340 50.9 339.1 50 338 50V50ZM338 56C336.9 56 336 56.9 336 58C336 59.1 336.9 60 338 60C339.1 60 340 59.1 340 58C340 56.9 339.1 56 338 56V56Z" fill="white"/>
+</g>
+</g>
+<g id="ic_today_black_24px">
+<g id="Group_3">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M319 43H318V41H316V43H308V41H306V43H305C303.89 43 303.01 43.9 303.01 45L303 59C303 60.1 303.89 61 305 61H319C320.1 61 321 60.1 321 59V45C321 43.9 320.1 43 319 43ZM319 59H305V48H319V59Z" fill="white"/>
+</g>
+</g>
+<g id="arrow drop down">
+<path id="Shape_6" opacity="0.54" fill-rule="evenodd" clip-rule="evenodd" d="M152 49L157 54L162 49H152Z" fill="white"/>
+</g>
+<text id="January" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20" font-weight="500" letter-spacing="0em"><tspan x="72" y="58.5547">January</tspan></text>
+<g id="Icons / Navigation 24px / White / Menu">
+<g id="Menu">
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M19 58H37V56H19V58V58ZM19 53H37V51H19V53V53ZM19 46V48H37V46H19V46Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Status bar">
+<path id="Status bar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V23H360V0H0Z" fill="#0076BF"/>
+<g id="Status bar contents">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="316.48" y="16.4155">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M306 5.63053V4.79199L303 4.79199V5.63053H300V18.2087H309V5.63053H306Z" fill="white"/>
+</g>
+<g id="cellular">
+<path id="Shape_9" fill-rule="evenodd" clip-rule="evenodd" d="M277 18.2087H291V4.79199L277 18.2087Z" fill="white"/>
+</g>
+<g id="wifi">
+<path id="Shape_10" fill-rule="evenodd" clip-rule="evenodd" d="M256.978 7.68226L266 18.2087L275.023 7.68226C272.512 5.86778 269.387 4.79199 266 4.79199C262.613 4.79199 259.488 5.86778 256.978 7.68226Z" fill="white"/>
+</g>
+</g>
+</g>
+<g id="Banner" filter="url(#filter2_d_5686_572)">
+<g id="Base_9">
+<path d="M0 54H360V126H0V54Z" fill="white"/>
+<path d="M0 54H360V126H0V54Z" stroke="#979797"/>
+</g>
+<g id="Buttons">
+<g id="Button_2">
+<text id="AGREE" fill="#019AE8" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="255.096" y="113.988">TURN ON WIFI</tspan></text>
+</g>
+<g id="Button_3">
+<text id="DISAGREE" fill="#019AE8" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0.0357143em"><tspan x="184.42" y="113.988">DISMISS</tspan></text>
+</g>
+</g>
+<text id="Warning! Wifi is not on!" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="18" y="90.7852">Warning! Wifi is not on!</tspan></text>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_5686_572" transform="scale(0.000625 0.00111111)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_5686_572" transform="scale(0.000625 0.00111111)"/>
+</pattern>
+<filter id="filter0_dd_5686_572" x="280" y="512" width="72" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="8"/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5686_572"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_5686_572" result="effect2_dropShadow_5686_572"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_5686_572" result="shape"/>
+</filter>
+<filter id="filter1_dd_5686_572" x="-4" y="-4" width="368" height="92" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5686_572"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_5686_572" result="effect2_dropShadow_5686_572"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_5686_572" result="shape"/>
+</filter>
+<filter id="filter2_d_5686_572" x="-4" y="54" width="368" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5686_572"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_5686_572" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_5686_572" x1="288.274" y1="520" x2="288.274" y2="575.452" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5686_572" x1="288" y1="520" x2="288" y2="576" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.12"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.06"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0_5686_572">
+<rect width="360" height="640" fill="white"/>
+</clipPath>
+</defs>
+</svg>

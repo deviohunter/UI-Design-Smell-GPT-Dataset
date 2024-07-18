@@ -1,0 +1,53 @@
+<svg width="360" height="463" viewBox="0 0 360 463" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="463" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-1123" y="-968" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Text Fields">
+<g id="Light">
+<path id="Background" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H360V463H0V0Z" fill="white"/>
+<g id="Focus Three-line Text Field">
+<text id="105 / 120" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="293.672" y="444.133">105 / 120</tspan></text>
+<path id="Line" d="M16.9971 423H344.997" stroke="#673AB7" stroke-width="2"/>
+<text id="Are you ready to buy" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="17" y="362.844">Are you ready to buy a home theater audio </tspan><tspan x="17" y="386.844">system? Here are several tips to help you </tspan><tspan x="17" y="410.844">find the right audio system for you</tspan></text>
+<path id="Type Mark" fill-rule="evenodd" clip-rule="evenodd" d="M262 395V415H263V395H262Z" fill="#673AB7"/>
+<text id="Input Label" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="17" y="339.133">Input Label</tspan></text>
+</g>
+<g id="Focus + Counter">
+<text id="39 / 50" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="306.148" y="292.133">39 / 50</tspan></text>
+<path id="Line_2" fill-rule="evenodd" clip-rule="evenodd" d="M16 271H344V273H16V271Z" fill="#673AB7"/>
+<path id="Type Mark_2" fill-rule="evenodd" clip-rule="evenodd" d="M305 244V264H306V244H305Z" fill="#673AB7"/>
+<text id="Are you considering" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="16" y="259.844">Are you considering buying a compatible </tspan></text>
+<text id="Input label" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="16" y="236.133">Input label</tspan></text>
+</g>
+<g id="Elements / Text fields / Normal With Input Text">
+<g id="Normal With Input Text">
+<g id="Dividers/Light">
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M15 184H343V185H15V184Z" fill="black" fill-opacity="0.12"/>
+</g>
+<text id="Input text" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="16" y="171.844">Input text</tspan></text>
+</g>
+</g>
+<g id="Elements / Text fields / Focus">
+<g id="Focus">
+<path id="Line_3" fill-rule="evenodd" clip-rule="evenodd" d="M16 119H344V121H16V119Z" fill="#673AB7"/>
+<path id="Type Mark_3" fill-rule="evenodd" clip-rule="evenodd" d="M79 92V112H80V92H79Z" fill="#673AB7"/>
+<text id="Input tex" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="16" y="107.844">Input tex</tspan></text>
+</g>
+</g>
+<g id="Normal With Hint Text">
+<g id="Dividers/Light_2">
+<path id="Rectangle_2" fill-rule="evenodd" clip-rule="evenodd" d="M16 56H344V57H16V56Z" fill="black" fill-opacity="0.12"/>
+</g>
+<text id="Hint text" fill="black" fill-opacity="0.38" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="16" y="43.8438">Hint text</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect x="-1123" y="-968" width="2660" height="3455" fill="white"/>
+</clipPath>
+</defs>
+</svg>

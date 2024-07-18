@@ -1,0 +1,78 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="640" fill="#F2F2F2"/>
+<g id="Sign_In">
+<rect width="360" height="640" fill="white"/>
+<rect id="bg" width="360" height="640" fill="#00ACC1"/>
+<g id="password">
+<text id="Password" opacity="0.6" fill="white" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0px"><tspan x="16" y="331.469">Password</tspan></text>
+<rect id="Rectangle Copy" opacity="0.6" x="16" y="348" width="328" height="2" fill="#FAFAFA"/>
+</g>
+<g id="name">
+<text id="Login" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0px"><tspan x="16" y="211.102">Login</tspan></text>
+<text id="Alexandr" fill="white" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="16" y="250.254">Alexandr</tspan></text>
+<rect id="Rectangle" x="16" y="268" width="328" height="2" fill="white"/>
+</g>
+<g id="Button">
+<g id="Bottom bar bg" filter="url(#filter0_d)">
+<rect x="56" y="440" width="248" height="56" rx="28" fill="#FFCC80"/>
+</g>
+<text id="SIGN IN" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="151.859" y="475.469">SIGN IN</tspan></text>
+</g>
+<text id="DON&#226;&#128;&#153;T HAVE AN ACCOUN" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" font-weight="500" letter-spacing="0px"><tspan x="78.9922" y="547.469">DON&#x2019;T HAVE AN ACCOUNT?</tspan></text>
+<g id="arrow back">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M32 51H19.8L25.4 45.4L24 44L16 52L24 60L25.4 58.6L19.8 53H32V51V51Z" fill="white"/>
+</g>
+<text id="Sign In" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="20" font-weight="500" letter-spacing="0px"><tspan x="72" y="61.8359">Sign In</tspan></text>
+<g id="status bar">
+<g id="status bar_2">
+<path id="status bar bg" opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V24H360V0H0Z" fill="black"/>
+<g id="status bar contents">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0px"><tspan x="316.453" y="16.7852">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M306 5.875V5L303 5V5.875H300V19H309V5.875H306Z" fill="white"/>
+</g>
+<g id="cellular">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M277 19H291V5L277 19Z" fill="white"/>
+</g>
+<g id="wifi">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M256.977 8.01593L266 19L275.023 8.01593C272.512 6.12256 269.387 5 266 5C262.613 5 259.488 6.12256 256.977 8.01593Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="navbar">
+<path id="navbar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 592V640H360V592H0Z" fill="black"/>
+<g id="recent">
+<mask id="path-22-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z" stroke="white" stroke-width="4" mask="url(#path-22-inside-1)"/>
+</g>
+<g id="home">
+<mask id="path-23-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z" stroke="white" stroke-width="4" mask="url(#path-23-inside-2)"/>
+</g>
+<g id="back">
+<mask id="path-24-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z" stroke="white" stroke-width="4" mask="url(#path-24-inside-3)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="54" y="439" width="252" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

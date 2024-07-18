@@ -1,0 +1,113 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="5-8 Capture">
+<g clip-path="url(#clip0)">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V1334H750V0H0Z" fill="black"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<path id="Mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V1334H750V0H0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect id="Img" opacity="0.8" x="-30" y="-177" width="810" height="1339"/>
+</g>
+</g>
+<g id="Footer">
+<g id="Bg_2" filter="url(#filter0_d)">
+<rect y="1094" width="750" height="240" fill="#00A0FF"/>
+</g>
+<rect id="Bg Copy" y="1094" width="750" height="240" fill="#00A0FF"/>
+<g id="Settings">
+<text id="Settings_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="1px"><tspan x="590" y="1292.32">SETTINGS</tspan></text>
+<g id="Video">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="1px"><tspan x="458" y="1292.32">VIDE</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="0px"><tspan x="510.018" y="1292.32">O</tspan></text>
+</g>
+<g id="Effects">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="1px"><tspan x="299" y="1292.32">EFFECT</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="0px"><tspan x="380.496" y="1292.32">S</tspan></text>
+</g>
+<g id="Timer">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="1px"><tspan x="167" y="1292.32">TIME</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="0px"><tspan x="221.51" y="1292.32">R</tspan></text>
+</g>
+<g id="Grid">
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="1px"><tspan x="50" y="1292.32">GRI</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="22" font-weight="bold" letter-spacing="0px"><tspan x="88.7285" y="1292.32">D</tspan></text>
+</g>
+</g>
+<path id="Line" d="M50 1234H700" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<g id="Options">
+<g id="Group">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M685 1178C687.761 1178 690 1175.76 690 1173C690 1170.24 687.761 1168 685 1168C682.239 1168 680 1170.24 680 1173C680 1175.76 682.239 1178 685 1178Z" fill="white"/>
+<path id="Oval_2" fill-rule="evenodd" clip-rule="evenodd" d="M685 1160C687.761 1160 690 1157.76 690 1155C690 1152.24 687.761 1150 685 1150C682.239 1150 680 1152.24 680 1155C680 1157.76 682.239 1160 685 1160Z" fill="white"/>
+</g>
+</g>
+<g id="Flash" opacity="0.5">
+<g id="Group_2">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M583 1161V1185L597 1161H583Z" fill="#FEFEFE"/>
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M588 1168V1144L574 1168H588Z" fill="#FEFEFE"/>
+</g>
+</g>
+<g id="Rotate">
+<g id="Group_3">
+<path id="Oval_3" d="M497 1164V1167H503V1164H497ZM485 1146H482V1152H485V1146ZM485 1182H488V1176H485V1182ZM503 1164C503 1154.06 494.941 1146 485 1146V1152C491.627 1152 497 1157.37 497 1164H503ZM467 1164C467 1173.94 475.059 1182 485 1182V1176C478.373 1176 473 1170.63 473 1164H467Z" fill="white"/>
+</g>
+</g>
+<text id="Shoot" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="50" font-weight="bold" letter-spacing="0px"><tspan x="50" y="1179.62">Shoot</tspan></text>
+</g>
+<g id="Focus">
+<rect id="Bg_3" opacity="0.2" x="295" y="467" width="160" height="160" rx="80" fill="white" stroke="#979797" stroke-opacity="0.5" stroke-linecap="square"/>
+<g id="Group_4">
+<path id="Line_2" d="M375 532V562" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path id="Line_3" d="M390 547H360" stroke="white" stroke-width="2" stroke-linecap="square"/>
+</g>
+</g>
+<g id="Grid_2" filter="url(#filter1_d)">
+<g id="Shape_3">
+<rect id="Shape_4" x="706" y="88" width="10" height="10" fill="white"/>
+<rect id="Shape_5" x="686" y="88" width="10" height="10" fill="white"/>
+<rect id="Shape_6" x="706" y="68" width="10" height="10" fill="white"/>
+<rect id="Shape_7" x="686" y="68" width="10" height="10" fill="white"/>
+</g>
+</g>
+<g id="Back" filter="url(#filter2_d)">
+<g id="Group_5">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M54 93L40 83L54 73V93Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="-100" y="994" width="950" height="440" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="50"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="656" y="58" width="90" height="90" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="10" y="63" width="74" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="750" height="1334" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,68 @@
+<svg width="368" height="92" viewBox="0 0 368 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="368" height="92" fill="#F2F2F2"/>
+<g id="Components">
+<g clip-path="url(#clip0)">
+<rect x="-196" y="-554" width="2660" height="3455" fill="#EEEEEE"/>
+<g id="Toolbars">
+<g id="#3">
+<g id="Toolbar">
+<g id="Toolbar bg" filter="url(#filter0_dd)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 4H364V84H4V4Z" fill="#673AB7"/>
+</g>
+<g id="Toolbar contents">
+<g id="Search">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M311.502 58H310.708L310.432 57.726C311.407 56.589 312 55.115 312 53.5C312 49.91 309.09 47 305.5 47C301.91 47 299 49.91 299 53.5C299 57.09 301.91 60 305.5 60C307.115 60 308.588 59.408 309.725 58.434L310.001 58.708V59.5L314.999 64.491L316.49 63L311.502 58ZM305.5 58C303.014 58 301 55.986 301 53.5C301 51.015 303.014 49 305.5 49C307.985 49 310 51.015 310 53.5C310 55.986 307.985 58 305.5 58Z" fill="white"/>
+</g>
+<g id="Icons / Navigation 24px / White / More">
+<g id="More">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M342 52C343.1 52 344 51.1 344 50C344 48.9 343.1 48 342 48C340.9 48 340 48.9 340 50C340 51.1 340.9 52 342 52ZM342 54C340.9 54 340 54.9 340 56C340 57.1 340.9 58 342 58C343.1 58 344 57.1 344 56C344 54.9 343.1 54 342 54ZM342 60C340.9 60 340 60.9 340 62C340 63.1 340.9 64 342 64C343.1 64 344 63.1 344 62C344 60.9 343.1 60 342 60Z" fill="white"/>
+</g>
+</g>
+<g id="Icons / Navigation 24px / White / Back Arrow">
+<g id="Back">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M40 55H27.8L33.4 49.4L32 48L24 56L32 64L33.4 62.6L27.8 57H40V55Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Status bar">
+<path id="Status bar bg" fill-rule="evenodd" clip-rule="evenodd" d="M4 4V28H364V4H4Z" fill="#512DA8"/>
+<g id="Bars/Status bar Content White">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="320.453" y="19.9883">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M310 9.875V9L307 9V9.875H304V23H313V9.875H310Z" fill="white"/>
+</g>
+<g id="cellular">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M281 23H295V9L281 23Z" fill="white"/>
+</g>
+<g id="wifi">
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M260.977 12.0159L270 23L279.023 12.0159C276.512 10.1226 273.387 9 270 9C266.613 9 263.488 10.1226 260.977 12.0159Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd" x="0" y="0" width="368" height="92" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect x="-196" y="-554" width="2660" height="3455" fill="white"/>
+</clipPath>
+</defs>
+</svg>

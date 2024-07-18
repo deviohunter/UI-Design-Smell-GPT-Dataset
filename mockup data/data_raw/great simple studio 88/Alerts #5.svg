@@ -1,0 +1,130 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="640" fill="#F2F2F2"/>
+<g id="Alerts #5">
+<g clip-path="url(#clip0)">
+<rect width="360" height="640" fill="#F5F5F5"/>
+<g id="Background">
+<rect id="Bitmap" width="360" height="640"/>
+<path id="Scrim" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H360V640H0V0Z" fill="black" fill-opacity="0.38"/>
+</g>
+<g id="Sheet">
+<g id="sheet bg" filter="url(#filter0_dd)">
+<mask id="path-4-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 272V592H360V272H0Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 272V592H360V272H0Z" fill="#FAFAFA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 272V592H360V272H0Z" stroke="url(#paint0_linear)" stroke-width="2" mask="url(#path-4-inside-1)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 272V592H360V272H0Z" stroke="url(#paint1_linear)" stroke-width="2" style="mix-blend-mode:soft-light" mask="url(#path-4-inside-1)"/>
+</g>
+<g id="Row">
+<text id="Use camera" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="563.844">Use camera</tspan></text>
+<g id="ic_camera_alt_black_24px">
+<g id="Group">
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M28 563.2C29.7674 563.2 31.2 561.767 31.2 560C31.2 558.232 29.7674 556.8 28 556.8C26.2327 556.8 24.8 558.232 24.8 560C24.8 561.767 26.2327 563.2 28 563.2Z" fill="black" fill-opacity="0.54"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M25 550L23.17 552H20C18.9 552 18 552.9 18 554V566C18 567.1 18.9 568 20 568H36C37.1 568 38 567.1 38 566V554C38 552.9 37.1 552 36 552H32.83L31 550H25ZM28 565C25.24 565 23 562.76 23 560C23 557.24 25.24 555 28 555C30.76 555 33 557.24 33 560C33 562.76 30.76 565 28 565Z" fill="black" fill-opacity="0.54"/>
+</g>
+</g>
+</g>
+<g id="Row_2">
+<text id="Upload" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="515.844">Upload</tspan></text>
+<g id="ic_cloud_upload_black_24px">
+<g id="Group_2">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M35.35 510.04C34.67 506.59 31.64 504 28 504C25.11 504 22.6 505.64 21.35 508.04C18.34 508.36 16 510.91 16 514C16 517.31 18.69 520 22 520H35C37.76 520 40 517.76 40 515C40 512.36 37.95 510.22 35.35 510.04ZM30 513V517H26V513H23L28 508L33 513H30Z" fill="black" fill-opacity="0.54"/>
+</g>
+</g>
+</g>
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M0 479H360V480H0V479Z" fill="black" fill-opacity="0.12"/>
+<g id="Row_3">
+<text id="Duplicate" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="451.844">Duplicate</tspan></text>
+<g id="ic_queue_black_24px">
+<g id="Group_3">
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M20 442H18V456C18 457.1 18.9 458 20 458H34V456H20V442ZM36 438H24C22.9 438 22 438.9 22 440V452C22 453.1 22.9 454 24 454H36C37.1 454 38 453.1 38 452V440C38 438.9 37.1 438 36 438ZM35 447H31V451H29V447H25V445H29V441H31V445H35V447Z" fill="black" fill-opacity="0.54"/>
+</g>
+</g>
+</g>
+<g id="Row_4">
+<text id="Print" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="403.844">Print</tspan></text>
+<g id="ic_print_black_24px">
+<g id="Group_4">
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M35 396H21C19.34 396 18 397.34 18 399V405H22V409H34V405H38V399C38 397.34 36.66 396 35 396ZM32 407H24V402H32V407ZM35 400C34.45 400 34 399.55 34 399C34 398.45 34.45 398 35 398C35.55 398 36 398.45 36 399C36 399.55 35.55 400 35 400ZM34 391H22V395H34V391Z" fill="black" fill-opacity="0.54"/>
+</g>
+</g>
+</g>
+<g id="Row_5">
+<text id="Make a copy" fill="black" fill-opacity="0.87" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="72" y="355.844">Make a copy</tspan></text>
+<g id="icon-copy">
+<path id="Shape_5" fill-rule="evenodd" clip-rule="evenodd" d="M32 341H20C18.895 341 18 341.895 18 343V357H20V343H32V341ZM35 345H24C22.895 345 22 345.896 22 347V361C22 362.104 22.895 363 24 363H35C36.104 363 37 362.104 37 361V347C37 345.896 36.104 345 35 345ZM24 347H35V361H24V347Z" fill="black" fill-opacity="0.54"/>
+</g>
+</g>
+<text id="Actions" fill="black" fill-opacity="0.541327" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="16" letter-spacing="0em"><tspan x="16" y="308.469">Actions</tspan></text>
+</g>
+<g id="Bars/Navbar 360dp black">
+<path id="navbar bg" fill-rule="evenodd" clip-rule="evenodd" d="M0 592V640H360V592H0Z" fill="black"/>
+<g id="Group 3">
+<g id="recent">
+<mask id="path-19-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M275 608C273.895 608 273 608.895 273 610V622C273 623.105 273.895 624 275 624H287C288.105 624 289 623.105 289 622V610C289 608.895 288.105 608 287 608H275Z" stroke="white" stroke-width="4" mask="url(#path-19-inside-2)"/>
+</g>
+</g>
+<g id="Group 4">
+<g id="home">
+<mask id="path-20-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M180 624C184.418 624 188 620.418 188 616C188 611.582 184.418 608 180 608C175.582 608 172 611.582 172 616C172 620.418 175.582 624 180 624Z" stroke="white" stroke-width="4" mask="url(#path-20-inside-3)"/>
+</g>
+</g>
+<g id="Group 2">
+<path id="back" fill-rule="evenodd" clip-rule="evenodd" d="M83.999 607.983C85.3324 607.212 87 608.175 87 609.715V621.287C87 622.827 85.3324 623.789 83.999 623.019L73.9899 617.232C72.6579 616.462 72.6579 614.54 73.9899 613.769L83.999 607.983Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<g id="status bar contents">
+<g id="time" opacity="0.9">
+<text id="12:30" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" font-weight="500" letter-spacing="0em"><tspan x="316.453" y="15.9883">12:30</tspan></text>
+</g>
+<g id="battery">
+<path id="Shape_6" fill-rule="evenodd" clip-rule="evenodd" d="M306 5.875V5L303 5V5.875H300V19H309V5.875H306Z" fill="white"/>
+</g>
+<g id="cellular">
+<path id="Shape_7" fill-rule="evenodd" clip-rule="evenodd" d="M277 19H291V5L277 19Z" fill="white"/>
+</g>
+<g id="wifi">
+<path id="Shape_8" fill-rule="evenodd" clip-rule="evenodd" d="M256.978 8.01611L266 19L275.022 8.01611C272.512 6.12256 269.387 5 266 5C262.613 5 259.488 6.12256 256.978 8.01611Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd" x="-16" y="256" width="392" height="368" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="16"/>
+<feGaussianBlur stdDeviation="8"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="8"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="2.44658" y1="272" x2="2.44658" y2="587.651" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.01"/>
+<stop offset="0.8" stop-opacity="0.01"/>
+<stop offset="0.95" stop-opacity="0.02"/>
+<stop offset="1" stop-opacity="0.04"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="0" y1="272" x2="0" y2="592" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.8"/>
+<stop offset="0.0490476" stop-color="white" stop-opacity="0.4"/>
+<stop offset="0.2" stop-color="white" stop-opacity="0.01"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="360" height="640" fill="white"/>
+</clipPath>
+</defs>
+</svg>

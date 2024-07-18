@@ -1,0 +1,133 @@
+<svg width="720" height="1280" viewBox="0 0 720 1280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="720" height="1280" fill="#F2F2F2"/>
+<g id="01">
+<g clip-path="url(#clip0)">
+<rect width="720" height="1280" fill="white"/>
+<rect id="bg" width="720" height="1306.53" fill="#232C3D"/>
+<g id="Group 4">
+<rect id="Rectangle" y="851" width="720" height="102" fill="#2F3A4F"/>
+<g id="check">
+<g id="Path 31">
+<mask id="path-5-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M646 884C644.895 884 644 884.895 644 886V918C644 919.105 644.895 920 646 920H678C679.105 920 680 919.105 680 918V886C680 884.895 679.105 884 678 884H646Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M646 884C644.895 884 644 884.895 644 886V918C644 919.105 644.895 920 646 920H678C679.105 920 680 919.105 680 918V886C680 884.895 679.105 884 678 884H646Z" stroke="#EAEEF4" stroke-width="8" mask="url(#path-5-inside-1)"/>
+</g>
+</g>
+<text id="Hint text Copy 24" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="915.254">Raymond Boone</tspan></text>
+</g>
+<g id="Group 4_2">
+<rect id="Rectangle_2" y="955" width="720" height="102" fill="#2F3A4F"/>
+<g id="check-tick">
+<g id="Group 3">
+<path id="Path 31_2" fill-rule="evenodd" clip-rule="evenodd" d="M646 988C644.895 988 644 988.895 644 990V1022C644 1023.1 644.895 1024 646 1024H678C679.105 1024 680 1023.1 680 1022V990C680 988.895 679.105 988 678 988H646Z" fill="#64FF6C"/>
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M656.909 1011.98L650.227 1005.25L648 1007.5L656.909 1016.47L676 997.243L673.773 995L656.909 1011.98Z" fill="white"/>
+</g>
+</g>
+<text id="Hint text Copy 24_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="1019.25">May Wagner</tspan></text>
+</g>
+<text id="My coach" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" font-weight="500" letter-spacing="0px"><tspan x="39" y="818.07">My coach</tspan></text>
+<g id="app bar bg" filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M720 0H0V160H720V0Z" fill="#2F3A4F"/>
+</g>
+<path id="Background" fill-rule="evenodd" clip-rule="evenodd" d="M0 0V48H720V0H0Z" fill="black" fill-opacity="0.126727"/>
+<text id="12:09" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="29" letter-spacing="0px"><tspan x="633.42" y="34.9121">12:09</tspan></text>
+<g id="Wifi">
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M526 10C519.625 10 513.675 12.175 509 15.8L526 39L543 15.8C538.325 12.175 532.375 10 526 10V10Z" fill="white"/>
+</g>
+<g id="Network">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="554" y="11" width="28" height="28">
+<path id="Clip 36" fill-rule="evenodd" clip-rule="evenodd" d="M582 39V11L554 39H582" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Fill 35" fill-rule="evenodd" clip-rule="evenodd" d="M582 11L575 18V39H582V11" fill="white" fill-opacity="0.3"/>
+<path id="Fill 37" fill-rule="evenodd" clip-rule="evenodd" d="M575 18L568 25V39H575V18" fill="white" fill-opacity="0.3"/>
+<path id="Fill 38" fill-rule="evenodd" clip-rule="evenodd" d="M568 25L561 32V39H568V25" fill="#F7F7F7"/>
+<path id="Fill 39" fill-rule="evenodd" clip-rule="evenodd" d="M561 32L554 39H561V32" fill="#F7F7F7"/>
+</g>
+</g>
+<g id="Battery">
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="601" y="9" width="19" height="30">
+<path id="Clip 42" fill-rule="evenodd" clip-rule="evenodd" d="M617.625 11.3077H615.25V9H605.75V11.3077H603.375C602.064 11.3077 601 12.3415 601 13.6154V36.6923C601 37.9662 602.064 39 603.375 39H617.625C618.936 39 620 37.9662 620 36.6923V13.6154C620 12.3415 618.936 11.3077 617.625 11.3077" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<path id="Fill 41" fill-rule="evenodd" clip-rule="evenodd" d="M620 32H601V36.6667C601 37.9547 602.064 39 603.375 39H617.625C618.936 39 620 37.9547 620 36.6667V32" fill="#F7F7F7"/>
+<path id="Fill 43" fill-rule="evenodd" clip-rule="evenodd" d="M601 25H620V32H601V25Z" fill="#F7F7F7"/>
+<path id="Fill 44" fill-rule="evenodd" clip-rule="evenodd" d="M601 18H620V25H601V18Z" fill="white" fill-opacity="0.3"/>
+<path id="Fill 45" fill-rule="evenodd" clip-rule="evenodd" d="M617.625 11H603.375C602.064 11 601 12.0453 601 13.3333V18H620V13.3333C620 12.0453 618.936 11 617.625 11" fill="white" fill-opacity="0.3"/>
+<path id="Fill 46" fill-rule="evenodd" clip-rule="evenodd" d="M606 9H615V11H606V9Z" fill="white" fill-opacity="0.3"/>
+</g>
+</g>
+<g id="Group 4_3">
+<rect id="Rectangle_3" y="655" width="720" height="102" fill="#2F3A4F"/>
+<g id="check_2">
+<g id="Path 31_3">
+<mask id="path-30-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42 688C40.8954 688 40 688.895 40 690V722C40 723.105 40.8954 724 42 724H74C75.1046 724 76 723.105 76 722V690C76 688.895 75.1046 688 74 688H42Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42 688C40.8954 688 40 688.895 40 690V722C40 723.105 40.8954 724 42 724H74C75.1046 724 76 723.105 76 722V690C76 688.895 75.1046 688 74 688H42Z" stroke="#EAEEF4" stroke-width="8" mask="url(#path-30-inside-2)"/>
+</g>
+</g>
+<text id="Hint text Copy 24_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="147" y="719.254">Nicholas Chambers</tspan></text>
+</g>
+<g id="Group 4_4">
+<rect id="Rectangle_4" y="551" width="720" height="102" fill="#2F3A4F"/>
+<g id="check-tick_2">
+<g id="Group 3_2">
+<path id="Path 31_4" fill-rule="evenodd" clip-rule="evenodd" d="M42 584C40.8954 584 40 584.895 40 586V618C40 619.105 40.8954 620 42 620H74C75.1046 620 76 619.105 76 618V586C76 584.895 75.1046 584 74 584H42Z" fill="#64FF6C"/>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M52.9091 607.981L46.2273 601.253L44 603.495L52.9091 612.466L72 593.243L69.7727 591L52.9091 607.981Z" fill="white"/>
+</g>
+</g>
+<text id="Hint text Copy 24_4" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="147" y="615.254">Mabelle Houston</tspan></text>
+</g>
+<text id="Quick start" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" font-weight="500" letter-spacing="0px"><tspan x="39" y="518.07">Quick start</tspan></text>
+<text id="Last Practice Sessio" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="36" letter-spacing="0px"><tspan x="111" y="114.305">Last Practice Sessions</tspan></text>
+<path id="Shape Copy" fill-rule="evenodd" clip-rule="evenodd" d="M71 101H46.6L57.8 89.8L55 87L39 103L55 119L57.8 116.2L46.6 105H71V101V101Z" fill="white"/>
+<path id="Shape Copy_2" fill-rule="evenodd" clip-rule="evenodd" d="M680 101.714H666.286V88H661.714V101.714H648V106.286H661.714V120H666.286V106.286H680V101.714V101.714Z" fill="#64FF6C"/>
+<text id="Pick a plan" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="28" font-weight="500" letter-spacing="0px"><tspan x="39" y="220.07">Pick a plan</tspan></text>
+<g id="Group">
+<rect id="Rectangle_5" y="355" width="720" height="102" fill="#2F3A4F"/>
+<g id="check-tick_3">
+<g id="Group 3_3">
+<path id="Path 31_5" fill-rule="evenodd" clip-rule="evenodd" d="M646 388C644.895 388 644 388.895 644 390V422C644 423.105 644.895 424 646 424H678C679.105 424 680 423.105 680 422V390C680 388.895 679.105 388 678 388H646Z" fill="#64FF6C"/>
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M656.909 411.981L650.227 405.253L648 407.495L656.909 416.466L676 397.243L673.773 395L656.909 411.981Z" fill="white"/>
+</g>
+</g>
+<path id="mask" fill-rule="evenodd" clip-rule="evenodd" d="M79 446C101.091 446 119 428.091 119 406C119 383.909 101.091 366 79 366C56.9086 366 39 383.909 39 406C39 428.091 56.9086 446 79 446Z" fill="#525F78"/>
+<text id="Hint text Copy 24_5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="147" y="418.254">Hester George</tspan></text>
+</g>
+<g id="Group_2">
+<rect id="Rectangle_6" y="251" width="720" height="102" fill="#2F3A4F"/>
+<g id="check_3">
+<g id="Path 31_6">
+<mask id="path-50-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M646 284C644.895 284 644 284.895 644 286V318C644 319.105 644.895 320 646 320H678C679.105 320 680 319.105 680 318V286C680 284.895 679.105 284 678 284H646Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M646 284C644.895 284 644 284.895 644 286V318C644 319.105 644.895 320 646 320H678C679.105 320 680 319.105 680 318V286C680 284.895 679.105 284 678 284H646Z" stroke="#EAEEF4" stroke-width="8" mask="url(#path-50-inside-3)"/>
+</g>
+</g>
+<path id="mask_2" fill-rule="evenodd" clip-rule="evenodd" d="M79 342C101.091 342 119 324.091 119 302C119 279.909 101.091 262 79 262C56.9086 262 39 279.909 39 302C39 324.091 56.9086 342 79 342Z" fill="#525F78"/>
+<text id="Hint text Copy 24_6" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="147" y="314.254">Gertrude Doyle</tspan></text>
+</g>
+<g id="Group_3">
+<rect id="Rectangle_7" y="1099" width="720" height="144" fill="#2F3A4F"/>
+<text id="Hint text Copy 24_7" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" letter-spacing="0px"><tspan x="40" y="1198.89">A round-the-world trip remains</tspan></text>
+<text id="Hint text Copy 24_8" fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="30" letter-spacing="0px"><tspan x="40" y="1162.25">Gilbert Kelley</tspan></text>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="-8" y="-8" width="736" height="176" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="720" height="1280" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,67 @@
+<svg width="750" height="1334" viewBox="0 0 750 1334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="750" height="1334" fill="#F2F2F2"/>
+<g id="4-3 Walkthrough">
+<rect width="750" height="1334" fill="white"/>
+<g id="Bg">
+<rect id="Mask" width="750" height="1334" fill="#E1B5A2"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="750" height="1334">
+<rect id="Mask_2" width="750" height="1334" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect id="Img" x="-11" width="779" height="1359"/>
+<path id="Overlay" fill-rule="evenodd" clip-rule="evenodd" d="M0 1134V1334H750V1134H0Z" fill="url(#paint0_linear)"/>
+<path id="Overlay_2" fill-rule="evenodd" clip-rule="evenodd" d="M750 1334L750 0H0L0 1334H750Z" fill="url(#paint1_linear)"/>
+</g>
+</g>
+<text id="Skip" fill="white" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="347.032" y="1266.65">Skip</tspan></text>
+<g id="Start Tour">
+<g id="Bg_2">
+<path id="Mask_3" fill-rule="evenodd" clip-rule="evenodd" d="M110 1074V1194H640V1074H110Z" fill="#FFBDB8"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="110" y="1074" width="530" height="120">
+<path id="Mask_4" fill-rule="evenodd" clip-rule="evenodd" d="M110 1074V1194H640V1074H110Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+</g>
+</g>
+<text id="Start Tour_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="160" y="1140.65">Start Tour</tspan></text>
+<g id="Go">
+<g id="Group">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M558 1124L572 1134L558 1144V1124Z" fill="black"/>
+</g>
+</g>
+</g>
+<text id="Paragraph" fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="30" letter-spacing="0px"><tspan x="162.261" y="689.975">See what your friends are up to </tspan><tspan x="258.179" y="729.975">anywhere you go.</tspan></text>
+<g id="Hi, Todd!">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="100" font-weight="bold" letter-spacing="-4px"><tspan x="188.033" y="588.25">Hi, Todd</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Karla" font-size="100" font-weight="bold" letter-spacing="0px"><tspan x="533.67" y="588.25">!</tspan></text>
+</g>
+<g id="Avatar" filter="url(#filter0_d)">
+<path id="Mask_5" fill-rule="evenodd" clip-rule="evenodd" d="M275 250V450H475V250H275Z" fill="black"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="275" y="250" width="200" height="200">
+<path id="Mask_6" fill-rule="evenodd" clip-rule="evenodd" d="M275 250V450H475V250H275Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<rect id="Img_2" x="258" y="234" width="266" height="253"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="225" y="240" width="300" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="40"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear" x1="787.062" y1="1334" x2="787.062" y2="1134" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="0" y1="0" x2="0" y2="1334" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFBDB8"/>
+<stop offset="1" stop-color="#FFBDB8" stop-opacity="0.01"/>
+</linearGradient>
+</defs>
+</svg>
